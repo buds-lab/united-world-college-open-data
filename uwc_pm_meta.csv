@@ -1,0 +1,79 @@
+UID,PointName,FriendlyPointName,PointType,,
+PC100818B:NAE55-1/Field Bus1.POWER AND BTU METER.IB MAIN BOARD POWER METER.Analog Inputs.AI-9.Present Value,IB Main Power Meter,IB_Main_Power_Meter,BlockMeter,,IB MB ACTIVE ENERGY + (KWH)
+PC100818B:NAE55-2/Field Bus1.Device-60021.Analog Inputs.AI-9.Present Value,SC Main Power Meter,SC_Main_Power_Meter,BlockMeter,,SC MB ENERGY
+PC100818B:NAE55-2/Field Bus1.Device-60022.Analog Inputs.AI-9.Present Value,SC SB Canteen Power Meter,SC_SB_Canteen_Power_Meter,BlockMeter,,SC CAN MB ENERGY
+PC100818B:NAE55-2/Field Bus1.Device-60023.Analog Inputs.AI-9.Present Value,SC MB Black Box Power Meter,SC_MB_Black_Box_Power_Meter,BlockMeter,,BBOX MB ENERGY
+PC100818B:NAE55-4/Field Bus1.Device-60056.Analog Inputs.AI-9.Present Value,Blk D Main Power Meter,Blk_D_Main_Power_Meter,BlockMeter,,BLK D MB KWH
+PC100818B:NAE55-4/Field Bus2.Device-60006.Analog Inputs.AI-9.Present Value,Main Building LT2 S8 Power Meter,Main_Building_LT2_S8_Power_Meter,LightingSubmeter,,BLK B MB S8 ACTIVE ENERGY + (KWH)
+PC100818B:NAE55-4/Field Bus2.Device-60007.Analog Inputs.AI-9.Present Value,EMSB Main Power Meter,EMSB_Main_Power_Meter,BlockMeter,,EMSB PM ACTIVE ENERGY + (KWH)
+PC100818B:NAE55-4/Field Bus2.Device-60008.Analog Inputs.AI-9.Present Value,Blk C Main Power Meter,Blk_C_Main_Power_Meter,BlockMeter,,BLK C MB ACTIVE ENERGY + (KWH)
+PC100818B:NAE55-4/Field Bus2.Device-60005.Analog Inputs.AI-9.Present Value,Main Building LT1 S6 Power Meter,Main_Building_LT1_S6_Power_Meter,LightingSubmeter,,BLK B MSB S6 ACTIVE ENERGY + (KWH)
+PC100818B:NAE55-5/Field Bus1.Device-60031.Analog Inputs.AI-9.Present Value,BH Main Power Meter,BH_Main_Power_Meter,BlockMeter,,BH MB ACTIVE ENERGY + (KWH)
+PC100818B:NAE55-6/Field Bus1.Device-60047.Analog Inputs.AI-9.Present Value,Blk A Main Power Meter,Blk_A_Main_Power_Meter,BlockMeter,,BLK A MB ACTIVE ENERGY + (KWH)
+PC100818B:NAE55-1/Field Bus1.POWER AND BTU METER.PAHU 1-1 POWER METER.Analog Inputs.AI-9.Present Value,IB PAHU 1-1 Power Meter,IB_PAHU_1_1_Power_Meter,AHUSubmeter,,IB PAHU 1-1 ENERGY (KWH)
+PC100818B:NAE55-1/Field Bus1.POWER AND BTU METER.PAHU 1-2 POWER METER.Analog Inputs.AI-9.Present Value,IB PAHU 1-2 Power Meter,IB_PAHU_1_2_Power_Meter,AHUSubmeter,,IB PAHU 1-2 ENERGY (KWH)
+PC100818B:NAE55-1/Field Bus1.POWER AND BTU METER.PAHU 1-3 POWER METER.Analog Inputs.AI-9.Present Value,IB PAHU 1-3 Power Meter,IB_PAHU_1_3_Power_Meter,AHUSubmeter,,IB PAHU 1-3 ENERGY (KWH)
+PC100818B:NAE55-2/Field Bus2.Device-60028.Analog Inputs.AI-9.Present Value,SC AHU MPH Power Meter,SC_AHU_MPH_Power_Meter,AHUSubmeter,,SC AHU MPH ENERGY (KWH)
+PC100818B:NAE55-2/Field Bus2.Device-60029.Analog Inputs.AI-9.Present Value,SC AHU 1 Power Meter,SC_AHU_1_Power_Meter,AHUSubmeter,,SC AHU 1 ENERGY (KWH)
+PC100818B:NAE55-2/Field Bus2.Device-60030.Analog Inputs.AI-9.Present Value,SC Black Box AHU Power Meter,SC_Black_Box_AHU_Power_Meter,AHUSubmeter,,SC AHU BBOX ENERGY (KWH)
+PC100818B:NAE55-2/Field Bus2.Device-60031.Analog Inputs.AI-9.Present Value,SC AHU 4 Power Meter,SC_AHU_4_Power_Meter,AHUSubmeter,,SC AHU 4 ENERGY KWH
+PC100818B:NAE55-2/Field Bus2.Device-60032.Analog Inputs.AI-9.Present Value,SC AHU 2 Power Meter,SC_AHU_2_Power_Meter,AHUSubmeter,,SC AHU 2 ENERGY (KWH)
+PC100818B:NAE55-2/Field Bus2.Device-60033.Analog Inputs.AI-9.Present Value,SC AHU 3 Power Meter,SC_AHU_3_Power_Meter,AHUSubmeter,,SC AHU 3 ENERGY KWH
+PC100818B:NAE55-3/Field Bus1.Device-60063.Analog Inputs.AI-9.Present Value,Blk B PAHU 6-1 Power Meter,Blk_B_PAHU_6_1_Power_Meter,AHUSubmeter,,BLK B PAHU 6-1 ENERGY
+PC100818B:NAE55-3/Field Bus1.Device-60064.Analog Inputs.AI-9.Present Value,Blk B PAHU 6-2  Power Meter,Blk_B_PAHU_6_2__Power_Meter,AHUSubmeter,,BLK B PAHU 6-2 ENERGY
+PC100818B:NAE55-3/Field Bus1.Device-60065.Analog Inputs.AI-9.Present Value,Blk B PAHU 6-3 Power Meter,Blk_B_PAHU_6_3_Power_Meter,AHUSubmeter,,BLK B PAHU 6-3 ENERGY
+PC100818B:NAE55-3/Field Bus1.Device-60066.Analog Inputs.AI-9.Present Value,Blk B PAHU 6-4 Power Meter,Blk_B_PAHU_6_4_Power_Meter,AHUSubmeter,,BLK B PAHU 6-4 ENERGY
+PC100818B:NAE55-3/Field Bus2.Device-60008.Analog Inputs.AI-9.Present Value,Blk B AHU EXAM Power Meter,Blk_B_AHU_EXAM_Power_Meter,AHUSubmeter,,BLK B AHU EXAM ENERGY
+PC100818B:NAE55-3/Field Bus2.Device-60009.Analog Inputs.AI-9.Present Value,Blk B AHU 1-1 Power Meter,Blk_B_AHU_1_1_Power_Meter,AHUSubmeter,,BLK B AHU 1-1 ENERGY
+PC100818B:NAE55-3/Field Bus2.Device-60010.Analog Inputs.AI-9.Present Value,Blk B AHU 1-2 Power Meter,Blk_B_AHU_1_2_Power_Meter,AHUSubmeter,,BLK B AHU 1-2 ENERGY
+PC100818B:NAE55-3/Field Bus2.Device-60011.Analog Inputs.AI-9.Present Value,Blk B AHU 1-3 Power Meter,Blk_B_AHU_1_3_Power_Meter,AHUSubmeter,,BLK B AHU 1-3 ENERGY
+PC100818B:NAE55-5/Field Bus1.Device-60029.Analog Inputs.AI-9.Present Value,BH PAHU 1 Power Meter,BH_PAHU_1_Power_Meter,AHUSubmeter,,PAHU BH 1 ENERGY (KWH)
+PC100818B:NAE55-5/Field Bus1.Device-60030.Analog Inputs.AI-9.Present Value,BH PAHU 2 Power Meter,BH_PAHU_2_Power_Meter,AHUSubmeter,,PAHU BH 2 ENERGY (KWH)
+PC100818B:NAE55-6/Field Bus1.Device-60058.Analog Inputs.AI-9.Present Value,Blk A AHU 5-1D Power Meter,Blk_A_AHU_5_1D_Power_Meter,AHUSubmeter,,BLK A AHU 5-1D ENERGY (KWH)
+PC100818B:NAE55-6/Field Bus1.Device-60043.Analog Inputs.AI-9.Present Value,Blk A AHU 3-1 Power Meter,Blk_A_AHU_3_1_Power_Meter,AHUSubmeter,,BLK A AHU 3-1 KHW
+PC100818B:NAE55-6/Field Bus1.Device-60056.Analog Inputs.AI-9.Present Value,Blk A AHU 5-1B Power Meter,Blk_A_AHU_5_1B_Power_Meter,AHUSubmeter,,BLK A AHU 5-1B ENERGY (KWH)
+PC100818B:NAE55-6/Field Bus1.Device-60057.Analog Inputs.AI-9.Present Value,Blk A AHU 5-1C Power Meter,Blk_A_AHU_5_1C_Power_Meter,AHUSubmeter,,BLK A AHU 5-1C ENERGY (KWH)
+PC100818B:NAE55-6/Field Bus1.Device-60059.Analog Inputs.AI-9.Present Value,Blk A PAHU 5-2 Power Meter,Blk_A_PAHU_5_2_Power_Meter,AHUSubmeter,,BLK A AHU 5-2 ENERGY (KWH)
+PC100818B:NAE55-6/Field Bus1.Device-60060.Analog Inputs.AI-9.Present Value,Blk A PAHU 6-1 Power Meter,Blk_A_PAHU_6_1_Power_Meter,AHUSubmeter,,BLK A AHU 6-1 ENERGY (KWH)
+PC100818B:NAE55-6/Field Bus1.Device-60061.Analog Inputs.AI-9.Present Value,Blk A PAHU 6-2 Power Meter,Blk_A_PAHU_6_2_Power_Meter,AHUSubmeter,,BLK A AHU 6-2 ENERGY (KWH)
+PC100818B:NAE55-6/Field Bus1.Device-60044.Analog Inputs.AI-9.Present Value,Blk A AHU 2-1 Power Meter,Blk_A_AHU_2_1_Power_Meter,AHUSubmeter,,BLK A AHU 2-1 ENERGY (KWH)
+PC100818B:NAE55-6/Field Bus1.Device-60045.Analog Inputs.AI-9.Present Value,Blk A AHU 1-1 Power Meter,Blk_A_AHU_1_1_Power_Meter,AHUSubmeter,,BLK A AHU 1-1 POWER METER ENERGY
+PC100818B:NAE55-6/Field Bus1.Device-60046.Analog Inputs.AI-9.Present Value,Blk A AHU 1-2 Power Meter,Blk_A_AHU_1_2_Power_Meter,AHUSubmeter,,BLK A AHU 1-2 POWERMETER ENERGY
+PC100818B:NAE55-6/Field Bus1.Device-60062.Analog Inputs.AI-9.Present Value,Blk A AHU 5-1A Power Meter,Blk_A_AHU_5_1A_Power_Meter,AHUSubmeter,,BLK A AHU 5-1A ENERGY (KWH)
+PC100818B:NAE55-2/Field Bus2.DDC 2-1 FX1.CAFE KWH.AV-17.Present Value,SC Cafe Power Meter,SC_Cafe_Power_Meter,SectionSubmeter,,SC MB OUT TO CAFE FINAL KWH
+PC100818B:NAE55-2/Field Bus2.DDC 2-11 FX1.DB POOL KWH.AV-32.Present Value,SC DB Pool Power Meter,SC_DB_Pool_Power_Meter,SectionSubmeter,,SC FINAL KWH
+PC100818B:NAE55-2/Field Bus1.DDC 1-1 FX1.FAN KWH.AV-7.Present Value,SC Carpark Exhaust Fan Power Meter,SC_Carpark_Exhaust_Fan_Power_Meter,SectionSubmeter,,SC CARPARK EAF 1-3 1-4 FINAL_KWH
+PC100818B:NAE55-4/Field Bus1.DDC EB1 5-3 FX2.EB1B 5COM KWH.FINAL_KWH.Present Value,Blk B Lvl 5 BLP Power Meter,Blk_B_Lvl_5_BLP_Power_Meter,LightingSubmeter,,BLK C 5BLP FINAL_KWH
+PC100818B:NAE55-5/Field Bus1.DDC SH 4-1 FX1.SH 4B OUTGOING KWH.AV-4.Present Value,BH #04-01 Power Meter,BH_04_01_Power_Meter,LightingSubmeter,,BH 4B FINAL KWH
+PC100818B:NAE55-5/Field Bus1.DDC SH 6-1 FX1.SH 6B OUTGOING KWH.AV-4.Present Value,BH #06-01 Power Meter,BH_06_01_Power_Meter,LIghtingSubmeter,,BH 6B FINAL KWH
+PC100818B:NAE55-5/Field Bus1.DDC SH 10-1 FX1.SH 10B OUTGOING KWH.AV-4.Present Value,BH #10-01 Power Meter,BH_10_01_Power_Meter,LIghtingSubmeter,,BH 10B FINAL KWH
+PC100818B:NAE55-5/Field Bus1.DDC SH 12-1 FX1.SH 12B OUTGOING KWH.AV-4.Present Value,BH #12-01 Power Meter,BH_12_01_Power_Meter,LIghtingSubmeter,,BH 12A FINAL KWH
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-3 FX1.EB2 SB.AV-14.Present Value,Blk A SB Power Meter,Blk_A_SB_Power_Meter,LIghtingSubmeter,,BLK A SB FINAL_KWH
+PC100818B:NAE55-3/Field Bus1.DDC EB1 3-5 FX2.EDB1C 3LCP1.AV-7.Present Value,Blk B Lvl 3 LP1 Power Meter,Blk_B_Lvl_3_LP1_Power_Meter,LightingSubmeter,,BLK B 3LP1 FINAL_KWH
+PC100818B:NAE55-3/Field Bus1.DDC EB1 3-5 FX2.EDB1C 3LCP2.AV-8.Present Value,Blk B Lvl 3 LP2 Power Meter,Blk_B_Lvl_3_LP2_Power_Meter,LightingSubmeter,,BLK B 3LP2 FINAL_KWH
+PC100818B:NAE55-3/Field Bus1.DDC EB1 4-5 FX2.EDB1C 4LP1.AV-7.Present Value,Blk B Lvl 4 LP1 Power Meter,Blk_B_Lvl_4_LP1_Power_Meter,LightingSubmeter,,BLK B 4LP1 FINAL_KWH
+PC100818B:NAE55-3/Field Bus1.DDC EB1 4-5 FX2.EDB1C 4LP2.AV-8.Present Value,Blk B Lvl 4 LP2 Power Meter,Blk_B_Lvl_4_LP2_Power_Meter,LightingSubmeter,,BLK B 4LP2 FINAL_KWH
+PC100818B:NAE55-3/Field Bus1.DDC EB1 5-5 FX2.EDB1C 5LP1.AV-7.Present Value,Blk B Lvl 5 LP1 Power Meter,Blk_B_Lvl_5_LP1_Power_Meter,LightingSubmeter,,BLK B 5LP1 FINAL_KWH
+PC100818B:NAE55-3/Field Bus1.DDC EB1 5-5 FX2.EDB1C 5LP2.AV-8.Present Value,Blk B Lvl 5 LP2 Power Meter,Blk_B_Lvl_5_LP2_Power_Meter,LightingSubmeter,,BLK B 5LP2 FINAL_KWH
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-4 FX2.EDB1C 6BLAB.FINAL_KWH.Present Value,Blk B Lvl 6 BLAB Power Meter,Blk_B_Lvl_6_BLAB_Power_Meter,LightingSubmeter,,BLK B 6BLAB FINAL_KWH
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-4 FX2.EDB1C 6CLAB.FINAL_KWH.Present Value,Blk B Lvl 6 CLAB Power Meter,Blk_B_Lvl_6_CLAB_Power_Meter,LightingSubmeter,,BLK B 6CLAB FINAL_KWH
+PC100818B:NAE55-2/Field Bus1.DDC 1-5 FX1.DB JSH KWH1.AV-10.Present Value,SC JSH 1 Power Meter,SC_JSH_1_Power_Meter,LightingSubmeter,,SC JSH KWH 3
+PC100818B:NAE55-2/Field Bus1.DDC 1-6 FX1.DB JSH KWH3.AV-7.Present Value,SC JSH 1 Power Meter,SC_JSH_1_Power_Meter,LightingSubmeter,,SC DB JSH FINAL KWH 1
+PC100818B:NAE55-2/Field Bus1.DDC 1-10 FX1.DB SSH KWH 1.AV-10.Present Value,SC SSH 1 Power Meter,SC_SSH_1_Power_Meter,LightingSubmeter,,SC DB SSH FINAL KWH 1
+PC100818B:NAE55-2/Field Bus2.DDC 2-1 FX1.SB KWH.AV-16.Present Value,SC SB Carpark Main Meter,SC_SB_Carpark_Main_Meter,SectionSubmeter,,SC SB FINAL KWH
+PC100818B:NAE55-5/Field Bus1.DDC SH 8-1 FX2.SH 8B OUTGOING KWH.AV-4.Present Value,BH #08-01 Power Meter,BH_08_01_Power_Meter,LightingSubmeter,,BH 8B FINAL KWH
+PC100818B:NAE55-2/Field Bus2.DDC 2-1 FX1.SHOP KWH.AV-18.Present Value,SC Shop Power Meter,SC_Shop_Power_Meter,LightingSubmeter,,SC MB OUT TO SHOP FINAL KWH
+PC100818B:NAE55-4/Field Bus1.DDC EB1 6-2 FX2.EDB1B 6PLAB.KWH_6PLAB_FINAL.Present Value,Blk C Lvl 6 PLAB Power Meter,Blk_C_Lvl_6_PLAB_Power_Meter,LightingSubmeter,,BLK C 6PLAB KWH FINAL
+PC100818B:NAE55-4/Field Bus1.DDC EB1 6-2 FX2.EDB1B 6SLAB.KWH_6SLAB_FINAL.Present Value,Blk C Lvl 6 SLAB Power Meter,Blk_C_Lvl_6_SLAB_Power_Meter,LightingSubmeter,,BLK C 6SLAB KWH FINAL
+PC100818B:NAE55-4/Field Bus2.Device-60004.Analog Inputs.AI-9.Present Value,Blk B Main Power Meter,Blk_B_Main_Power_Meter,BlockMeter,,BLK B MB ACTIVE ENERGY + (KWH)
+PC100818B:NAE55-2/Field Bus2.DDC 2-1 FX1.SB KWH.KWH.Present Value,SC Canteen Kitchen Power Meter,SC_Canteen_Kitchen_Power_Meter,SectionSubmeter,,KWH
+PC100818B:NAE55-4/Field Bus1.Device-60049.Analog Inputs.AI-9.Present Value,Blk C PAHU 6-5 Power Meter,Blk_C_PAHU_6_5_Power_Meter,AHUSubmeter,,BLK C PAHU 6-5 ENERGY
+PC100818B:NAE55-4/Field Bus1.Device-60050.Analog Inputs.AI-9.Present Value,Blk C PAHU 6-6 Power Meter,Blk_C_PAHU_6_6_Power_Meter,AHUSubmeter,,BLK C PAHU 6-6 ENERGY
+PC100818B:NAE55-4/Field Bus1.Device-60051.Analog Inputs.AI-9.Present Value,Blk C PAHU 6-7 Power Meter,Blk_C_PAHU_6_7_Power_Meter,AHUSubmeter,,BLK D PAHU 6-7 ENERGY
+PC100818B:NAE55-4/Field Bus1.Device-60052.Analog Inputs.AI-9.Present Value,Blk D PAHU 6-8 Power Meter,Blk_D_PAHU_6_8_Power_Meter,AHUSubmeter,,BLK D PAHU 6-8 ENERGY
+PC100818B:NAE55-4/Field Bus1.Device-60053.Analog Inputs.AI-9.Present Value,Blk D PAHU 6-9 Power Meter,Blk_D_PAHU_6_9_Power_Meter,AHUSubmeter,,BLK D PAHU 6-9 ENERGY
+PC100818B:NAE55-4/Field Bus1.Device-60055.Analog Inputs.AI-9.Present Value,Blk D AHU 2-1 Power Meter,Blk_D_AHU_2_1_Power_Meter,AHUSubmeter,,BLK D AHU 2-1 ENERGY
+PC100818B:NAE55-1/Programming.FAN & LIGHTING kWH.DB LP2 kWH.Present Value,IB Lvl 2 LP Power Meter,IB_Lvl_2_LP_Power_Meter,LightingSubmeter,,DB LP2 kWH
+PC100818B:NAE55-1/Programming.FAN & LIGHTING kWH.DB LP3 kWH.Present Value,IB Lvl 3 LP Power Meter,IB_Lvl_3_LP_Power_Meter,LightingSubmeter,,DB LP3 kWH
+PC100818B:NAE55-1/Programming.FAN & LIGHTING kWH.DB LP4 kWH.Present Value,IB Lvl 4 LP Power Meter,IB_Lvl_4_LP_Power_Meter,LightingSubmeter,,DB LP4 kWH
+PC100818B:NAE55-2/Programming.FINAL DB SSH KWH1.Present Value,SC SSH 1 Power Meter,SC_SSH_1_Power_Meter,SectionSubmeter,,FINAL DB SSH KWH1

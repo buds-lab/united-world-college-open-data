@@ -1,0 +1,989 @@
+UID,FriendlyPointNameV2,FriendlyPointNameV3,LocationTag,EquipTag,PointTag,Category,Class
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-3 FX1.AHU 1-1.CO2.Present Value,BA AHU 1-1 CO2Sensor,BA_AHU_1_1_CO2Sensor,BA,AHU 1-1,CO2Sensor,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-3 FX1.AHU 1-1.RH.Present Value,BA AHU 1-1 Humidity,BA_AHU_1_1_Humidity,BA,AHU 1-1,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-3 FX1.AHU 1-1.OFFCOIL TEMP.Present Value,BA AHU 1-1 OffcoilTemp,BA_AHU_1_1_OffcoilTemp,BA,AHU 1-1,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-3 FX1.AHU 1-1.STATUS.Present Value,BA AHU 1-1 OnOffStatus,BA_AHU_1_1_OnOffStatus,BA,AHU 1-1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-3 FX1.AHU 1-1.RETURN AIR TEMP.Present Value,BA AHU 1-1 ReturnAirTemp,BA_AHU_1_1_ReturnAirTemp,BA,AHU 1-1,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-3 FX1.AHU 1-1.STATIC PRESSURE.Present Value,BA AHU 1-1 StaticPressure,BA_AHU_1_1_StaticPressure,BA,AHU 1-1,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-3 FX1.AHU 1-1.SUPPLY AIR TEMP.Present Value,BA AHU 1-1 SupplyAirTemp,BA_AHU_1_1_SupplyAirTemp,BA,AHU 1-1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-1 FX1.AHU 1-2.CO2.Present Value,BA AHU 1-2 CO2Sensor,BA_AHU_1_2_CO2Sensor,BA,AHU 1-2,CO2Sensor,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-1 FX1.AHU 1-2.RH.Present Value,BA AHU 1-2 Humidity,BA_AHU_1_2_Humidity,BA,AHU 1-2,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-1 FX1.AHU 1-2.OFFCOIL TEMP.Present Value,BA AHU 1-2 OffcoilTemp,BA_AHU_1_2_OffcoilTemp,BA,AHU 1-2,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-1 FX1.AHU 1-2.STATUS.Present Value,BA AHU 1-2 OnOffStatus,BA_AHU_1_2_OnOffStatus,BA,AHU 1-2,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-1 FX1.AHU 1-2.RETURN AIR TEMP.Present Value,BA AHU 1-2 ReturnAirTemp,BA_AHU_1_2_ReturnAirTemp,BA,AHU 1-2,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-1 FX1.AHU 1-2.STATIC PRESSURE.Present Value,BA AHU 1-2 StaticPressure,BA_AHU_1_2_StaticPressure,BA,AHU 1-2,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 1-1 FX1.AHU 1-2.SUPPLY AIR TEMP.Present Value,BA AHU 1-2 SupplyAirTemp,BA_AHU_1_2_SupplyAirTemp,BA,AHU 1-2,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 2-2 FX1.AHU 2-1.CO2.Present Value,BA AHU 2-1 CO2Sensor,BA_AHU_2_1_CO2Sensor,BA,AHU 2-1,CO2Sensor,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 2-2 FX1.AHU 2-1.RH.Present Value,BA AHU 2-1 Humidity,BA_AHU_2_1_Humidity,BA,AHU 2-1,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 2-2 FX1.AHU 2-1.OFFCOIL TEMP.Present Value,BA AHU 2-1 OffcoilTemp,BA_AHU_2_1_OffcoilTemp,BA,AHU 2-1,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 2-2 FX1.AHU 2-1.STATUS.Present Value,BA AHU 2-1 OnOffStatus,BA_AHU_2_1_OnOffStatus,BA,AHU 2-1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 2-2 FX1.AHU 2-1.RETURN AIR TEMP.Present Value,BA AHU 2-1 ReturnAirTemp,BA_AHU_2_1_ReturnAirTemp,BA,AHU 2-1,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 2-2 FX1.AHU 2-1.STATIC PRESSURE.Present Value,BA AHU 2-1 StaticPressure,BA_AHU_2_1_StaticPressure,BA,AHU 2-1,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 2-2 FX1.AHU 2-1.SUPPLY AIR TEMP.Present Value,BA AHU 2-1 SupplyAirTemp,BA_AHU_2_1_SupplyAirTemp,BA,AHU 2-1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 3-2 FX1.AHU 3-1.CO2.Present Value,BA AHU 3-1 CO2Sensor,BA_AHU_3_1_CO2Sensor,BA,AHU 3-1,CO2Sensor,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 3-2 FX1.AHU 3-1.RH.Present Value,BA AHU 3-1 Humidity,BA_AHU_3_1_Humidity,BA,AHU 3-1,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 3-2 FX1.AHU 3-1.OFFCOIL TEMP.Present Value,BA AHU 3-1 OffcoilTemp,BA_AHU_3_1_OffcoilTemp,BA,AHU 3-1,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 3-2 FX1.AHU 3-1.STATUS.Present Value,BA AHU 3-1 OnOffStatus,BA_AHU_3_1_OnOffStatus,BA,AHU 3-1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 3-2 FX1.AHU 3-1.RETURN AIR TEMP.Present Value,BA AHU 3-1 ReturnAirTemp,BA_AHU_3_1_ReturnAirTemp,BA,AHU 3-1,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 3-2 FX1.AHU 3-1.STATIC PRESSURE.Present Value,BA AHU 3-1 StaticPressure,BA_AHU_3_1_StaticPressure,BA,AHU 3-1,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 3-2 FX1.AHU 3-1.SUPPLY AIR TEMP.Present Value,BA AHU 3-1 SupplyAirTemp,BA_AHU_3_1_SupplyAirTemp,BA,AHU 3-1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-3 FX1.AHU 5-1A.STATIC PRESSURE.Present Value,BA AHU 5-1A CO2Sensor,BA_AHU_5_1A_CO2Sensor,BA,AHU 5-1A,CO2Sensor,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-3 FX1.AHU 5-1A.RH.Present Value,BA AHU 5-1A Humidity,BA_AHU_5_1A_Humidity,BA,AHU 5-1A,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-3 FX1.AHU 5-1A.OFFCOIL TEMP.Present Value,BA AHU 5-1A OffcoilTemp,BA_AHU_5_1A_OffcoilTemp,BA,AHU 5-1A,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-3 FX1.AHU 5-1A.STATUS.Present Value,BA AHU 5-1A OnOffStatus,BA_AHU_5_1A_OnOffStatus,BA,AHU 5-1A,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-3 FX1.AHU 5-1A.RETURN AIR TEMP.Present Value,BA AHU 5-1A ReturnAirTemp,BA_AHU_5_1A_ReturnAirTemp,BA,AHU 5-1A,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-3 FX1.AHU 5-1A.STATIC PRESSURE.Present Value,BA AHU 5-1A StaticPressure,BA_AHU_5_1A_StaticPressure,BA,AHU 5-1A,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-3 FX1.AHU 5-1A.SUPPLY AIR TEMP.Present Value,BA AHU 5-1A SupplyAirTemp,BA_AHU_5_1A_SupplyAirTemp,BA,AHU 5-1A,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-4 FX1.AHU 5-1B.CO2.Present Value,BA AHU 5-1B CO2Sensor,BA_AHU_5_1B_CO2Sensor,BA,AHU 5-1B,CO2Sensor,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-4 FX1.AHU 5-1B.RH.Present Value,BA AHU 5-1B Humidity,BA_AHU_5_1B_Humidity,BA,AHU 5-1B,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-4 FX1.AHU 5-1B.OFFCOIL TEMP.Present Value,BA AHU 5-1B OffcoilTemp,BA_AHU_5_1B_OffcoilTemp,BA,AHU 5-1B,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-4 FX1.AHU 5-1B.STATUS.Present Value,BA AHU 5-1B OnOffStatus,BA_AHU_5_1B_OnOffStatus,BA,AHU 5-1B,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-4 FX1.AHU 5-1B.RETURN AIR TEMP.Present Value,BA AHU 5-1B ReturnAirTemp,BA_AHU_5_1B_ReturnAirTemp,BA,AHU 5-1B,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-4 FX1.AHU 5-1B.STATIC PRESSURE.Present Value,BA AHU 5-1B StaticPressure,BA_AHU_5_1B_StaticPressure,BA,AHU 5-1B,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-4 FX1.AHU 5-1B.SUPPLY AIR TEMP.Present Value,BA AHU 5-1B SupplyAirTemp,BA_AHU_5_1B_SupplyAirTemp,BA,AHU 5-1B,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-5 FX1.AHU 5-1C.CO2.Present Value,BA AHU 5-1C CO2Sensor,BA_AHU_5_1C_CO2Sensor,BA,AHU 5-1C,CO2Sensor,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-5 FX1.AHU 5-1C.RH.Present Value,BA AHU 5-1C Humidity,BA_AHU_5_1C_Humidity,BA,AHU 5-1C,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-5 FX1.AHU 5-1C.OFFCOIL TEMP.Present Value,BA AHU 5-1C OffcoilTemp,BA_AHU_5_1C_OffcoilTemp,BA,AHU 5-1C,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-5 FX1.AHU 5-1C.STATUS.Present Value,BA AHU 5-1C OnOffStatus,BA_AHU_5_1C_OnOffStatus,BA,AHU 5-1C,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-5 FX1.AHU 5-1C.RETURN AIR TEMP.Present Value,BA AHU 5-1C ReturnAirTemp,BA_AHU_5_1C_ReturnAirTemp,BA,AHU 5-1C,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-5 FX1.AHU 5-1C.STATIC PRESSURE.Present Value,BA AHU 5-1C StaticPressure,BA_AHU_5_1C_StaticPressure,BA,AHU 5-1C,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-5 FX1.AHU 5-1C.SUPPLY AIR TEMP.Present Value,BA AHU 5-1C SupplyAirTemp,BA_AHU_5_1C_SupplyAirTemp,BA,AHU 5-1C,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-6 FX1.AHU 5-1D.CO2.Present Value,BA AHU 5-1D CO2Sensor,BA_AHU_5_1D_CO2Sensor,BA,AHU 5-1D,CO2Sensor,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-6 FX1.AHU 5-1D.RH.Present Value,BA AHU 5-1D Humidity,BA_AHU_5_1D_Humidity,BA,AHU 5-1D,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-6 FX1.AHU 5-1D.OFFCOIL TEMP.Present Value,BA AHU 5-1D OffcoilTemp,BA_AHU_5_1D_OffcoilTemp,BA,AHU 5-1D,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-6 FX1.AHU 5-1D.STATUS.Present Value,BA AHU 5-1D OnOffStatus,BA_AHU_5_1D_OnOffStatus,BA,AHU 5-1D,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-6 FX1.AHU 5-1D.RETURN AIR TEMP.Present Value,BA AHU 5-1D ReturnAirTemp,BA_AHU_5_1D_ReturnAirTemp,BA,AHU 5-1D,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-6 FX1.AHU 5-1D.STATIC PRESSURE.Present Value,BA AHU 5-1D StaticPressure,BA_AHU_5_1D_StaticPressure,BA,AHU 5-1D,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-6 FX1.AHU 5-1D.SUPPLY AIR TEMP.Present Value,BA AHU 5-1D SupplyAirTemp,BA_AHU_5_1D_SupplyAirTemp,BA,AHU 5-1D,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-2 FX1.PAHU 5-2.RH.Present Value,BA PAHU 5-2 Humidity,BA_PAHU_5_2_Humidity,BA,PAHU 5-2,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-2 FX1.PAHU 5-2.OFFCOIL TEMP.Present Value,BA PAHU 5-2 OffcoilTemp,BA_PAHU_5_2_OffcoilTemp,BA,PAHU 5-2,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-2 FX1.PAHU 5-2.STATUS.Present Value,BA PAHU 5-2 OnOffStatus,BA_PAHU_5_2_OnOffStatus,BA,PAHU 5-2,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-2 FX1.PAHU 5-2.STATIC PRESSURE.Present Value,BA PAHU 5-2 StaticPressure,BA_PAHU_5_2_StaticPressure,BA,PAHU 5-2,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 5-2 FX1.PAHU 5-2.SUPPLY AIR TEMP.Present Value,BA PAHU 5-2 SupplyAirTemp,BA_PAHU_5_2_SupplyAirTemp,BA,PAHU 5-2,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 R-1 FX1.PAHU 6-1.RH.Present Value,BA PAHU 6-1 Humidity,BA_PAHU_6_1_Humidity,BA,PAHU 6-1,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 R-1 FX1.PAHU 6-1.OFFCOIL TEMP.Present Value,BA PAHU 6-1 OffcoilTemp,BA_PAHU_6_1_OffcoilTemp,BA,PAHU 6-1,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 R-1 FX1.PAHU 6-1.STATUS.Present Value,BA PAHU 6-1 OnOffStatus,BA_PAHU_6_1_OnOffStatus,BA,PAHU 6-1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 R-1 FX1.PAHU 6-1.STATIC PRESSURE.Present Value,BA PAHU 6-1 StaticPressure,BA_PAHU_6_1_StaticPressure,BA,PAHU 6-1,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 R-1 FX1.PAHU 6-1.SUPPLY AIR TEMP.Present Value,BA PAHU 6-1 SupplyAirTemp,BA_PAHU_6_1_SupplyAirTemp,BA,PAHU 6-1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 R-1 FX2.PAHU 6-2.RH.Present Value,BA PAHU 6-2 Humidity,BA_PAHU_6_2_Humidity,BA,PAHU 6-2,Humidity,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 R-1 FX2.PAHU 6-2.OFFCOIL TEMP.Present Value,BA PAHU 6-2 OffcoilTemp,BA_PAHU_6_2_OffcoilTemp,BA,PAHU 6-2,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 R-1 FX2.PAHU 6-2.STATUS.Present Value,BA PAHU 6-2 OnOffStatus,BA_PAHU_6_2_OnOffStatus,BA,PAHU 6-2,OnOffStatus,Airside,Binary
+PC100818B:NAE55-6/Field Bus1.DDC EB2 R-1 FX2.PAHU 6-2.STATIC PRESSURE.Present Value,BA PAHU 6-2 StaticPressure,BA_PAHU_6_2_StaticPressure,BA,PAHU 6-2,StaticPressure,Airside,Analog
+PC100818B:NAE55-6/Field Bus1.DDC EB2 R-1 FX2.PAHU 6-2.SUPPLY AIR TEMP.Present Value,BA PAHU 6-2 SupplyAirTemp,BA_PAHU_6_2_SupplyAirTemp,BA,PAHU 6-2,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX1.AHU 1-1.CO2.Present Value,BB AHU 1-1 CO2Sensor,BB_AHU_1_1_CO2Sensor,BB,AHU 1-1,CO2Sensor,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX1.AHU 1-1.RH.Present Value,BB AHU 1-1 Humidity,BB_AHU_1_1_Humidity,BB,AHU 1-1,Humidity,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX1.AHU 1-1.OFFCOIL TEMP.Present Value,BB AHU 1-1 OffcoilTemp,BB_AHU_1_1_OffcoilTemp,BB,AHU 1-1,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX1.AHU 1-1.STATUS.Present Value,BB AHU 1-1 OnOffStatus,BB_AHU_1_1_OnOffStatus,BB,AHU 1-1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX1.AHU 1-1.RETURN AIR TEMP.Present Value,BB AHU 1-1 ReturnAirTemp,BB_AHU_1_1_ReturnAirTemp,BB,AHU 1-1,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX1.AHU 1-1.STATIC PRESSURE.Present Value,BB AHU 1-1 StaticPressure,BB_AHU_1_1_StaticPressure,BB,AHU 1-1,StaticPressure,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX1.AHU 1-1.SUPPLY AIR TEMP.Present Value,BB AHU 1-1 SupplyAirTemp,BB_AHU_1_1_SupplyAirTemp,BB,AHU 1-1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-11 FX1.AHU 1-2.CO2.Present Value,BB AHU 1-2 CO2Sensor,BB_AHU_1_2_CO2Sensor,BB,AHU 1-2,CO2Sensor,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-11 FX1.AHU 1-2.RH.Present Value,BB AHU 1-2 Humidity,BB_AHU_1_2_Humidity,BB,AHU 1-2,Humidity,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-11 FX1.AHU 1-2.OFFCOIL TEMP.Present Value,BB AHU 1-2 OffcoilTemp,BB_AHU_1_2_OffcoilTemp,BB,AHU 1-2,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-11 FX1.AHU 1-2.STATUS.Present Value,BB AHU 1-2 OnOffStatus,BB_AHU_1_2_OnOffStatus,BB,AHU 1-2,OnOffStatus,Airside,Binary
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-11 FX1.AHU 1-2.RETURN AIR TEMP.Present Value,BB AHU 1-2 ReturnAirTemp,BB_AHU_1_2_ReturnAirTemp,BB,AHU 1-2,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-11 FX1.AHU 1-2.STATIC PRESSURE.Present Value,BB AHU 1-2 StaticPressure,BB_AHU_1_2_StaticPressure,BB,AHU 1-2,StaticPressure,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-11 FX1.AHU 1-2.SUPPLY AIR TEMP.Present Value,BB AHU 1-2 SupplyAirTemp,BB_AHU_1_2_SupplyAirTemp,BB,AHU 1-2,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-13 FX1.AHU 1-3.CO2.Present Value,BB AHU 1-3 CO2Sensor,BB_AHU_1_3_CO2Sensor,BB,AHU 1-3,CO2Sensor,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-13 FX1.AHU 1-3.RH.Present Value,BB AHU 1-3 Humidity,BB_AHU_1_3_Humidity,BB,AHU 1-3,Humidity,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-13 FX1.AHU 1-3.OFFCOIL TEMP.Present Value,BB AHU 1-3 OffcoilTemp,BB_AHU_1_3_OffcoilTemp,BB,AHU 1-3,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-13 FX1.AHU 1-3.STATUS.Present Value,BB AHU 1-3 OnOffStatus,BB_AHU_1_3_OnOffStatus,BB,AHU 1-3,OnOffStatus,Airside,Binary
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-13 FX1.AHU 1-3.RETURN AIR TEMP.Present Value,BB AHU 1-3 ReturnAirTemp,BB_AHU_1_3_ReturnAirTemp,BB,AHU 1-3,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-13 FX1.AHU 1-3.STATIC PRESSURE.Present Value,BB AHU 1-3 StaticPressure,BB_AHU_1_3_StaticPressure,BB,AHU 1-3,StaticPressure,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-13 FX1.AHU 1-3.SUPPLY AIR TEMP.Present Value,BB AHU 1-3 SupplyAirTemp,BB_AHU_1_3_SupplyAirTemp,BB,AHU 1-3,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX2.AHU EXAM.CO2.Present Value,BB AHU EXAM CO2Sensor,BB_AHU_EXAM_CO2Sensor,BB,AHU EXAM,CO2Sensor,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX2.AHU EXAM.RH.Present Value,BB AHU EXAM Humidity,BB_AHU_EXAM_Humidity,BB,AHU EXAM,Humidity,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX2.AHU EXAM.OFFCOIL TEMP.Present Value,BB AHU EXAM OffcoilTemp,BB_AHU_EXAM_OffcoilTemp,BB,AHU EXAM,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX2.AHU EXAM.STATUS.Present Value,BB AHU EXAM OnOffStatus,BB_AHU_EXAM_OnOffStatus,BB,AHU EXAM,OnOffStatus,Airside,Binary
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX2.AHU EXAM.RETURN AIR TEMP.Present Value,BB AHU EXAM ReturnAirTemp,BB_AHU_EXAM_ReturnAirTemp,BB,AHU EXAM,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX2.AHU EXAM.STATIC PRESSURE.Present Value,BB AHU EXAM StaticPressure,BB_AHU_EXAM_StaticPressure,BB,AHU EXAM,StaticPressure,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 1-14 FX2.AHU EXAM.SUPPLY AIR TEMP.Present Value,BB AHU EXAM SupplyAirTemp,BB_AHU_EXAM_SupplyAirTemp,BB,AHU EXAM,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-3 FX1.PAHU 6-1.RH.Present Value,BB PAHU 6-1 Humidity,BB_PAHU_6_1_Humidity,BB,PAHU 6-1,Humidity,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-3 FX1.PAHU 6-1.OFFCOIL TEMP.Present Value,BB PAHU 6-1 OffcoilTemp,BB_PAHU_6_1_OffcoilTemp,BB,PAHU 6-1,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-3 FX1.PAHU 6-1.STATUS.Present Value,BB PAHU 6-1 OnOffStatus,BB_PAHU_6_1_OnOffStatus,BB,PAHU 6-1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-3 FX1.PAHU 6-1.STATIC PRESSURE.Present Value,BB PAHU 6-1 StaticPressure,BB_PAHU_6_1_StaticPressure,BB,PAHU 6-1,StaticPressure,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-3 FX1.PAHU 6-1.SUPPLY AIR TEMP.Present Value,BB PAHU 6-1 SupplyAirTemp,BB_PAHU_6_1_SupplyAirTemp,BB,PAHU 6-1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-3 FX2.PAHU 6-2.RH.Present Value,BB PAHU 6-2 Humidity,BB_PAHU_6_2_Humidity,BB,PAHU 6-2,Humidity,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-3 FX2.PAHU 6-2.OFFCOIL TEMP.Present Value,BB PAHU 6-2 OffcoilTemp,BB_PAHU_6_2_OffcoilTemp,BB,PAHU 6-2,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-3 FX2.PAHU 6-2.STATUS.Present Value,BB PAHU 6-2 OnOffStatus,BB_PAHU_6_2_OnOffStatus,BB,PAHU 6-2,OnOffStatus,Airside,Binary
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-3 FX2.PAHU 6-2.STATIC PRESSURE.Present Value,BB PAHU 6-2 StaticPressure,BB_PAHU_6_2_StaticPressure,BB,PAHU 6-2,StaticPressure,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-3 FX2.PAHU 6-2.SUPPLY AIR TEMP.Present Value,BB PAHU 6-2 SupplyAirTemp,BB_PAHU_6_2_SupplyAirTemp,BB,PAHU 6-2,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-5 FX1.PAHU 6-3.RH.Present Value,BB PAHU 6-3 Humidity,BB_PAHU_6_3_Humidity,BB,PAHU 6-3,Humidity,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-5 FX1.PAHU 6-3.OFFCOIL TEMP.Present Value,BB PAHU 6-3 OffcoilTemp,BB_PAHU_6_3_OffcoilTemp,BB,PAHU 6-3,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-5 FX1.PAHU 6-3.STATUS.Present Value,BB PAHU 6-3 OnOffStatus,BB_PAHU_6_3_OnOffStatus,BB,PAHU 6-3,OnOffStatus,Airside,Binary
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-5 FX1.PAHU 6-3.STATIC PRESSURE.Present Value,BB PAHU 6-3 StaticPressure,BB_PAHU_6_3_StaticPressure,BB,PAHU 6-3,StaticPressure,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-5 FX1.PAHU 6-3.SUPPLY AIR TEMP.Present Value,BB PAHU 6-3 SupplyAirTemp,BB_PAHU_6_3_SupplyAirTemp,BB,PAHU 6-3,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-5 FX2.PAHU 6-4.RH.Present Value,BB PAHU 6-4 Humidity,BB_PAHU_6_4_Humidity,BB,PAHU 6-4,Humidity,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-5 FX2.PAHU 6-4.OFFCOIL TEMP.Present Value,BB PAHU 6-4 OffcoilTemp,BB_PAHU_6_4_OffcoilTemp,BB,PAHU 6-4,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-5 FX2.PAHU 6-4.STATUS.Present Value,BB PAHU 6-4 OnOffStatus,BB_PAHU_6_4_OnOffStatus,BB,PAHU 6-4,OnOffStatus,Airside,Binary
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-5 FX2.PAHU 6-4.STATIC PRESSURE.Present Value,BB PAHU 6-4 StaticPressure,BB_PAHU_6_4_StaticPressure,BB,PAHU 6-4,StaticPressure,Airside,Analog
+PC100818B:NAE55-3/Field Bus1.DDC EB1 6-5 FX2.PAHU 6-4.SUPPLY AIR TEMP.Present Value,BB PAHU 6-4 SupplyAirTemp,BB_PAHU_6_4_SupplyAirTemp,BB,PAHU 6-4,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-6 FX1.PAHU 6-5.RH.Present Value,BC PAHU 6-5 Humidity,BC_PAHU_6_5_Humidity,BC,PAHU 6-5,Humidity,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-6 FX1.PAHU 6-5.OFFCOIL TEMP.Present Value,BC PAHU 6-5 OffcoilTemp,BC_PAHU_6_5_OffcoilTemp,BC,PAHU 6-5,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-6 FX1.PAHU 6-5.STATUS.Present Value,BC PAHU 6-5 OnOffStatus,BC_PAHU_6_5_OnOffStatus,BC,PAHU 6-5,OnOffStatus,Airside,Binary
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-6 FX1.PAHU 6-5.STATIC PRESSURE.Present Value,BC PAHU 6-5 StaticPressure,BC_PAHU_6_5_StaticPressure,BC,PAHU 6-5,StaticPressure,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-6 FX1.PAHU 6-5.SUPPLY AIR TEMP.Present Value,BC PAHU 6-5 SupplyAirTemp,BC_PAHU_6_5_SupplyAirTemp,BC,PAHU 6-5,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-5 FX1.PAHU 6-6.RH.Present Value,BC PAHU 6-6 Humidity,BC_PAHU_6_6_Humidity,BC,PAHU 6-6,Humidity,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-5 FX1.PAHU 6-6.OFFCOIL TEMP.Present Value,BC PAHU 6-6 OffcoilTemp,BC_PAHU_6_6_OffcoilTemp,BC,PAHU 6-6,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-5 FX1.PAHU 6-6.STATUS.Present Value,BC PAHU 6-6 OnOffStatus,BC_PAHU_6_6_OnOffStatus,BC,PAHU 6-6,OnOffStatus,Airside,Binary
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-5 FX1.PAHU 6-6.STATIC PRESSURE.Present Value,BC PAHU 6-6 StaticPressure,BC_PAHU_6_6_StaticPressure,BC,PAHU 6-6,StaticPressure,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-5 FX1.PAHU 6-6.SUPPLY AIR TEMP.Present Value,BC PAHU 6-6 SupplyAirTemp,BC_PAHU_6_6_SupplyAirTemp,BC,PAHU 6-6,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 2-2 FX1.AHU 2-1.CO2.Present Value,BD AHU 2-1 CO2Sensor,BD_AHU_2_1_CO2Sensor,BD,AHU 2-1,CO2Sensor,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 2-2 FX1.AHU 2-1.RH.Present Value,BD AHU 2-1 Humidity,BD_AHU_2_1_Humidity,BD,AHU 2-1,Humidity,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 2-2 FX1.AHU 2-1.OFFCOIL TEMP.Present Value,BD AHU 2-1 OffcoilTemp,BD_AHU_2_1_OffcoilTemp,BD,AHU 2-1,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 2-2 FX1.AHU 2-1.STATUS.Present Value,BD AHU 2-1 OnOffStatus,BD_AHU_2_1_OnOffStatus,BD,AHU 2-1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-4/Field Bus1.DDC EB1 2-2 FX1.AHU 2-1.RETURN AIR TEMP.Present Value,BD AHU 2-1 ReturnAirTemp,BD_AHU_2_1_ReturnAirTemp,BD,AHU 2-1,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 2-2 FX1.AHU 2-1.STATIC PRESSURE.Present Value,BD AHU 2-1 StaticPressure,BD_AHU_2_1_StaticPressure,BD,AHU 2-1,StaticPressure,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 2-2 FX1.AHU 2-1.SUPPLY AIR TEMP.Present Value,BD AHU 2-1 SupplyAirTemp,BD_AHU_2_1_SupplyAirTemp,BD,AHU 2-1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-1 FX1.FCU 1-1.STATUS.Present Value,BD FCU 1-1 OnOffStatus,BD_FCU_1_1_OnOffStatus,BD,FCU 1-1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-1 FX1.FCU 1-1.RETURN AIR TEMP.Present Value,BD FCU 1-1 ReturnAirTemp,BD_FCU_1_1_ReturnAirTemp,BD,FCU 1-1,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-1 FX1.FCU 1-1.STATIC PRESSURE.Present Value,BD FCU 1-1 StaticPressure,BD_FCU_1_1_StaticPressure,BD,FCU 1-1,StaticPressure,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-1 FX1.FCU 1-1.SUPPLY AIR TEMP.Present Value,BD FCU 1-1 SupplyAirTemp,BD_FCU_1_1_SupplyAirTemp,BD,FCU 1-1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-2 FX1.FCU 1-2.STATUS.Present Value,BD FCU 1-2 OnOffStatus,BD_FCU_1_2_OnOffStatus,BD,FCU 1-2,OnOffStatus,Airside,Binary
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-2 FX1.FCU 1-2.RETURN AIR TEMP.Present Value,BD FCU 1-2 ReturnAirTemp,BD_FCU_1_2_ReturnAirTemp,BD,FCU 1-2,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-2 FX1.FCU 1-2.STATIC PRESSURE.Present Value,BD FCU 1-2 StaticPressure,BD_FCU_1_2_StaticPressure,BD,FCU 1-2,StaticPressure,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-2 FX1.FCU 1-2.SUPPLY AIR TEMP.Present Value,BD FCU 1-2 SupplyAirTemp,BD_FCU_1_2_SupplyAirTemp,BD,FCU 1-2,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-3 FX1.FCU 1-3.STATUS.Present Value,BD FCU 1-3 OnOffStatus,BD_FCU_1_3_OnOffStatus,BD,FCU 1-3,OnOffStatus,Airside,Binary
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-3 FX1.FCU 1-3.RETURN AIR TEMP.Present Value,BD FCU 1-3 ReturnAirTemp,BD_FCU_1_3_ReturnAirTemp,BD,FCU 1-3,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-3 FX1.FCU 1-3.STATIC PRESSURE.Present Value,BD FCU 1-3 StaticPressure,BD_FCU_1_3_StaticPressure,BD,FCU 1-3,StaticPressure,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 1-3 FX1.FCU 1-3.SUPPLY AIR TEMP.Present Value,BD FCU 1-3 SupplyAirTemp,BD_FCU_1_3_SupplyAirTemp,BD,FCU 1-3,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-4 FX1.PAHU 6-7.RH.Present Value,BD PAHU 6-7 Humidity,BD_PAHU_6_7_Humidity,BD,PAHU 6-7,Humidity,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-4 FX1.PAHU 6-7.OFFCOIL TEMP.Present Value,BD PAHU 6-7 OffcoilTemp,BD_PAHU_6_7_OffcoilTemp,BD,PAHU 6-7,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-4 FX1.PAHU 6-7.STATUS.Present Value,BD PAHU 6-7 OnOffStatus,BD_PAHU_6_7_OnOffStatus,BD,PAHU 6-7,OnOffStatus,Airside,Binary
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-4 FX1.PAHU 6-7.STATIC PRESSURE.Present Value,BD PAHU 6-7 StaticPressure,BD_PAHU_6_7_StaticPressure,BD,PAHU 6-7,StaticPressure,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-4 FX1.PAHU 6-7.SUPPLY AIR TEMP.Present Value,BD PAHU 6-7 SupplyAirTemp,BD_PAHU_6_7_SupplyAirTemp,BD,PAHU 6-7,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-2 FX1.PAHU 6-8.RH.Present Value,BD PAHU 6-8 Humidity,BD_PAHU_6_8_Humidity,BD,PAHU 6-8,Humidity,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-2 FX1.PAHU 6-8.OFFCOIL TEMP.Present Value,BD PAHU 6-8 OffcoilTemp,BD_PAHU_6_8_OffcoilTemp,BD,PAHU 6-8,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-2 FX1.PAHU 6-8.STATUS.Present Value,BD PAHU 6-8 OnOffStatus,BD_PAHU_6_8_OnOffStatus,BD,PAHU 6-8,OnOffStatus,Airside,Binary
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-2 FX1.PAHU 6-8.AI-5.Present Value,BD PAHU 6-8 StaticPressure,BD_PAHU_6_8_StaticPressure,BD,PAHU 6-8,StaticPressure,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-2 FX1.PAHU 6-8.SUPPLY AIR TEMP.Present Value,BD PAHU 6-8 SupplyAirTemp,BD_PAHU_6_8_SupplyAirTemp,BD,PAHU 6-8,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-3 FX1.PAHU 6-9.RH.Present Value,BD PAHU 6-9 Humidity,BD_PAHU_6_9_Humidity,BD,PAHU 6-9,Humidity,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-3 FX1.PAHU 6-9.OFFCOIL TEMP.Present Value,BD PAHU 6-9 OffcoilTemp,BD_PAHU_6_9_OffcoilTemp,BD,PAHU 6-9,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-3 FX1.PAHU 6-9.STATUS.Present Value,BD PAHU 6-9 OnOffStatus,BD_PAHU_6_9_OnOffStatus,BD,PAHU 6-9,OnOffStatus,Airside,Binary
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-3 FX1.PAHU 6-9.STATIC PRESSURE.Present Value,BD PAHU 6-9 StaticPressure,BD_PAHU_6_9_StaticPressure,BD,PAHU 6-9,StaticPressure,Airside,Analog
+PC100818B:NAE55-4/Field Bus1.DDC EB1 LR-3 FX1.PAHU 6-9.SUPPLY AIR TEMP.Present Value,BD PAHU 6-9 SupplyAirTemp,BD_PAHU_6_9_SupplyAirTemp,BD,PAHU 6-9,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-5/Field Bus1.DDC SH 1-1 FX1.PAHU SHB1.AI-2.Present Value,BH PAHU 1 Humidity,BH_PAHU_1_Humidity,BH,PAHU 1,Humidity,Airside,Analog
+PC100818B:NAE55-5/Field Bus1.DDC SH 1-1 FX1.PAHU SHB1.AI-4.Present Value,BH PAHU 1 OffcoilTemp,BH_PAHU_1_OffcoilTemp,BH,PAHU 1,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-5/Field Bus1.DDC SH 1-1 FX1.PAHU SHB1.STATUS.Present Value,BH PAHU 1 OnOffStatus,BH_PAHU_1_OnOffStatus,BH,PAHU 1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-5/Field Bus1.DDC SH 1-1 FX1.PAHU SHB1.AI-3.Present Value,BH PAHU 1 StaticPressure,BH_PAHU_1_StaticPressure,BH,PAHU 1,StaticPressure,Airside,Analog
+PC100818B:NAE55-5/Field Bus1.DDC SH 1-1 FX1.PAHU SHB1.SUPPLY AIR TEMP.Present Value,BH PAHU 1 SupplyAirTemp,BH_PAHU_1_SupplyAirTemp,BH,PAHU 1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-5/Field Bus1.DDC SH 1-3 FX1.PAHU SHB2.RH.Present Value,BH PAHU 2 Humidity,BH_PAHU_2_Humidity,BH,PAHU 2,Humidity,Airside,Analog
+PC100818B:NAE55-5/Field Bus1.DDC SH 1-3 FX1.PAHU SHB2.AI-3.Present Value,BH PAHU 2 OffcoilTemp,BH_PAHU_2_OffcoilTemp,BH,PAHU 2,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-5/Field Bus1.DDC SH 1-3 FX1.PAHU SHB2.STATUS.Present Value,BH PAHU 2 OnOffStatus,BH_PAHU_2_OnOffStatus,BH,PAHU 2,OnOffStatus,Airside,Binary
+PC100818B:NAE55-5/Field Bus1.DDC SH 1-3 FX1.PAHU SHB2.AI-4.Present Value,BH PAHU 2 StaticPressure,BH_PAHU_2_StaticPressure,BH,PAHU 2,StaticPressure,Airside,Analog
+PC100818B:NAE55-5/Field Bus1.DDC SH 1-3 FX1.PAHU SHB2.SUPPLY AIR TEMP.Present Value,BH PAHU 2 SupplyAirTemp,BH_PAHU_2_SupplyAirTemp,BH,PAHU 2,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX4 (DDC IB1-1).PAHU IB 1-1.RH.Present Value,IB PAHU 1-1 Humidity,IB_PAHU_1_1_Humidity,IB,PAHU 1-1,Humidity,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX4 (DDC IB1-1).PAHU IB 1-1.OFFCOIL TEMP.Present Value,IB PAHU 1-1 OffcoilTemp,IB_PAHU_1_1_OffcoilTemp,IB,PAHU 1-1,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX4 (DDC IB1-1).PAHU IB 1-1.STATUS.Present Value,IB PAHU 1-1 OnOffStatus,IB_PAHU_1_1_OnOffStatus,IB,PAHU 1-1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-1/Field Bus1.FX4 (DDC IB1-1).PAHU IB 1-1.STATIC AV.Present Value,IB PAHU 1-1 StaticPressure,IB_PAHU_1_1_StaticPressure,IB,PAHU 1-1,StaticPressure,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX4 (DDC IB1-1).PAHU IB 1-1.SA TEMP.Present Value,IB PAHU 1-1 SupplyAirTemp,IB_PAHU_1_1_SupplyAirTemp,IB,PAHU 1-1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX6 (DDC IB1-2).PAHU IB 1-2.RH.Present Value,IB PAHU 1-2 Humidity,IB_PAHU_1_2_Humidity,IB,PAHU 1-2,Humidity,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX6 (DDC IB1-2).PAHU IB 1-2.OFFCOIL TEMP.Present Value,IB PAHU 1-2 OffcoilTemp,IB_PAHU_1_2_OffcoilTemp,IB,PAHU 1-2,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX6 (DDC IB1-2).PAHU IB 1-2.STATUS.Present Value,IB PAHU 1-2 OnOffStatus,IB_PAHU_1_2_OnOffStatus,IB,PAHU 1-2,OnOffStatus,Airside,Binary
+PC100818B:NAE55-1/Field Bus1.FX6 (DDC IB1-2).PAHU IB 1-2.AI-3.Present Value,IB PAHU 1-2 StaticPressure,IB_PAHU_1_2_StaticPressure,IB,PAHU 1-2,StaticPressure,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX6 (DDC IB1-2).PAHU IB 1-2.SA TEMP.Present Value,IB PAHU 1-2 SupplyAirTemp,IB_PAHU_1_2_SupplyAirTemp,IB,PAHU 1-2,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX8 (DDC IB1-3).PAHU IB 1-3.RH.Present Value,IB PAHU 1-3 Humidity,IB_PAHU_1_3_Humidity,IB,PAHU 1-3,Humidity,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX8 (DDC IB1-3).PAHU IB 1-3.OFFCOIL TEMP.Present Value,IB PAHU 1-3 OffcoilTemp,IB_PAHU_1_3_OffcoilTemp,IB,PAHU 1-3,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX8 (DDC IB1-3).PAHU IB 1-3.STATUS.Present Value,IB PAHU 1-3 OnOffStatus,IB_PAHU_1_3_OnOffStatus,IB,PAHU 1-3,OnOffStatus,Airside,Binary
+PC100818B:NAE55-1/Field Bus1.FX8 (DDC IB1-3).PAHU IB 1-3.AV-7.Present Value,IB PAHU 1-3 StaticPressure,IB_PAHU_1_3_StaticPressure,IB,PAHU 1-3,StaticPressure,Airside,Analog
+PC100818B:NAE55-1/Field Bus1.FX8 (DDC IB1-3).PAHU IB 1-3.SA TEMP.Present Value,IB PAHU 1-3 SupplyAirTemp,IB_PAHU_1_3_SupplyAirTemp,IB,PAHU 1-3,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-11 FX1.AHU 1.CO2.Present Value,SC AHU 1 CO2Sensor,SC_AHU_1_CO2Sensor,SC,AHU 1,CO2Sensor,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-11 FX1.AHU 1.RH.Present Value,SC AHU 1 Humidity,SC_AHU_1_Humidity,SC,AHU 1,Humidity,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-11 FX1.AHU 1.OFFCOIL TEMP.Present Value,SC AHU 1 OffcoilTemp,SC_AHU_1_OffcoilTemp,SC,AHU 1,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-11 FX1.AHU 1.STATUS.Present Value,SC AHU 1 OnOffStatus,SC_AHU_1_OnOffStatus,SC,AHU 1,OnOffStatus,Airside,Binary
+PC100818B:NAE55-2/Field Bus2.DDC 2-11 FX1.AHU 1.RETURN AIR TEMP.Present Value,SC AHU 1 ReturnAirTemp,SC_AHU_1_ReturnAirTemp,SC,AHU 1,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-11 FX1.AHU 1.STATIC.Present Value,SC AHU 1 StaticPressure,SC_AHU_1_StaticPressure,SC,AHU 1,StaticPressure,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-11 FX1.AHU 1.SUPPLY AIR TEMP.Present Value,SC AHU 1 SupplyAirTemp,SC_AHU_1_SupplyAirTemp,SC,AHU 1,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-9 FX1.AHU 2.CO2.Present Value,SC AHU 2 CO2Sensor,SC_AHU_2_CO2Sensor,SC,AHU 2,CO2Sensor,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-9 FX1.AHU 2.RH.Present Value,SC AHU 2 Humidity,SC_AHU_2_Humidity,SC,AHU 2,Humidity,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-9 FX1.AHU 2.OFFCOIL TEMP.Present Value,SC AHU 2 OffcoilTemp,SC_AHU_2_OffcoilTemp,SC,AHU 2,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-9 FX1.AHU 2.STATUS.Present Value,SC AHU 2 OnOffStatus,SC_AHU_2_OnOffStatus,SC,AHU 2,OnOffStatus,Airside,Binary
+PC100818B:NAE55-2/Field Bus2.DDC 2-9 FX1.AHU 2.RETURN AIR TEMP.Present Value,SC AHU 2 ReturnAirTemp,SC_AHU_2_ReturnAirTemp,SC,AHU 2,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-9 FX1.AHU 2.STATIC.Present Value,SC AHU 2 StaticPressure,SC_AHU_2_StaticPressure,SC,AHU 2,StaticPressure,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-9 FX1.AHU 2.SUPPLY AIR TEMP.Present Value,SC AHU 2 SupplyAirTemp,SC_AHU_2_SupplyAirTemp,SC,AHU 2,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-8 FX1.AHU 3.CO2.Present Value,SC AHU 3 CO2Sensor,SC_AHU_3_CO2Sensor,SC,AHU 3,CO2Sensor,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-8 FX1.AHU 3.RH.Present Value,SC AHU 3 Humidity,SC_AHU_3_Humidity,SC,AHU 3,Humidity,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-8 FX1.AHU 3.OFFCOIL TEMP.Present Value,SC AHU 3 OffcoilTemp,SC_AHU_3_OffcoilTemp,SC,AHU 3,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-8 FX1.AHU 3.STATUS.Present Value,SC AHU 3 OnOffStatus,SC_AHU_3_OnOffStatus,SC,AHU 3,OnOffStatus,Airside,Binary
+PC100818B:NAE55-2/Field Bus2.DDC 2-8 FX1.AHU 3.RETURN AIR TEMP.Present Value,SC AHU 3 ReturnAirTemp,SC_AHU_3_ReturnAirTemp,SC,AHU 3,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-8 FX1.AHU 3.STATIC.Present Value,SC AHU 3 StaticPressure,SC_AHU_3_StaticPressure,SC,AHU 3,StaticPressure,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-8 FX1.AHU 3.SUPPLY AIR TEMP.Present Value,SC AHU 3 SupplyAirTemp,SC_AHU_3_SupplyAirTemp,SC,AHU 3,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-10 FX1.AHU 4.CO2.Present Value,SC AHU 4 CO2Sensor,SC_AHU_4_CO2Sensor,SC,AHU 4,CO2Sensor,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-10 FX1.AHU 4.RH.Present Value,SC AHU 4 Humidity,SC_AHU_4_Humidity,SC,AHU 4,Humidity,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-10 FX1.AHU 4.OFFCOIL TEMP.Present Value,SC AHU 4 OffcoilTemp,SC_AHU_4_OffcoilTemp,SC,AHU 4,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-10 FX1.AHU 4.STATUS.Present Value,SC AHU 4 OnOffStatus,SC_AHU_4_OnOffStatus,SC,AHU 4,OnOffStatus,Airside,Binary
+PC100818B:NAE55-2/Field Bus2.DDC 2-10 FX1.AHU 4.RETURN AIR TEMP.Present Value,SC AHU 4 ReturnAirTemp,SC_AHU_4_ReturnAirTemp,SC,AHU 4,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-10 FX1.AHU 4.STATIC.Present Value,SC AHU 4 StaticPressure,SC_AHU_4_StaticPressure,SC,AHU 4,StaticPressure,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-10 FX1.AHU 4.SUPPLY AIR TEMP.Present Value,SC AHU 4 SupplyAirTemp,SC_AHU_4_SupplyAirTemp,SC,AHU 4,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-3 FX1.AHU BLACKBOX.CO2.Present Value,SC AHU BLACKBOX CO2Sensor,SC_AHU_BLACKBOX_CO2Sensor,SC,AHU BLACKBOX,CO2Sensor,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-3 FX1.AHU BLACKBOX.RH.Present Value,SC AHU BLACKBOX Humidity,SC_AHU_BLACKBOX_Humidity,SC,AHU BLACKBOX,Humidity,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-3 FX1.AHU BLACKBOX.OFFCOIL TEMP.Present Value,SC AHU BLACKBOX OffcoilTemp,SC_AHU_BLACKBOX_OffcoilTemp,SC,AHU BLACKBOX,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-3 FX1.AHU BLACKBOX.STATUS.Present Value,SC AHU BLACKBOX OnOffStatus,SC_AHU_BLACKBOX_OnOffStatus,SC,AHU BLACKBOX,OnOffStatus,Airside,Binary
+PC100818B:NAE55-2/Field Bus2.DDC 2-3 FX1.AHU BLACKBOX.RETURN AIR TEMP.Present Value,SC AHU BLACKBOX ReturnAirTemp,SC_AHU_BLACKBOX_ReturnAirTemp,SC,AHU BLACKBOX,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-3 FX1.AHU BLACKBOX.STATIC.Present Value,SC AHU BLACKBOX StaticPressure,SC_AHU_BLACKBOX_StaticPressure,SC,AHU BLACKBOX,StaticPressure,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-3 FX1.AHU BLACKBOX.SUPPLY AIR TEMP.Present Value,SC AHU BLACKBOX SupplyAirTemp,SC_AHU_BLACKBOX_SupplyAirTemp,SC,AHU BLACKBOX,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-6 FX1.AHU MPH.CO2.Present Value,SC AHU MPH CO2Sensor,SC_AHU_MPH_CO2Sensor,SC,AHU MPH,CO2Sensor,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-6 FX1.AHU MPH.RH.Present Value,SC AHU MPH Humidity,SC_AHU_MPH_Humidity,SC,AHU MPH,Humidity,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-6 FX1.AHU MPH.OFFCOIL TEMP.Present Value,SC AHU MPH OffcoilTemp,SC_AHU_MPH_OffcoilTemp,SC,AHU MPH,OffcoilTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-6 FX1.AHU MPH.STATUS.Present Value,SC AHU MPH OnOffStatus,SC_AHU_MPH_OnOffStatus,SC,AHU MPH,OnOffStatus,Airside,Binary
+PC100818B:NAE55-2/Field Bus2.DDC 2-6 FX1.AHU MPH.RETURN AIR TEMP.Present Value,SC AHU MPH ReturnAirTemp,SC_AHU_MPH_ReturnAirTemp,SC,AHU MPH,ReturnAirTemp,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-6 FX1.AHU MPH.STATIC.Present Value,SC AHU MPH StaticPressure,SC_AHU_MPH_StaticPressure,SC,AHU MPH,StaticPressure,Airside,Analog
+PC100818B:NAE55-2/Field Bus2.DDC 2-6 FX1.AHU MPH.SUPPLY AIR TEMP.Present Value,SC AHU MPH SupplyAirTemp,SC_AHU_MPH_SupplyAirTemp,SC,AHU MPH,SupplyAirTemp,Airside,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-23.Present Value,CP ChilledWaterPump1 OnOffStatus,CP_ChilledWaterPump1_OnOffStatus,CP,ChilledWaterPump1,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-27.Present Value,CP ChilledWaterPump2 OnOffStatus,CP_ChilledWaterPump2_OnOffStatus,CP,ChilledWaterPump2,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-31.Present Value,CP ChilledWaterPump3 OnOffStatus,CP_ChilledWaterPump3_OnOffStatus,CP,ChilledWaterPump3,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-3.Present Value,CP Chiller1 ChilledWaterFlowrate,CP_Chiller1_ChilledWaterFlowrate,CP,Chiller1,ChilledWaterFlowrate,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-2.Present Value,CP Chiller1 ChilledWaterReturnTemp,CP_Chiller1_ChilledWaterReturnTemp,CP,Chiller1,ChilledWaterReturnTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-1.Present Value,CP Chiller1 ChilledWaterSupplyTemp,CP_Chiller1_ChilledWaterSupplyTemp,CP,Chiller1,ChilledWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-8.Present Value,CP Chiller1 CondenserWaterFlowrate,CP_Chiller1_CondenserWaterFlowrate,CP,Chiller1,CondenserWaterFlowrate,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-7.Present Value,CP Chiller1 CondenserWaterReturnTemp,CP_Chiller1_CondenserWaterReturnTemp,CP,Chiller1,CondenserWaterReturnTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-6.Present Value,CP Chiller1 CondenserWaterSupplyTemp,CP_Chiller1_CondenserWaterSupplyTemp,CP,Chiller1,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-5.Present Value,CP Chiller1 CoolingTons,CP_Chiller1_CoolingTons,CP,Chiller1,CoolingTons,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-75.Present Value,CP Chiller1 Efficiency,CP_Chiller1_Efficiency,CP,Chiller1,Efficiency,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-11.Present Value,CP Chiller1 kW,CP_Chiller1_kW,CP,Chiller1,kW,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-2.Present Value,CP Chiller1 OnOffStatus,CP_Chiller1_OnOffStatus,CP,Chiller1,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-17.Present Value,CP Chiller2 ChilledWaterFlowrate,CP_Chiller2_ChilledWaterFlowrate,CP,Chiller2,ChilledWaterFlowrate,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-16.Present Value,CP Chiller2 ChilledWaterReturnTemp,CP_Chiller2_ChilledWaterReturnTemp,CP,Chiller2,ChilledWaterReturnTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-15.Present Value,CP Chiller2 ChilledWaterSupplyTemp,CP_Chiller2_ChilledWaterSupplyTemp,CP,Chiller2,ChilledWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-22.Present Value,CP Chiller2 CondenserWaterFlowrate,CP_Chiller2_CondenserWaterFlowrate,CP,Chiller2,CondenserWaterFlowrate,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-21.Present Value,CP Chiller2 CondenserWaterReturnTemp,CP_Chiller2_CondenserWaterReturnTemp,CP,Chiller2,CondenserWaterReturnTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-20.Present Value,CP Chiller2 CondenserWaterSupplyTemp,CP_Chiller2_CondenserWaterSupplyTemp,CP,Chiller2,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-24.Present Value,CP Chiller2 CoolingTons,CP_Chiller2_CoolingTons,CP,Chiller2,CoolingTons,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-76.Present Value,CP Chiller2 Efficiency,CP_Chiller2_Efficiency,CP,Chiller2,Efficiency,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-25.Present Value,CP Chiller2 kW,CP_Chiller2_kW,CP,Chiller2,kW,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-9.Present Value,CP Chiller2 OnOffStatus,CP_Chiller2_OnOffStatus,CP,Chiller2,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-31.Present Value,CP Chiller3 ChilledWaterFlowrate,CP_Chiller3_ChilledWaterFlowrate,CP,Chiller3,ChilledWaterFlowrate,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-30.Present Value,CP Chiller3 ChilledWaterReturnTemp,CP_Chiller3_ChilledWaterReturnTemp,CP,Chiller3,ChilledWaterReturnTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-29.Present Value,CP Chiller3 ChilledWaterSupplyTemp,CP_Chiller3_ChilledWaterSupplyTemp,CP,Chiller3,ChilledWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-36.Present Value,CP Chiller3 CondenserWaterFlowrate,CP_Chiller3_CondenserWaterFlowrate,CP,Chiller3,CondenserWaterFlowrate,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-35.Present Value,CP Chiller3 CondenserWaterReturnTemp,CP_Chiller3_CondenserWaterReturnTemp,CP,Chiller3,CondenserWaterReturnTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-34.Present Value,CP Chiller3 CondenserWaterSupplyTemp,CP_Chiller3_CondenserWaterSupplyTemp,CP,Chiller3,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-33.Present Value,CP Chiller3 CoolingTons,CP_Chiller3_CoolingTons,CP,Chiller3,CoolingTons,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-77.Present Value,CP Chiller3 Efficiency,CP_Chiller3_Efficiency,CP,Chiller3,Efficiency,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-39.Present Value,CP Chiller3 kW,CP_Chiller3_kW,CP,Chiller3,kW,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-16.Present Value,CP Chiller3 OnOffStatus,CP_Chiller3_OnOffStatus,CP,Chiller3,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-25.Present Value,CP CondenserWaterPump1 OnOffStatus,CP_CondenserWaterPump1_OnOffStatus,CP,CondenserWaterPump1,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-29.Present Value,CP CondenserWaterPump2 OnOffStatus,CP_CondenserWaterPump2_OnOffStatus,CP,CondenserWaterPump2,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-33.Present Value,CP CondenserWaterPump3 OnOffStatus,CP_CondenserWaterPump3_OnOffStatus,CP,CondenserWaterPump3,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-60.Present Value,CP CoolingTower1 CondenserWaterSupplyTemp,CP_CoolingTower1_CondenserWaterSupplyTemp,CP,CoolingTower1,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-35.Present Value,CP CoolingTower1 OnOffStatus,CP_CoolingTower1_OnOffStatus,CP,CoolingTower1,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-61.Present Value,CP CoolingTower2 CondenserWaterSupplyTemp,CP_CoolingTower2_CondenserWaterSupplyTemp,CP,CoolingTower2,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-37.Present Value,CP CoolingTower2 OnOffStatus,CP_CoolingTower2_OnOffStatus,CP,CoolingTower2,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-62.Present Value,CP CoolingTower3 CondenserWaterSupplyTemp,CP_CoolingTower3_CondenserWaterSupplyTemp,CP,CoolingTower3,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-39.Present Value,CP CoolingTower3 OnOffStatus,CP_CoolingTower3_OnOffStatus,CP,CoolingTower3,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-63.Present Value,CP CoolingTower4 CondenserWaterSupplyTemp,CP_CoolingTower4_CondenserWaterSupplyTemp,CP,CoolingTower4,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-41.Present Value,CP CoolingTower4 OnOffStatus,CP_CoolingTower4_OnOffStatus,CP,CoolingTower4,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-64.Present Value,CP CoolingTower5 CondenserWaterSupplyTemp,CP_CoolingTower5_CondenserWaterSupplyTemp,CP,CoolingTower5,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-43.Present Value,CP CoolingTower5 OnOffStatus,CP_CoolingTower5_OnOffStatus,CP,CoolingTower5,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-65.Present Value,CP CoolingTower6 CondenserWaterSupplyTemp,CP_CoolingTower6_CondenserWaterSupplyTemp,CP,CoolingTower6,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-45.Present Value,CP CoolingTower6 OnOffStatus,CP_CoolingTower6_OnOffStatus,CP,CoolingTower6,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-66.Present Value,CP CoolingTower7 CondenserWaterSupplyTemp,CP_CoolingTower7_CondenserWaterSupplyTemp,CP,CoolingTower7,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-47.Present Value,CP CoolingTower7 OnOffStatus,CP_CoolingTower7_OnOffStatus,CP,CoolingTower7,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-67.Present Value,CP CoolingTower8 CondenserWaterSupplyTemp,CP_CoolingTower8_CondenserWaterSupplyTemp,CP,CoolingTower8,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-49.Present Value,CP CoolingTower8 OnOffStatus,CP_CoolingTower8_OnOffStatus,CP,CoolingTower8,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-68.Present Value,CP CoolingTower9 CondenserWaterSupplyTemp,CP_CoolingTower9_CondenserWaterSupplyTemp,CP,CoolingTower9,CondenserWaterSupplyTemp,ChillerPlant,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-51.Present Value,CP CoolingTower9 OnOffStatus,CP_CoolingTower9_OnOffStatus,CP,CoolingTower9,OnOffStatus,ChillerPlant,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-59.Present Value,CP ChillerPlantRiserMainHeader CondenserWaterReturnTemp,CP_ChillerPlantRiserMainHeader_CondenserWaterReturnTemp,CP,ChillerPlantRiserMainHeader,CondenserWaterReturnTemp,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-58.Present Value,CP ChillerPlantRiserMainHeader CondenserWaterSupplyTemp,CP_ChillerPlantRiserMainHeader_CondenserWaterSupplyTemp,CP,ChillerPlantRiserMainHeader,CondenserWaterSupplyTemp,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-82.Present Value,CP ChillerPlantSystem Efficiency,CP_ChillerPlantSystem_Efficiency,CP,ChillerPlantSystem,Efficiency,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-74.Present Value,CP ChillerPlantSystem kW,CP_ChillerPlantSystem_kW,CP,ChillerPlantSystem,kW,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Binary Outputs.BO-61.Present Value,CP ChillerPlantSystem OnOffStatus,CP_ChillerPlantSystem_OnOffStatus,CP,ChillerPlantSystem,OnOffStatus,ChillerPlantSystem,Binary
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-79.Present Value,CP TotalChilledWaterPump Efficiency,CP_TotalChilledWaterPump_Efficiency,CP,TotalChilledWaterPump,Efficiency,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-71.Present Value,CP TotalChilledWaterPump kW,CP_TotalChilledWaterPump_kW,CP,TotalChilledWaterPump,kW,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-78.Present Value,CP TotalChiller Efficiency,CP_TotalChiller_Efficiency,CP,TotalChiller,Efficiency,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-70.Present Value,CP TotalChiller kW,CP_TotalChiller_kW,CP,TotalChiller,kW,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-80.Present Value,CP TotalCondenserWaterPump Efficiency,CP_TotalCondenserWaterPump_Efficiency,CP,TotalCondenserWaterPump,Efficiency,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-72.Present Value,CP TotalCondenserWaterPump kW,CP_TotalCondenserWaterPump_kW,CP,TotalCondenserWaterPump,kW,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-81.Present Value,CP TotalCoolingTowerSystem Efficiency,CP_TotalCoolingTowerSystem_Efficiency,CP,TotalCoolingTowerSystem,Efficiency,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-73.Present Value,CP TotalCoolingTowerSystem kW,CP_TotalCoolingTowerSystem_kW,CP,TotalCoolingTowerSystem,kW,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-85.Present Value,CP WeatherStation1 OutdoorAirHumidity,CP_WeatherStation1_OutdoorAirHumidity,CP,WeatherStation1,OutdoorAirHumidity,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-84.Present Value,CP WeatherStation1 OutdoorAirWetbulbTemp,CP_WeatherStation1_OutdoorAirWetbulbTemp,CP,WeatherStation1,OutdoorAirWetbulbTemp,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-83.Present Value,CP WeatherStation1 OutdoorTemp,CP_WeatherStation1_OutdoorTemp,CP,WeatherStation1,OutdoorTemp,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-88.Present Value,CP WeatherStation2 OutdoorAirHumidity,CP_WeatherStation2_OutdoorAirHumidity,CP,WeatherStation2,OutdoorAirHumidity,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-87.Present Value,CP WeatherStation2 OutdoorAirWetbulbTemp,CP_WeatherStation2_OutdoorAirWetbulbTemp,CP,WeatherStation2,OutdoorAirWetbulbTemp,ChillerPlantSystem,Analog
+PC100818B:NAE55-3/TRANE.Device-51.Analog Outputs.AO-86.Present Value,CP WeatherStation2 OutdoorTemp,CP_WeatherStation2_OutdoorTemp,CP,WeatherStation2,OutdoorTemp,ChillerPlantSystem,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-1.nvoBoxFlow.Present Value,BA VAV 01-01-01 ZoneAirflow,BA_VAV_01_01_01_ZoneAirflow,BA,VAV 01-01-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-2.nvoBoxFlow.Present Value,BA VAV 01-01-02 ZoneAirflow,BA_VAV_01_01_02_ZoneAirflow,BA,VAV 01-01-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-3.nvoBoxFlow.Present Value,BA VAV 01-01-03 ZoneAirflow,BA_VAV_01_01_03_ZoneAirflow,BA,VAV 01-01-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-4.nvoBoxFlow.Present Value,BA VAV 01-01-04 ZoneAirflow,BA_VAV_01_01_04_ZoneAirflow,BA,VAV 01-01-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-5.nvoBoxFlow.Present Value,BA VAV 01-01-05 ZoneAirflow,BA_VAV_01_01_05_ZoneAirflow,BA,VAV 01-01-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-6.nvoBoxFlow.Present Value,BA VAV 01-01-06 ZoneAirflow,BA_VAV_01_01_06_ZoneAirflow,BA,VAV 01-01-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-7.nvoBoxFlow.Present Value,BA VAV 01-01-07 ZoneAirflow,BA_VAV_01_01_07_ZoneAirflow,BA,VAV 01-01-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-8.nvoBoxFlow.Present Value,BA VAV 01-01-08 ZoneAirflow,BA_VAV_01_01_08_ZoneAirflow,BA,VAV 01-01-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 2.VAV EB2 2-1-1.nvoBoxFlow.Present Value,BA VAV 02-01-01 ZoneAirflow,BA_VAV_02_01_01_ZoneAirflow,BA,VAV 02-01-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-1-1.nvoBoxFlow.Present Value,BA VAV 06-01-01 ZoneAirflow,BA_VAV_06_01_01_ZoneAirflow,BA,VAV 06-01-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-1-2.nvoBoxFlow.Present Value,BA VAV 06-01-02 ZoneAirflow,BA_VAV_06_01_02_ZoneAirflow,BA,VAV 06-01-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-1-3.nvoBoxFlow.Present Value,BA VAV 06-01-03 ZoneAirflow,BA_VAV_06_01_03_ZoneAirflow,BA,VAV 06-01-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-1-4.nvoBoxFlow.Present Value,BA VAV 06-01-04 ZoneAirflow,BA_VAV_06_01_04_ZoneAirflow,BA,VAV 06-01-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-1-5.nvoBoxFlow.Present Value,BA VAV 06-01-05 ZoneAirflow,BA_VAV_06_01_05_ZoneAirflow,BA,VAV 06-01-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-1.nvoBoxFlow.Present Value,BA VAV 06-02-01 ZoneAirflow,BA_VAV_06_02_01_ZoneAirflow,BA,VAV 06-02-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-2.nvoBoxFlow.Present Value,BA VAV 06-02-02 ZoneAirflow,BA_VAV_06_02_02_ZoneAirflow,BA,VAV 06-02-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-3.nvoBoxFlow.Present Value,BA VAV 06-02-03 ZoneAirflow,BA_VAV_06_02_03_ZoneAirflow,BA,VAV 06-02-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-4.nvoBoxFlow.Present Value,BA VAV 06-02-04 ZoneAirflow,BA_VAV_06_02_04_ZoneAirflow,BA,VAV 06-02-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-5.nvoBoxFlow.Present Value,BA VAV 06-02-05 ZoneAirflow,BA_VAV_06_02_05_ZoneAirflow,BA,VAV 06-02-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-6.nvoBoxFlow.Present Value,BA VAV 06-02-06 ZoneAirflow,BA_VAV_06_02_06_ZoneAirflow,BA,VAV 06-02-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-7.nvoBoxFlow.Present Value,BA VAV 06-02-07 ZoneAirflow,BA_VAV_06_02_07_ZoneAirflow,BA,VAV 06-02-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV  EB2 BLK.LEVEL 6.VAV A-6-2-8.nvoBoxFlow.Present Value,BA VAV 06-02-08 ZoneAirflow,BA_VAV_06_02_08_ZoneAirflow,BA,VAV 06-02-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-1.nvoBoxFlow.Present Value,BB VAV 01-02-01 ZoneAirflow,BB_VAV_01_02_01_ZoneAirflow,BB,VAV 01-02-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-2.nvoBoxFlow.Present Value,BB VAV 01-02-02 ZoneAirflow,BB_VAV_01_02_02_ZoneAirflow,BB,VAV 01-02-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-3.nvoBoxFlow.Present Value,BB VAV 01-02-03 ZoneAirflow,BB_VAV_01_02_03_ZoneAirflow,BB,VAV 01-02-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-4.nvoBoxFlow.Present Value,BB VAV 01-02-04 ZoneAirflow,BB_VAV_01_02_04_ZoneAirflow,BB,VAV 01-02-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-5.nvoBoxFlow.Present Value,BB VAV 01-02-05 ZoneAirflow,BB_VAV_01_02_05_ZoneAirflow,BB,VAV 01-02-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-6.nvoBoxFlow.Present Value,BB VAV 01-02-06 ZoneAirflow,BB_VAV_01_02_06_ZoneAirflow,BB,VAV 01-02-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-7.nvoBoxFlow.Present Value,BB VAV 01-02-07 ZoneAirflow,BB_VAV_01_02_07_ZoneAirflow,BB,VAV 01-02-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-8.nvoBoxFlow.Present Value,BB VAV 01-02-08 ZoneAirflow,BB_VAV_01_02_08_ZoneAirflow,BB,VAV 01-02-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-9.nvoBoxFlow.Present Value,BB VAV 01-02-09 ZoneAirflow,BB_VAV_01_02_09_ZoneAirflow,BB,VAV 01-02-09,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-10.nvoBoxFlow.Present Value,BB VAV 01-02-10 ZoneAirflow,BB_VAV_01_02_10_ZoneAirflow,BB,VAV 01-02-10,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-11.nvoBoxFlow.Present Value,BB VAV 01-02-11 ZoneAirflow,BB_VAV_01_02_11_ZoneAirflow,BB,VAV 01-02-11,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-12.nvoBoxFlow.Present Value,BB VAV 01-02-12 ZoneAirflow,BB_VAV_01_02_12_ZoneAirflow,BB,VAV 01-02-12,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-13.nvoBoxFlow.Present Value,BB VAV 01-02-13 ZoneAirflow,BB_VAV_01_02_13_ZoneAirflow,BB,VAV 01-02-13,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-14.nvoBoxFlow.Present Value,BB VAV 01-02-14 ZoneAirflow,BB_VAV_01_02_14_ZoneAirflow,BB,VAV 01-02-14,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 1-3-1.nvoBoxFlow.Present Value,BB VAV 01-03-01 ZoneAirflow,BB_VAV_01_03_01_ZoneAirflow,BB,VAV 01-03-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 1-3-2.nvoBoxFlow.Present Value,BB VAV 01-03-02 ZoneAirflow,BB_VAV_01_03_02_ZoneAirflow,BB,VAV 01-03-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 1-3-3.nvoBoxFlow.Present Value,BB VAV 01-03-03 ZoneAirflow,BB_VAV_01_03_03_ZoneAirflow,BB,VAV 01-03-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 1-3-4.nvoBoxFlow.Present Value,BB VAV 01-03-04 ZoneAirflow,BB_VAV_01_03_04_ZoneAirflow,BB,VAV 01-03-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 1-3-5.nvoBoxFlow.Present Value,BB VAV 01-03-05 ZoneAirflow,BB_VAV_01_03_05_ZoneAirflow,BB,VAV 01-03-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 1-4-1.nvoBoxFlow.Present Value,BB VAV 01-04-01 ZoneAirflow,BB_VAV_01_04_01_ZoneAirflow,BB,VAV 01-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 1-4-2.nvoBoxFlow.Present Value,BB VAV 01-04-02 ZoneAirflow,BB_VAV_01_04_02_ZoneAirflow,BB,VAV 01-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 1-4-3.nvoBoxFlow.Present Value,BB VAV 01-04-03 ZoneAirflow,BB_VAV_01_04_03_ZoneAirflow,BB,VAV 01-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 1-4-4.nvoBoxFlow.Present Value,BB VAV 01-04-04 ZoneAirflow,BB_VAV_01_04_04_ZoneAirflow,BB,VAV 01-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 1-4-5.nvoBoxFlow.Present Value,BB VAV 01-04-05 ZoneAirflow,BB_VAV_01_04_05_ZoneAirflow,BB,VAV 01-04-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 1-5-1.nvoBoxFlow.Present Value,BB VAV 01-05-01 ZoneAirflow,BB_VAV_01_05_01_ZoneAirflow,BB,VAV 01-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 1-5-2.nvoBoxFlow.Present Value,BB VAV 01-05-02 ZoneAirflow,BB_VAV_01_05_02_ZoneAirflow,BB,VAV 01-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 1-5-3.nvoBoxFlow.Present Value,BB VAV 01-05-03 ZoneAirflow,BB_VAV_01_05_03_ZoneAirflow,BB,VAV 01-05-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 1-5-4.nvoBoxFlow.Present Value,BB VAV 01-05-04 ZoneAirflow,BB_VAV_01_05_04_ZoneAirflow,BB,VAV 01-05-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 1-5-5.nvoBoxFlow.Present Value,BB VAV 01-05-05 ZoneAirflow,BB_VAV_01_05_05_ZoneAirflow,BB,VAV 01-05-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-1.nvoBoxFlow.Present Value,BB VAV 01-06-01 ZoneAirflow,BB_VAV_01_06_01_ZoneAirflow,BB,VAV 01-06-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-2.nvoBoxFlow.Present Value,BB VAV 01-06-02 ZoneAirflow,BB_VAV_01_06_02_ZoneAirflow,BB,VAV 01-06-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-3.nvoBoxFlow.Present Value,BB VAV 01-06-03 ZoneAirflow,BB_VAV_01_06_03_ZoneAirflow,BB,VAV 01-06-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-4.nvoBoxFlow.Present Value,BB VAV 01-06-04 ZoneAirflow,BB_VAV_01_06_04_ZoneAirflow,BB,VAV 01-06-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-5.nvoBoxFlow.Present Value,BB VAV 01-06-05 ZoneAirflow,BB_VAV_01_06_05_ZoneAirflow,BB,VAV 01-06-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-6.nvoBoxFlow.Present Value,BB VAV 01-06-06 ZoneAirflow,BB_VAV_01_06_06_ZoneAirflow,BB,VAV 01-06-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-7.nvoBoxFlow.Present Value,BB VAV 01-06-07 ZoneAirflow,BB_VAV_01_06_07_ZoneAirflow,BB,VAV 01-06-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-8.nvoBoxFlow.Present Value,BB VAV 01-06-08 ZoneAirflow,BB_VAV_01_06_08_ZoneAirflow,BB,VAV 01-06-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-1.nvoBoxFlow.Present Value,BB VAV 02-02-01 ZoneAirflow,BB_VAV_02_02_01_ZoneAirflow,BB,VAV 02-02-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-2.nvoBoxFlow.Present Value,BB VAV 02-02-02 ZoneAirflow,BB_VAV_02_02_02_ZoneAirflow,BB,VAV 02-02-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-3.nvoBoxFlow.Present Value,BB VAV 02-02-03 ZoneAirflow,BB_VAV_02_02_03_ZoneAirflow,BB,VAV 02-02-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-4.nvoBoxFlow.Present Value,BB VAV 02-02-04 ZoneAirflow,BB_VAV_02_02_04_ZoneAirflow,BB,VAV 02-02-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-5.nvoBoxFlow.Present Value,BB VAV 02-02-05 ZoneAirflow,BB_VAV_02_02_05_ZoneAirflow,BB,VAV 02-02-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-6.nvoBoxFlow.Present Value,BB VAV 02-02-06 ZoneAirflow,BB_VAV_02_02_06_ZoneAirflow,BB,VAV 02-02-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-1.nvoBoxFlow.Present Value,BB VAV 02-03-01 ZoneAirflow,BB_VAV_02_03_01_ZoneAirflow,BB,VAV 02-03-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-2.nvoBoxFlow.Present Value,BB VAV 02-03-02 ZoneAirflow,BB_VAV_02_03_02_ZoneAirflow,BB,VAV 02-03-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-3.nvoBoxFlow.Present Value,BB VAV 02-03-03 ZoneAirflow,BB_VAV_02_03_03_ZoneAirflow,BB,VAV 02-03-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-4.nvoBoxFlow.Present Value,BB VAV 02-03-04 ZoneAirflow,BB_VAV_02_03_04_ZoneAirflow,BB,VAV 02-03-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-5.nvoBoxFlow.Present Value,BB VAV 02-03-05 ZoneAirflow,BB_VAV_02_03_05_ZoneAirflow,BB,VAV 02-03-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-6.nvoBoxFlow.Present Value,BB VAV 02-03-06 ZoneAirflow,BB_VAV_02_03_06_ZoneAirflow,BB,VAV 02-03-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-1.nvoBoxFlow.Present Value,BB VAV 02-04-01 ZoneAirflow,BB_VAV_02_04_01_ZoneAirflow,BB,VAV 02-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-2.nvoBoxFlow.Present Value,BB VAV 02-04-02 ZoneAirflow,BB_VAV_02_04_02_ZoneAirflow,BB,VAV 02-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-3.nvoBoxFlow.Present Value,BB VAV 02-04-03 ZoneAirflow,BB_VAV_02_04_03_ZoneAirflow,BB,VAV 02-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-4.nvoBoxFlow.Present Value,BB VAV 02-04-04 ZoneAirflow,BB_VAV_02_04_04_ZoneAirflow,BB,VAV 02-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-5.nvoBoxFlow.Present Value,BB VAV 02-04-05 ZoneAirflow,BB_VAV_02_04_05_ZoneAirflow,BB,VAV 02-04-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-6.nvoBoxFlow.Present Value,BB VAV 02-04-06 ZoneAirflow,BB_VAV_02_04_06_ZoneAirflow,BB,VAV 02-04-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 2-5-1.nvoBoxFlow.Present Value,BB VAV 02-05-01 ZoneAirflow,BB_VAV_02_05_01_ZoneAirflow,BB,VAV 02-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 2-5-2.nvoBoxFlow.Present Value,BB VAV 02-05-02 ZoneAirflow,BB_VAV_02_05_02_ZoneAirflow,BB,VAV 02-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 2-5-3.nvoBoxFlow.Present Value,BB VAV 02-05-03 ZoneAirflow,BB_VAV_02_05_03_ZoneAirflow,BB,VAV 02-05-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 2-5-4.nvoBoxFlow.Present Value,BB VAV 02-05-04 ZoneAirflow,BB_VAV_02_05_04_ZoneAirflow,BB,VAV 02-05-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 2-5-5.nvoBoxFlow.Present Value,BB VAV 02-05-05 ZoneAirflow,BB_VAV_02_05_05_ZoneAirflow,BB,VAV 02-05-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-1.nvoBoxFlow.Present Value,BB VAV 02-06-01 ZoneAirflow,BB_VAV_02_06_01_ZoneAirflow,BB,VAV 02-06-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-2.nvoBoxFlow.Present Value,BB VAV 02-06-02 ZoneAirflow,BB_VAV_02_06_02_ZoneAirflow,BB,VAV 02-06-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-3.nvoBoxFlow.Present Value,BB VAV 02-06-03 ZoneAirflow,BB_VAV_02_06_03_ZoneAirflow,BB,VAV 02-06-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-4.nvoBoxFlow.Present Value,BB VAV 02-06-04 ZoneAirflow,BB_VAV_02_06_04_ZoneAirflow,BB,VAV 02-06-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-5.nvoBoxFlow.Present Value,BB VAV 02-06-05 ZoneAirflow,BB_VAV_02_06_05_ZoneAirflow,BB,VAV 02-06-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-6.nvoBoxFlow.Present Value,BB VAV 02-06-06 ZoneAirflow,BB_VAV_02_06_06_ZoneAirflow,BB,VAV 02-06-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-7.nvoBoxFlow.Present Value,BB VAV 02-06-07 ZoneAirflow,BB_VAV_02_06_07_ZoneAirflow,BB,VAV 02-06-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-8.nvoBoxFlow.Present Value,BB VAV 02-06-08 ZoneAirflow,BB_VAV_02_06_08_ZoneAirflow,BB,VAV 02-06-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-1.nvoBoxFlow.Present Value,BB VAV 03-02-01 ZoneAirflow,BB_VAV_03_02_01_ZoneAirflow,BB,VAV 03-02-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-2.nvoBoxFlow.Present Value,BB VAV 03-02-02 ZoneAirflow,BB_VAV_03_02_02_ZoneAirflow,BB,VAV 03-02-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-3.nvoBoxFlow.Present Value,BB VAV 03-02-03 ZoneAirflow,BB_VAV_03_02_03_ZoneAirflow,BB,VAV 03-02-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-4.nvoBoxFlow.Present Value,BB VAV 03-02-04 ZoneAirflow,BB_VAV_03_02_04_ZoneAirflow,BB,VAV 03-02-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-5.nvoBoxFlow.Present Value,BB VAV 03-02-05 ZoneAirflow,BB_VAV_03_02_05_ZoneAirflow,BB,VAV 03-02-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-6.nvoBoxFlow.Present Value,BB VAV 03-02-06 ZoneAirflow,BB_VAV_03_02_06_ZoneAirflow,BB,VAV 03-02-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-7.nvoBoxFlow.Present Value,BB VAV 03-02-07 ZoneAirflow,BB_VAV_03_02_07_ZoneAirflow,BB,VAV 03-02-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-8.nvoBoxFlow.Present Value,BB VAV 03-02-08 ZoneAirflow,BB_VAV_03_02_08_ZoneAirflow,BB,VAV 03-02-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-9.nvoBoxFlow.Present Value,BB VAV 03-02-09 ZoneAirflow,BB_VAV_03_02_09_ZoneAirflow,BB,VAV 03-02-09,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 3-3-1.nvoBoxFlow.Present Value,BB VAV 03-03-01 ZoneAirflow,BB_VAV_03_03_01_ZoneAirflow,BB,VAV 03-03-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 3-3-2.nvoBoxFlow.Present Value,BB VAV 03-03-02 ZoneAirflow,BB_VAV_03_03_02_ZoneAirflow,BB,VAV 03-03-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 3-3-3.nvoBoxFlow.Present Value,BB VAV 03-03-03 ZoneAirflow,BB_VAV_03_03_03_ZoneAirflow,BB,VAV 03-03-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 3-3-4.nvoBoxFlow.Present Value,BB VAV 03-03-04 ZoneAirflow,BB_VAV_03_03_04_ZoneAirflow,BB,VAV 03-03-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 3-4-1.nvoBoxFlow.Present Value,BB VAV 03-04-01 ZoneAirflow,BB_VAV_03_04_01_ZoneAirflow,BB,VAV 03-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 3-4-2.nvoBoxFlow.Present Value,BB VAV 03-04-02 ZoneAirflow,BB_VAV_03_04_02_ZoneAirflow,BB,VAV 03-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 3-4-3.nvoBoxFlow.Present Value,BB VAV 03-04-03 ZoneAirflow,BB_VAV_03_04_03_ZoneAirflow,BB,VAV 03-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 3-4-4.nvoBoxFlow.Present Value,BB VAV 03-04-04 ZoneAirflow,BB_VAV_03_04_04_ZoneAirflow,BB,VAV 03-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 3-5-1.nvoBoxFlow.Present Value,BB VAV 03-05-01 ZoneAirflow,BB_VAV_03_05_01_ZoneAirflow,BB,VAV 03-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 3-5-2.nvoBoxFlow.Present Value,BB VAV 03-05-02 ZoneAirflow,BB_VAV_03_05_02_ZoneAirflow,BB,VAV 03-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 3-5-3.nvoBoxFlow.Present Value,BB VAV 03-05-03 ZoneAirflow,BB_VAV_03_05_03_ZoneAirflow,BB,VAV 03-05-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 3-5-4.nvoBoxFlow.Present Value,BB VAV 03-05-04 ZoneAirflow,BB_VAV_03_05_04_ZoneAirflow,BB,VAV 03-05-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-1.nvoBoxFlow.Present Value,BB VAV 03-06-01 ZoneAirflow,BB_VAV_03_06_01_ZoneAirflow,BB,VAV 03-06-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-2.nvoBoxFlow.Present Value,BB VAV 03-06-02 ZoneAirflow,BB_VAV_03_06_02_ZoneAirflow,BB,VAV 03-06-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-3.nvoBoxFlow.Present Value,BB VAV 03-06-03 ZoneAirflow,BB_VAV_03_06_03_ZoneAirflow,BB,VAV 03-06-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-4.nvoBoxFlow.Present Value,BB VAV 03-06-04 ZoneAirflow,BB_VAV_03_06_04_ZoneAirflow,BB,VAV 03-06-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-5.nvoBoxFlow.Present Value,BB VAV 03-06-05 ZoneAirflow,BB_VAV_03_06_05_ZoneAirflow,BB,VAV 03-06-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-6.nvoBoxFlow.Present Value,BB VAV 03-06-06 ZoneAirflow,BB_VAV_03_06_06_ZoneAirflow,BB,VAV 03-06-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-1.nvoBoxFlow.Present Value,BB VAV 04-03-01 ZoneAirflow,BB_VAV_04_03_01_ZoneAirflow,BB,VAV 04-03-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-2.nvoBoxFlow.Present Value,BB VAV 04-03-02 ZoneAirflow,BB_VAV_04_03_02_ZoneAirflow,BB,VAV 04-03-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-3.nvoBoxFlow.Present Value,BB VAV 04-03-03 ZoneAirflow,BB_VAV_04_03_03_ZoneAirflow,BB,VAV 04-03-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-4.nvoBoxFlow.Present Value,BB VAV 04-03-04 ZoneAirflow,BB_VAV_04_03_04_ZoneAirflow,BB,VAV 04-03-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-5.nvoBoxFlow.Present Value,BB VAV 04-03-05 ZoneAirflow,BB_VAV_04_03_05_ZoneAirflow,BB,VAV 04-03-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-6.nvoBoxFlow.Present Value,BB VAV 04-03-06 ZoneAirflow,BB_VAV_04_03_06_ZoneAirflow,BB,VAV 04-03-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-1.nvoBoxFlow.Present Value,BB VAV 04-04-01 ZoneAirflow,BB_VAV_04_04_01_ZoneAirflow,BB,VAV 04-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-2.nvoBoxFlow.Present Value,BB VAV 04-04-02 ZoneAirflow,BB_VAV_04_04_02_ZoneAirflow,BB,VAV 04-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-3.nvoBoxFlow.Present Value,BB VAV 04-04-03 ZoneAirflow,BB_VAV_04_04_03_ZoneAirflow,BB,VAV 04-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-4.nvoBoxFlow.Present Value,BB VAV 04-04-04 ZoneAirflow,BB_VAV_04_04_04_ZoneAirflow,BB,VAV 04-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-5.nvoBoxFlow.Present Value,BB VAV 04-04-05 ZoneAirflow,BB_VAV_04_04_05_ZoneAirflow,BB,VAV 04-04-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-6.nvoBoxFlow.Present Value,BB VAV 04-04-06 ZoneAirflow,BB_VAV_04_04_06_ZoneAirflow,BB,VAV 04-04-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-1.nvoBoxFlow.Present Value,BB VAV 04-05-01 ZoneAirflow,BB_VAV_04_05_01_ZoneAirflow,BB,VAV 04-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-2.nvoBoxFlow.Present Value,BB VAV 04-05-02 ZoneAirflow,BB_VAV_04_05_02_ZoneAirflow,BB,VAV 04-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-3.nvoBoxFlow.Present Value,BB VAV 04-05-03 ZoneAirflow,BB_VAV_04_05_03_ZoneAirflow,BB,VAV 04-05-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-4.nvoBoxFlow.Present Value,BB VAV 04-05-04 ZoneAirflow,BB_VAV_04_05_04_ZoneAirflow,BB,VAV 04-05-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-5.nvoBoxFlow.Present Value,BB VAV 04-05-05 ZoneAirflow,BB_VAV_04_05_05_ZoneAirflow,BB,VAV 04-05-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-6.nvoBoxFlow.Present Value,BB VAV 04-05-06 ZoneAirflow,BB_VAV_04_05_06_ZoneAirflow,BB,VAV 04-05-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-7.nvoBoxFlow.Present Value,BB VAV 04-05-07 ZoneAirflow,BB_VAV_04_05_07_ZoneAirflow,BB,VAV 04-05-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-1.nvoBoxFlow.Present Value,BB VAV 04-06-01 ZoneAirflow,BB_VAV_04_06_01_ZoneAirflow,BB,VAV 04-06-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-2.nvoBoxFlow.Present Value,BB VAV 04-06-02 ZoneAirflow,BB_VAV_04_06_02_ZoneAirflow,BB,VAV 04-06-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-3.nvoBoxFlow.Present Value,BB VAV 04-06-03 ZoneAirflow,BB_VAV_04_06_03_ZoneAirflow,BB,VAV 04-06-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-4.nvoBoxFlow.Present Value,BB VAV 04-06-04 ZoneAirflow,BB_VAV_04_06_04_ZoneAirflow,BB,VAV 04-06-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-5.nvoBoxFlow.Present Value,BB VAV 04-06-05 ZoneAirflow,BB_VAV_04_06_05_ZoneAirflow,BB,VAV 04-06-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-6.nvoBoxFlow.Present Value,BB VAV 04-06-06 ZoneAirflow,BB_VAV_04_06_06_ZoneAirflow,BB,VAV 04-06-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-7.nvoBoxFlow.Present Value,BB VAV 04-06-07 ZoneAirflow,BB_VAV_04_06_07_ZoneAirflow,BB,VAV 04-06-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-8.nvoBoxFlow.Present Value,BB VAV 04-06-08 ZoneAirflow,BB_VAV_04_06_08_ZoneAirflow,BB,VAV 04-06-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 5-3-1.nvoBoxFlow.Present Value,BC VAV 05-03-01 ZoneAirflow,BC_VAV_05_03_01_ZoneAirflow,BC,VAV 05-03-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 5-3-2.nvoBoxFlow.Present Value,BC VAV 05-03-02 ZoneAirflow,BC_VAV_05_03_02_ZoneAirflow,BC,VAV 05-03-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 5-3-3.nvoBoxFlow.Present Value,BC VAV 05-03-03 ZoneAirflow,BC_VAV_05_03_03_ZoneAirflow,BC,VAV 05-03-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 5-3-4.nvoBoxFlow.Present Value,BC VAV 05-03-04 ZoneAirflow,BC_VAV_05_03_04_ZoneAirflow,BC,VAV 05-03-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 5-3-5.nvoBoxFlow.Present Value,BC VAV 05-03-05 ZoneAirflow,BC_VAV_05_03_05_ZoneAirflow,BC,VAV 05-03-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-1.nvoBoxFlow.Present Value,BC VAV 05-04-01 ZoneAirflow,BC_VAV_05_04_01_ZoneAirflow,BC,VAV 05-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-2.nvoBoxFlow.Present Value,BC VAV 05-04-02 ZoneAirflow,BC_VAV_05_04_02_ZoneAirflow,BC,VAV 05-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-3.nvoBoxFlow.Present Value,BC VAV 05-04-03 ZoneAirflow,BC_VAV_05_04_03_ZoneAirflow,BC,VAV 05-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-4.nvoBoxFlow.Present Value,BC VAV 05-04-04 ZoneAirflow,BC_VAV_05_04_04_ZoneAirflow,BC,VAV 05-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-5.nvoBoxFlow.Present Value,BC VAV 05-04-05 ZoneAirflow,BC_VAV_05_04_05_ZoneAirflow,BC,VAV 05-04-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-6.nvoBoxFlow.Present Value,BC VAV 05-04-06 ZoneAirflow,BC_VAV_05_04_06_ZoneAirflow,BC,VAV 05-04-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-7.nvoBoxFlow.Present Value,BC VAV 05-04-07 ZoneAirflow,BC_VAV_05_04_07_ZoneAirflow,BC,VAV 05-04-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-1.nvoBoxFlow.Present Value,BC VAV 05-05-01 ZoneAirflow,BC_VAV_05_05_01_ZoneAirflow,BC,VAV 05-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-2.nvoBoxFlow.Present Value,BC VAV 05-05-02 ZoneAirflow,BC_VAV_05_05_02_ZoneAirflow,BC,VAV 05-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-3.nvoBoxFlow.Present Value,BC VAV 05-05-03 ZoneAirflow,BC_VAV_05_05_03_ZoneAirflow,BC,VAV 05-05-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-4.nvoBoxFlow.Present Value,BC VAV 05-05-04 ZoneAirflow,BC_VAV_05_05_04_ZoneAirflow,BC,VAV 05-05-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-5.nvoBoxFlow.Present Value,BC VAV 05-05-05 ZoneAirflow,BC_VAV_05_05_05_ZoneAirflow,BC,VAV 05-05-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-6.nvoBoxFlow.Present Value,BC VAV 05-05-06 ZoneAirflow,BC_VAV_05_05_06_ZoneAirflow,BC,VAV 05-05-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-7.nvoBoxFlow.Present Value,BC VAV 05-05-07 ZoneAirflow,BC_VAV_05_05_07_ZoneAirflow,BC,VAV 05-05-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-1.nvoBoxFlow.Present Value,BC VAV 05-06-01 ZoneAirflow,BC_VAV_05_06_01_ZoneAirflow,BC,VAV 05-06-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-2.nvoBoxFlow.Present Value,BC VAV 05-06-02 ZoneAirflow,BC_VAV_05_06_02_ZoneAirflow,BC,VAV 05-06-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-3.nvoBoxFlow.Present Value,BC VAV 05-06-03 ZoneAirflow,BC_VAV_05_06_03_ZoneAirflow,BC,VAV 05-06-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-4.nvoBoxFlow.Present Value,BC VAV 05-06-04 ZoneAirflow,BC_VAV_05_06_04_ZoneAirflow,BC,VAV 05-06-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-5.nvoBoxFlow.Present Value,BC VAV 05-06-05 ZoneAirflow,BC_VAV_05_06_05_ZoneAirflow,BC,VAV 05-06-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-6.nvoBoxFlow.Present Value,BC VAV 05-06-06 ZoneAirflow,BC_VAV_05_06_06_ZoneAirflow,BC,VAV 05-06-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-7.nvoBoxFlow.Present Value,BC VAV 05-06-07 ZoneAirflow,BC_VAV_05_06_07_ZoneAirflow,BC,VAV 05-06-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-8.nvoBoxFlow.Present Value,BC VAV 05-06-08 ZoneAirflow,BC_VAV_05_06_08_ZoneAirflow,BC,VAV 05-06-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-9.nvoBoxFlow.Present Value,BC VAV 05-06-09 ZoneAirflow,BC_VAV_05_06_09_ZoneAirflow,BC,VAV 05-06-09,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-1.nvoBoxFlow.Present Value,BC VAV 06-03-01 ZoneAirflow,BC_VAV_06_03_01_ZoneAirflow,BC,VAV 06-03-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-2.nvoBoxFlow.Present Value,BC VAV 06-03-02 ZoneAirflow,BC_VAV_06_03_02_ZoneAirflow,BC,VAV 06-03-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-4.nvoBoxFlow.Present Value,BC VAV 06-03-04 ZoneAirflow,BC_VAV_06_03_04_ZoneAirflow,BC,VAV 06-03-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-5.nvoBoxFlow.Present Value,BC VAV 06-03-05 ZoneAirflow,BC_VAV_06_03_05_ZoneAirflow,BC,VAV 06-03-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-6.nvoBoxFlow.Present Value,BC VAV 06-03-06 ZoneAirflow,BC_VAV_06_03_06_ZoneAirflow,BC,VAV 06-03-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-7.nvoBoxFlow.Present Value,BC VAV 06-03-07 ZoneAirflow,BC_VAV_06_03_07_ZoneAirflow,BC,VAV 06-03-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-1.nvoBoxFlow.Present Value,BC VAV 06-04-01 ZoneAirflow,BC_VAV_06_04_01_ZoneAirflow,BC,VAV 06-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-2.nvoBoxFlow.Present Value,BC VAV 06-04-02 ZoneAirflow,BC_VAV_06_04_02_ZoneAirflow,BC,VAV 06-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-3.nvoBoxFlow.Present Value,BC VAV 06-04-03 ZoneAirflow,BC_VAV_06_04_03_ZoneAirflow,BC,VAV 06-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-4.nvoBoxFlow.Present Value,BC VAV 06-04-04 ZoneAirflow,BC_VAV_06_04_04_ZoneAirflow,BC,VAV 06-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-5.nvoBoxFlow.Present Value,BC VAV 06-04-05 ZoneAirflow,BC_VAV_06_04_05_ZoneAirflow,BC,VAV 06-04-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-6.nvoBoxFlow.Present Value,BC VAV 06-04-06 ZoneAirflow,BC_VAV_06_04_06_ZoneAirflow,BC,VAV 06-04-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-7.nvoBoxFlow.Present Value,BC VAV 06-04-07 ZoneAirflow,BC_VAV_06_04_07_ZoneAirflow,BC,VAV 06-04-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-1.nvoBoxFlow.Present Value,BC VAV 06-05-01 ZoneAirflow,BC_VAV_06_05_01_ZoneAirflow,BC,VAV 06-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-2.nvoBoxFlow.Present Value,BC VAV 06-05-02 ZoneAirflow,BC_VAV_06_05_02_ZoneAirflow,BC,VAV 06-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-3.nvoBoxFlow.Present Value,BC VAV 06-05-03 ZoneAirflow,BC_VAV_06_05_03_ZoneAirflow,BC,VAV 06-05-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-4.nvoBoxFlow.Present Value,BC VAV 06-05-04 ZoneAirflow,BC_VAV_06_05_04_ZoneAirflow,BC,VAV 06-05-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-5.nvoBoxFlow.Present Value,BC VAV 06-05-05 ZoneAirflow,BC_VAV_06_05_05_ZoneAirflow,BC,VAV 06-05-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-6.nvoBoxFlow.Present Value,BC VAV 06-05-06 ZoneAirflow,BC_VAV_06_05_06_ZoneAirflow,BC,VAV 06-05-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-7.nvoBoxFlow.Present Value,BC VAV 06-05-07 ZoneAirflow,BC_VAV_06_05_07_ZoneAirflow,BC,VAV 06-05-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-1.nvoBoxFlow.Present Value,BC VAV 06-06-01 ZoneAirflow,BC_VAV_06_06_01_ZoneAirflow,BC,VAV 06-06-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-2.nvoBoxFlow.Present Value,BC VAV 06-06-02 ZoneAirflow,BC_VAV_06_06_02_ZoneAirflow,BC,VAV 06-06-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-3.nvoBoxFlow.Present Value,BC VAV 06-06-03 ZoneAirflow,BC_VAV_06_06_03_ZoneAirflow,BC,VAV 06-06-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-4.nvoBoxFlow.Present Value,BC VAV 06-06-04 ZoneAirflow,BC_VAV_06_06_04_ZoneAirflow,BC,VAV 06-06-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-5.nvoBoxFlow.Present Value,BC VAV 06-06-05 ZoneAirflow,BC_VAV_06_06_05_ZoneAirflow,BC,VAV 06-06-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-6.nvoBoxFlow.Present Value,BC VAV 06-06-06 ZoneAirflow,BC_VAV_06_06_06_ZoneAirflow,BC,VAV 06-06-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-7.nvoBoxFlow.Present Value,BC VAV 06-06-07 ZoneAirflow,BC_VAV_06_06_07_ZoneAirflow,BC,VAV 06-06-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-8.nvoBoxFlow.Present Value,BC VAV 06-06-08 ZoneAirflow,BC_VAV_06_06_08_ZoneAirflow,BC,VAV 06-06-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 1-1-1.nvoBoxFlow.Present Value,BD VAV 01-01-01 ZoneAirflow,BD_VAV_01_01_01_ZoneAirflow,BD,VAV 01-01-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 1-1-2.nvoBoxFlow.Present Value,BD VAV 01-01-02 ZoneAirflow,BD_VAV_01_01_02_ZoneAirflow,BD,VAV 01-01-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 1-1-3.nvoBoxFlow.Present Value,BD VAV 01-01-03 ZoneAirflow,BD_VAV_01_01_03_ZoneAirflow,BD,VAV 01-01-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 2-1-1.nvoBoxFlow.Present Value,BD VAV 02-01-01 ZoneAirflow,BD_VAV_02_01_01_ZoneAirflow,BD,VAV 02-01-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 2-1-2.nvoBoxFlow.Present Value,BD VAV 02-01-02 ZoneAirflow,BD_VAV_02_01_02_ZoneAirflow,BD,VAV 02-01-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 3-1-1.nvoBoxFlow.Present Value,BD VAV 03-01-01 ZoneAirflow,BD_VAV_03_01_01_ZoneAirflow,BD,VAV 03-01-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 3-1-2.nvoBoxFlow.Present Value,BD VAV 03-01-02 ZoneAirflow,BD_VAV_03_01_02_ZoneAirflow,BD,VAV 03-01-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-1.nvoBoxFlow.Present Value,BD VAV 04-02-01 ZoneAirflow,BD_VAV_04_02_01_ZoneAirflow,BD,VAV 04-02-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-2.nvoBoxFlow.Present Value,BD VAV 04-02-02 ZoneAirflow,BD_VAV_04_02_02_ZoneAirflow,BD,VAV 04-02-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-3.nvoBoxFlow.Present Value,BD VAV 04-02-03 ZoneAirflow,BD_VAV_04_02_03_ZoneAirflow,BD,VAV 04-02-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-4.nvoBoxFlow.Present Value,BD VAV 04-02-04 ZoneAirflow,BD_VAV_04_02_04_ZoneAirflow,BD,VAV 04-02-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-5.nvoBoxFlow.Present Value,BD VAV 04-02-05 ZoneAirflow,BD_VAV_04_02_05_ZoneAirflow,BD,VAV 04-02-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-6.nvoBoxFlow.Present Value,BD VAV 04-02-06 ZoneAirflow,BD_VAV_04_02_06_ZoneAirflow,BD,VAV 04-02-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-7.nvoBoxFlow.Present Value,BD VAV 04-02-07 ZoneAirflow,BD_VAV_04_02_07_ZoneAirflow,BD,VAV 04-02-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-8.nvoBoxFlow.Present Value,BD VAV 04-02-08 ZoneAirflow,BD_VAV_04_02_08_ZoneAirflow,BD,VAV 04-02-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-9.nvoBoxFlow.Present Value,BD VAV 04-02-09 ZoneAirflow,BD_VAV_04_02_09_ZoneAirflow,BD,VAV 04-02-09,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-10.nvoBoxFlow.Present Value,BD VAV 04-02-10 ZoneAirflow,BD_VAV_04_02_10_ZoneAirflow,BD,VAV 04-02-10,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-11.nvoBoxFlow.Present Value,BD VAV 04-02-11 ZoneAirflow,BD_VAV_04_02_11_ZoneAirflow,BD,VAV 04-02-11,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-12.nvoBoxFlow.Present Value,BD VAV 04-02-12 ZoneAirflow,BD_VAV_04_02_12_ZoneAirflow,BD,VAV 04-02-12,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-13.nvoBoxFlow.Present Value,BD VAV 04-02-13 ZoneAirflow,BD_VAV_04_02_13_ZoneAirflow,BD,VAV 04-02-13,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-14.nvoBoxFlow.Present Value,BD VAV 04-02-14 ZoneAirflow,BD_VAV_04_02_14_ZoneAirflow,BD,VAV 04-02-14,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-15.nvoBoxFlow.Present Value,BD VAV 04-02-15 ZoneAirflow,BD_VAV_04_02_15_ZoneAirflow,BD,VAV 04-02-15,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-1.nvoBoxFlow.Present Value,BD VAV 07-03-01 ZoneAirflow,BD_VAV_07_03_01_ZoneAirflow,BD,VAV 07-03-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-2.nvoBoxFlow.Present Value,BD VAV 07-03-02 ZoneAirflow,BD_VAV_07_03_02_ZoneAirflow,BD,VAV 07-03-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-3.nvoBoxFlow.Present Value,BD VAV 07-03-03 ZoneAirflow,BD_VAV_07_03_03_ZoneAirflow,BD,VAV 07-03-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-4.nvoBoxFlow.Present Value,BD VAV 07-03-04 ZoneAirflow,BD_VAV_07_03_04_ZoneAirflow,BD,VAV 07-03-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-5.nvoBoxFlow.Present Value,BD VAV 07-03-05 ZoneAirflow,BD_VAV_07_03_05_ZoneAirflow,BD,VAV 07-03-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-6.nvoBoxFlow.Present Value,BD VAV 07-03-06 ZoneAirflow,BD_VAV_07_03_06_ZoneAirflow,BD,VAV 07-03-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-7.nvoBoxFlow.Present Value,BD VAV 07-03-07 ZoneAirflow,BD_VAV_07_03_07_ZoneAirflow,BD,VAV 07-03-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-8.nvoBoxFlow.Present Value,BD VAV 07-03-08 ZoneAirflow,BD_VAV_07_03_08_ZoneAirflow,BD,VAV 07-03-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-9.nvoBoxFlow.Present Value,BD VAV 07-03-09 ZoneAirflow,BD_VAV_07_03_09_ZoneAirflow,BD,VAV 07-03-09,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-1.nvoBoxFlow.Present Value,BD VAV 07-04-01 ZoneAirflow,BD_VAV_07_04_01_ZoneAirflow,BD,VAV 07-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-2.nvoBoxFlow.Present Value,BD VAV 07-04-02 ZoneAirflow,BD_VAV_07_04_02_ZoneAirflow,BD,VAV 07-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-3.nvoBoxFlow.Present Value,BD VAV 07-04-03 ZoneAirflow,BD_VAV_07_04_03_ZoneAirflow,BD,VAV 07-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-4.nvoBoxFlow.Present Value,BD VAV 07-04-04 ZoneAirflow,BD_VAV_07_04_04_ZoneAirflow,BD,VAV 07-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-5.nvoBoxFlow.Present Value,BD VAV 07-04-05 ZoneAirflow,BD_VAV_07_04_05_ZoneAirflow,BD,VAV 07-04-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-6.nvoBoxFlow.Present Value,BD VAV 07-04-06 ZoneAirflow,BD_VAV_07_04_06_ZoneAirflow,BD,VAV 07-04-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-7.nvoBoxFlow.Present Value,BD VAV 07-04-07 ZoneAirflow,BD_VAV_07_04_07_ZoneAirflow,BD,VAV 07-04-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-8.nvoBoxFlow.Present Value,BD VAV 07-04-08 ZoneAirflow,BD_VAV_07_04_08_ZoneAirflow,BD,VAV 07-04-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-1.nvoBoxFlow.Present Value,BD VAV 07-05-01 ZoneAirflow,BD_VAV_07_05_01_ZoneAirflow,BD,VAV 07-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-2.nvoBoxFlow.Present Value,BD VAV 07-05-02 ZoneAirflow,BD_VAV_07_05_02_ZoneAirflow,BD,VAV 07-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-3.nvoBoxFlow.Present Value,BD VAV 07-05-03 ZoneAirflow,BD_VAV_07_05_03_ZoneAirflow,BD,VAV 07-05-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-4.nvoBoxFlow.Present Value,BD VAV 07-05-04 ZoneAirflow,BD_VAV_07_05_04_ZoneAirflow,BD,VAV 07-05-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-5.nvoBoxFlow.Present Value,BD VAV 07-05-05 ZoneAirflow,BD_VAV_07_05_05_ZoneAirflow,BD,VAV 07-05-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-6.nvoBoxFlow.Present Value,BD VAV 07-05-06 ZoneAirflow,BD_VAV_07_05_06_ZoneAirflow,BD,VAV 07-05-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-7.nvoBoxFlow.Present Value,BD VAV 07-05-07 ZoneAirflow,BD_VAV_07_05_07_ZoneAirflow,BD,VAV 07-05-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-8.nvoBoxFlow.Present Value,BD VAV 07-05-08 ZoneAirflow,BD_VAV_07_05_08_ZoneAirflow,BD,VAV 07-05-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-9.nvoBoxFlow.Present Value,BD VAV 07-05-09 ZoneAirflow,BD_VAV_07_05_09_ZoneAirflow,BD,VAV 07-05-09,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 7-6-1.nvoBoxFlow.Present Value,BD VAV 07-06-01 ZoneAirflow,BD_VAV_07_06_01_ZoneAirflow,BD,VAV 07-06-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 8-3-1.nvoBoxFlow.Present Value,BD VAV 08-03-01 ZoneAirflow,BD_VAV_08_03_01_ZoneAirflow,BD,VAV 08-03-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 8-3-2.nvoBoxFlow.Present Value,BD VAV 08-03-02 ZoneAirflow,BD_VAV_08_03_02_ZoneAirflow,BD,VAV 08-03-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 8-3-3.nvoBoxFlow.Present Value,BD VAV 08-03-03 ZoneAirflow,BD_VAV_08_03_03_ZoneAirflow,BD,VAV 08-03-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 8-3-4.nvoBoxFlow.Present Value,BD VAV 08-03-04 ZoneAirflow,BD_VAV_08_03_04_ZoneAirflow,BD,VAV 08-03-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 8-4-1.nvoBoxFlow.Present Value,BD VAV 08-04-01 ZoneAirflow,BD_VAV_08_04_01_ZoneAirflow,BD,VAV 08-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 8-4-2.nvoBoxFlow.Present Value,BD VAV 08-04-02 ZoneAirflow,BD_VAV_08_04_02_ZoneAirflow,BD,VAV 08-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 8-4-3.nvoBoxFlow.Present Value,BD VAV 08-04-03 ZoneAirflow,BD_VAV_08_04_03_ZoneAirflow,BD,VAV 08-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 8-4-4.nvoBoxFlow.Present Value,BD VAV 08-04-04 ZoneAirflow,BD_VAV_08_04_04_ZoneAirflow,BD,VAV 08-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 8-5-1.nvoBoxFlow.Present Value,BD VAV 08-05-01 ZoneAirflow,BD_VAV_08_05_01_ZoneAirflow,BD,VAV 08-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 8-5-2.nvoBoxFlow.Present Value,BD VAV 08-05-02 ZoneAirflow,BD_VAV_08_05_02_ZoneAirflow,BD,VAV 08-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 8-5-3.nvoBoxFlow.Present Value,BD VAV 08-05-03 ZoneAirflow,BD_VAV_08_05_03_ZoneAirflow,BD,VAV 08-05-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 8-5-4.nvoBoxFlow.Present Value,BD VAV 08-05-04 ZoneAirflow,BD_VAV_08_05_04_ZoneAirflow,BD,VAV 08-05-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 8-6-1.nvoBoxFlow.Present Value,BD VAV 08-06-01 ZoneAirflow,BD_VAV_08_06_01_ZoneAirflow,BD,VAV 08-06-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 8-6-2.nvoBoxFlow.Present Value,BD VAV 08-06-02 ZoneAirflow,BD_VAV_08_06_02_ZoneAirflow,BD,VAV 08-06-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 8-6-3.nvoBoxFlow.Present Value,BD VAV 08-06-03 ZoneAirflow,BD_VAV_08_06_03_ZoneAirflow,BD,VAV 08-06-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 8-6-4.nvoBoxFlow.Present Value,BD VAV 08-06-04 ZoneAirflow,BD_VAV_08_06_04_ZoneAirflow,BD,VAV 08-06-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-1.nvoBoxFlow.Present Value,BD VAV 09-03-01 ZoneAirflow,BD_VAV_09_03_01_ZoneAirflow,BD,VAV 09-03-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-2.nvoBoxFlow.Present Value,BD VAV 09-03-02 ZoneAirflow,BD_VAV_09_03_02_ZoneAirflow,BD,VAV 09-03-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-3.nvoBoxFlow.Present Value,BD VAV 09-03-03 ZoneAirflow,BD_VAV_09_03_03_ZoneAirflow,BD,VAV 09-03-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-4.nvoBoxFlow.Present Value,BD VAV 09-03-04 ZoneAirflow,BD_VAV_09_03_04_ZoneAirflow,BD,VAV 09-03-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-5.nvoBoxFlow.Present Value,BD VAV 09-03-05 ZoneAirflow,BD_VAV_09_03_05_ZoneAirflow,BD,VAV 09-03-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-6.nvoBoxFlow.Present Value,BD VAV 09-03-06 ZoneAirflow,BD_VAV_09_03_06_ZoneAirflow,BD,VAV 09-03-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-1.nvoBoxFlow.Present Value,BD VAV 09-04-01 ZoneAirflow,BD_VAV_09_04_01_ZoneAirflow,BD,VAV 09-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-2.nvoBoxFlow.Present Value,BD VAV 09-04-02 ZoneAirflow,BD_VAV_09_04_02_ZoneAirflow,BD,VAV 09-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-3.nvoBoxFlow.Present Value,BD VAV 09-04-03 ZoneAirflow,BD_VAV_09_04_03_ZoneAirflow,BD,VAV 09-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-4.nvoBoxFlow.Present Value,BD VAV 09-04-04 ZoneAirflow,BD_VAV_09_04_04_ZoneAirflow,BD,VAV 09-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-5.nvoBoxFlow.Present Value,BD VAV 09-04-05 ZoneAirflow,BD_VAV_09_04_05_ZoneAirflow,BD,VAV 09-04-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-6.nvoBoxFlow.Present Value,BD VAV 09-04-06 ZoneAirflow,BD_VAV_09_04_06_ZoneAirflow,BD,VAV 09-04-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-1.nvoBoxFlow.Present Value,BD VAV 09-05-01 ZoneAirflow,BD_VAV_09_05_01_ZoneAirflow,BD,VAV 09-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-2.nvoBoxFlow.Present Value,BD VAV 09-05-02 ZoneAirflow,BD_VAV_09_05_02_ZoneAirflow,BD,VAV 09-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-3.nvoBoxFlow.Present Value,BD VAV 09-05-03 ZoneAirflow,BD_VAV_09_05_03_ZoneAirflow,BD,VAV 09-05-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-4.nvoBoxFlow.Present Value,BD VAV 09-05-04 ZoneAirflow,BD_VAV_09_05_04_ZoneAirflow,BD,VAV 09-05-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-5.nvoBoxFlow.Present Value,BD VAV 09-05-05 ZoneAirflow,BD_VAV_09_05_05_ZoneAirflow,BD,VAV 09-05-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-6.nvoBoxFlow.Present Value,BD VAV 09-05-06 ZoneAirflow,BD_VAV_09_05_06_ZoneAirflow,BD,VAV 09-05-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-1.nvoBoxFlow.Present Value,BD VAV 09-06-01 ZoneAirflow,BD_VAV_09_06_01_ZoneAirflow,BD,VAV 09-06-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-2.nvoBoxFlow.Present Value,BD VAV 09-06-02 ZoneAirflow,BD_VAV_09_06_02_ZoneAirflow,BD,VAV 09-06-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-3.nvoBoxFlow.Present Value,BD VAV 09-06-03 ZoneAirflow,BD_VAV_09_06_03_ZoneAirflow,BD,VAV 09-06-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-4.nvoBoxFlow.Present Value,BD VAV 09-06-04 ZoneAirflow,BD_VAV_09_06_04_ZoneAirflow,BD,VAV 09-06-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-5.nvoBoxFlow.Present Value,BD VAV 09-06-05 ZoneAirflow,BD_VAV_09_06_05_ZoneAirflow,BD,VAV 09-06-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-6.nvoBoxFlow.Present Value,BD VAV 09-06-06 ZoneAirflow,BD_VAV_09_06_06_ZoneAirflow,BD,VAV 09-06-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 1.SH VAV 1-1-1.nvoBoxFlow.Present Value,BH VAV 01-01-01 ZoneAirflow,BH_VAV_01_01_01_ZoneAirflow,BH,VAV 01-01-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 1-4-1.nvoBoxFlow.Present Value,BH VAV 01-04-01 ZoneAirflow,BH_VAV_01_04_01_ZoneAirflow,BH,VAV 01-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 1-4-2.nvoBoxFlow.Present Value,BH VAV 01-04-02 ZoneAirflow,BH_VAV_01_04_02_ZoneAirflow,BH,VAV 01-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 1-4-3.nvoBoxFlow.Present Value,BH VAV 01-04-03 ZoneAirflow,BH_VAV_01_04_03_ZoneAirflow,BH,VAV 01-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 1-4-4.nvoBoxFlow.Present Value,BH VAV 01-04-04 ZoneAirflow,BH_VAV_01_04_04_ZoneAirflow,BH,VAV 01-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 1-5-1.nvoBoxFlow.Present Value,BH VAV 01-05-01 ZoneAirflow,BH_VAV_01_05_01_ZoneAirflow,BH,VAV 01-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 1-5-2.nvoBoxFlow.Present Value,BH VAV 01-05-02 ZoneAirflow,BH_VAV_01_05_02_ZoneAirflow,BH,VAV 01-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 1-14-1.nvoBoxFlow.Present Value,BH VAV 01-14-01 ZoneAirflow,BH_VAV_01_14_01_ZoneAirflow,BH,VAV 01-14-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 1-14-2.nvoBoxFlow.Present Value,BH VAV 01-14-02 ZoneAirflow,BH_VAV_01_14_02_ZoneAirflow,BH,VAV 01-14-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 1.SH VAV 2-1-1.nvoBoxFlow.Present Value,BH VAV 02-01-01 ZoneAirflow,BH_VAV_02_01_01_ZoneAirflow,BH,VAV 02-01-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 1.SH VAV 2-1-2.nvoBoxFlow.Present Value,BH VAV 02-01-02 ZoneAirflow,BH_VAV_02_01_02_ZoneAirflow,BH,VAV 02-01-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 2-4-1.nvoBoxFlow.Present Value,BH VAV 02-04-01 ZoneAirflow,BH_VAV_02_04_01_ZoneAirflow,BH,VAV 02-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 2-4-2.nvoBoxFlow.Present Value,BH VAV 02-04-02 ZoneAirflow,BH_VAV_02_04_02_ZoneAirflow,BH,VAV 02-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 2-4-3.nvoBoxFlow.Present Value,BH VAV 02-04-03 ZoneAirflow,BH_VAV_02_04_03_ZoneAirflow,BH,VAV 02-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 2-4-4.nvoBoxFlow.Present Value,BH VAV 02-04-04 ZoneAirflow,BH_VAV_02_04_04_ZoneAirflow,BH,VAV 02-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 2-5-1.nvoBoxFlow.Present Value,BH VAV 02-05-01 ZoneAirflow,BH_VAV_02_05_01_ZoneAirflow,BH,VAV 02-05-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 2-5-2.nvoBoxFlow.Present Value,BH VAV 02-05-02 ZoneAirflow,BH_VAV_02_05_02_ZoneAirflow,BH,VAV 02-05-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 2-5-3.nvoBoxFlow.Present Value,BH VAV 02-05-03 ZoneAirflow,BH_VAV_02_05_03_ZoneAirflow,BH,VAV 02-05-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 2-5-4.nvoBoxFlow.Present Value,BH VAV 02-05-04 ZoneAirflow,BH_VAV_02_05_04_ZoneAirflow,BH,VAV 02-05-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 6.SH VAV 2-6-1.nvoBoxFlow.Present Value,BH VAV 02-06-01 ZoneAirflow,BH_VAV_02_06_01_ZoneAirflow,BH,VAV 02-06-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 6.SH VAV 2-6-2.nvoBoxFlow.Present Value,BH VAV 02-06-02 ZoneAirflow,BH_VAV_02_06_02_ZoneAirflow,BH,VAV 02-06-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 6.SH VAV 2-6-3.nvoBoxFlow.Present Value,BH VAV 02-06-03 ZoneAirflow,BH_VAV_02_06_03_ZoneAirflow,BH,VAV 02-06-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 6.SH VAV 2-6-4.nvoBoxFlow.Present Value,BH VAV 02-06-04 ZoneAirflow,BH_VAV_02_06_04_ZoneAirflow,BH,VAV 02-06-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 2-14-1.nvoBoxFlow.Present Value,BH VAV 02-14-01 ZoneAirflow,BH_VAV_02_14_01_ZoneAirflow,BH,VAV 02-14-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 2-14-2.nvoBoxFlow.Present Value,BH VAV 02-14-02 ZoneAirflow,BH_VAV_02_14_02_ZoneAirflow,BH,VAV 02-14-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 2-14-3.nvoBoxFlow.Present Value,BH VAV 02-14-03 ZoneAirflow,BH_VAV_02_14_03_ZoneAirflow,BH,VAV 02-14-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 2-14-4.nvoBoxFlow.Present Value,BH VAV 02-14-04 ZoneAirflow,BH_VAV_02_14_04_ZoneAirflow,BH,VAV 02-14-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-1.nvoBoxFlow.Present Value,IB VAV 01-02-01 ZoneAirflow,IB_VAV_01_02_01_ZoneAirflow,IB,VAV 01-02-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-2.nvoBoxFlow.Present Value,IB VAV 01-02-02 ZoneAirflow,IB_VAV_01_02_02_ZoneAirflow,IB,VAV 01-02-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-3.nvoBoxFlow.Present Value,IB VAV 01-02-03 ZoneAirflow,IB_VAV_01_02_03_ZoneAirflow,IB,VAV 01-02-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-4.nvoBoxFlow.Present Value,IB VAV 01-02-04 ZoneAirflow,IB_VAV_01_02_04_ZoneAirflow,IB,VAV 01-02-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-1.nvoBoxFlow.Present Value,IB VAV 01-03-01 ZoneAirflow,IB_VAV_01_03_01_ZoneAirflow,IB,VAV 01-03-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-2.nvoBoxFlow.Present Value,IB VAV 01-03-02 ZoneAirflow,IB_VAV_01_03_02_ZoneAirflow,IB,VAV 01-03-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-3.nvoBoxFlow.Present Value,IB VAV 01-03-03 ZoneAirflow,IB_VAV_01_03_03_ZoneAirflow,IB,VAV 01-03-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-4.nvoBoxFlow.Present Value,IB VAV 01-03-04 ZoneAirflow,IB_VAV_01_03_04_ZoneAirflow,IB,VAV 01-03-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-5.nvoBoxFlow.Present Value,IB VAV 01-03-05 ZoneAirflow,IB_VAV_01_03_05_ZoneAirflow,IB,VAV 01-03-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-10.nvoBoxFlow.Present Value,IB VAV 01-03-10 ZoneAirflow,IB_VAV_01_03_10_ZoneAirflow,IB,VAV 01-03-10,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-1.nvoBoxFlow.Present Value,IB VAV 01-04-01 ZoneAirflow,IB_VAV_01_04_01_ZoneAirflow,IB,VAV 01-04-01,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-2.nvoBoxFlow.Present Value,IB VAV 01-04-02 ZoneAirflow,IB_VAV_01_04_02_ZoneAirflow,IB,VAV 01-04-02,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-3.nvoBoxFlow.Present Value,IB VAV 01-04-03 ZoneAirflow,IB_VAV_01_04_03_ZoneAirflow,IB,VAV 01-04-03,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-4.nvoBoxFlow.Present Value,IB VAV 01-04-04 ZoneAirflow,IB_VAV_01_04_04_ZoneAirflow,IB,VAV 01-04-04,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-5.nvoBoxFlow.Present Value,IB VAV 01-04-05 ZoneAirflow,IB_VAV_01_04_05_ZoneAirflow,IB,VAV 01-04-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-5.nvoBoxFlow.Present Value,IB VAV 03-02-05 ZoneAirflow,IB_VAV_03_02_05_ZoneAirflow,IB,VAV 03-02-05,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-6.nvoBoxFlow.Present Value,IB VAV 03-02-06 ZoneAirflow,IB_VAV_03_02_06_ZoneAirflow,IB,VAV 03-02-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-7.nvoBoxFlow.Present Value,IB VAV 03-02-07 ZoneAirflow,IB_VAV_03_02_07_ZoneAirflow,IB,VAV 03-02-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-8.nvoBoxFlow.Present Value,IB VAV 03-02-08 ZoneAirflow,IB_VAV_03_02_08_ZoneAirflow,IB,VAV 03-02-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-6.nvoBoxFlow.Present Value,IB VAV 03-03-06 ZoneAirflow,IB_VAV_03_03_06_ZoneAirflow,IB,VAV 03-03-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-7.nvoBoxFlow.Present Value,IB VAV 03-03-07 ZoneAirflow,IB_VAV_03_03_07_ZoneAirflow,IB,VAV 03-03-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-8 (IB Classroom 3-8).nvoBoxFlow.Present Value,IB VAV 03-03-08 ZoneAirflow,IB_VAV_03_03_08_ZoneAirflow,IB,VAV 03-03-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-9.nvoBoxFlow.Present Value,IB VAV 03-03-09 ZoneAirflow,IB_VAV_03_03_09_ZoneAirflow,IB,VAV 03-03-09,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-6.nvoBoxFlow.Present Value,IB VAV 03-04-06 ZoneAirflow,IB_VAV_03_04_06_ZoneAirflow,IB,VAV 03-04-06,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-7.nvoBoxFlow.Present Value,IB VAV 03-04-07 ZoneAirflow,IB_VAV_03_04_07_ZoneAirflow,IB,VAV 03-04-07,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-8.nvoBoxFlow.Present Value,IB VAV 03-04-08 ZoneAirflow,IB_VAV_03_04_08_ZoneAirflow,IB,VAV 03-04-08,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-9.nvoBoxFlow.Present Value,IB VAV 03-04-09 ZoneAirflow,IB_VAV_03_04_09_ZoneAirflow,IB,VAV 03-04-09,ZoneAirflow,VAVZoneAirflow,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-1.nvoSpaceTemp.Present Value,BA VAV 01-01-01 ZoneTemp,BA_VAV_01_01_01_ZoneTemp,BA,VAV 01-01-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-2.nvoSpaceTemp.Present Value,BA VAV 01-01-02 ZoneTemp,BA_VAV_01_01_02_ZoneTemp,BA,VAV 01-01-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-3.nvoSpaceTemp.Present Value,BA VAV 01-01-03 ZoneTemp,BA_VAV_01_01_03_ZoneTemp,BA,VAV 01-01-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-4.nvoSpaceTemp.Present Value,BA VAV 01-01-04 ZoneTemp,BA_VAV_01_01_04_ZoneTemp,BA,VAV 01-01-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-5.nvoSpaceTemp.Present Value,BA VAV 01-01-05 ZoneTemp,BA_VAV_01_01_05_ZoneTemp,BA,VAV 01-01-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-6.nvoSpaceTemp.Present Value,BA VAV 01-01-06 ZoneTemp,BA_VAV_01_01_06_ZoneTemp,BA,VAV 01-01-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-7.nvoSpaceTemp.Present Value,BA VAV 01-01-07 ZoneTemp,BA_VAV_01_01_07_ZoneTemp,BA,VAV 01-01-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 1.VAV EB2 1-1-8.nvoSpaceTemp.Present Value,BA VAV 01-01-08 ZoneTemp,BA_VAV_01_01_08_ZoneTemp,BA,VAV 01-01-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 2.VAV EB2 2-1-1.nvoSpaceTemp.Present Value,BA VAV 02-01-01 ZoneTemp,BA_VAV_02_01_01_ZoneTemp,BA,VAV 02-01-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-1-1.nvoSpaceTemp.Present Value,BA VAV 06-01-01 ZoneTemp,BA_VAV_06_01_01_ZoneTemp,BA,VAV 06-01-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-1-2.nvoSpaceTemp.Present Value,BA VAV 06-01-02 ZoneTemp,BA_VAV_06_01_02_ZoneTemp,BA,VAV 06-01-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-1-3.nvoSpaceTemp.Present Value,BA VAV 06-01-03 ZoneTemp,BA_VAV_06_01_03_ZoneTemp,BA,VAV 06-01-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-1-4.nvoSpaceTemp.Present Value,BA VAV 06-01-04 ZoneTemp,BA_VAV_06_01_04_ZoneTemp,BA,VAV 06-01-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-1-5.nvoSpaceTemp.Present Value,BA VAV 06-01-05 ZoneTemp,BA_VAV_06_01_05_ZoneTemp,BA,VAV 06-01-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-1.nvoSpaceTemp.Present Value,BA VAV 06-02-01 ZoneTemp,BA_VAV_06_02_01_ZoneTemp,BA,VAV 06-02-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-2.nvoSpaceTemp.Present Value,BA VAV 06-02-02 ZoneTemp,BA_VAV_06_02_02_ZoneTemp,BA,VAV 06-02-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-3.nvoSpaceTemp.Present Value,BA VAV 06-02-03 ZoneTemp,BA_VAV_06_02_03_ZoneTemp,BA,VAV 06-02-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-4.nvoSpaceTemp.Present Value,BA VAV 06-02-04 ZoneTemp,BA_VAV_06_02_04_ZoneTemp,BA,VAV 06-02-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-5.nvoSpaceTemp.Present Value,BA VAV 06-02-05 ZoneTemp,BA_VAV_06_02_05_ZoneTemp,BA,VAV 06-02-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-6.nvoSpaceTemp.Present Value,BA VAV 06-02-06 ZoneTemp,BA_VAV_06_02_06_ZoneTemp,BA,VAV 06-02-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV EB2 BLK.LEVEL 6.VAV EB2 6-2-7.nvoSpaceTemp.Present Value,BA VAV 06-02-07 ZoneTemp,BA_VAV_06_02_07_ZoneTemp,BA,VAV 06-02-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-6/LON Trunk1.VAV  EB2 BLK.LEVEL 6.VAV A-6-2-8.nvoSpaceTemp.Present Value,BA VAV 06-02-08 ZoneTemp,BA_VAV_06_02_08_ZoneTemp,BA,VAV 06-02-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-1.nvoSpaceTemp.Present Value,BB VAV 01-02-01 ZoneTemp,BB_VAV_01_02_01_ZoneTemp,BB,VAV 01-02-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-2.nvoSpaceTemp.Present Value,BB VAV 01-02-02 ZoneTemp,BB_VAV_01_02_02_ZoneTemp,BB,VAV 01-02-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-3.nvoSpaceTemp.Present Value,BB VAV 01-02-03 ZoneTemp,BB_VAV_01_02_03_ZoneTemp,BB,VAV 01-02-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-4.nvoSpaceTemp.Present Value,BB VAV 01-02-04 ZoneTemp,BB_VAV_01_02_04_ZoneTemp,BB,VAV 01-02-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-5.nvoSpaceTemp.Present Value,BB VAV 01-02-05 ZoneTemp,BB_VAV_01_02_05_ZoneTemp,BB,VAV 01-02-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-6.nvoSpaceTemp.Present Value,BB VAV 01-02-06 ZoneTemp,BB_VAV_01_02_06_ZoneTemp,BB,VAV 01-02-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-7.nvoSpaceTemp.Present Value,BB VAV 01-02-07 ZoneTemp,BB_VAV_01_02_07_ZoneTemp,BB,VAV 01-02-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-8.nvoSpaceTemp.Present Value,BB VAV 01-02-08 ZoneTemp,BB_VAV_01_02_08_ZoneTemp,BB,VAV 01-02-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-9.nvoSpaceTemp.Present Value,BB VAV 01-02-09 ZoneTemp,BB_VAV_01_02_09_ZoneTemp,BB,VAV 01-02-09,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-10.nvoSpaceTemp.Present Value,BB VAV 01-02-10 ZoneTemp,BB_VAV_01_02_10_ZoneTemp,BB,VAV 01-02-10,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-11.nvoSpaceTemp.Present Value,BB VAV 01-02-11 ZoneTemp,BB_VAV_01_02_11_ZoneTemp,BB,VAV 01-02-11,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-12.nvoSpaceTemp.Present Value,BB VAV 01-02-12 ZoneTemp,BB_VAV_01_02_12_ZoneTemp,BB,VAV 01-02-12,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-13.nvoSpaceTemp.Present Value,BB VAV 01-02-13 ZoneTemp,BB_VAV_01_02_13_ZoneTemp,BB,VAV 01-02-13,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 1-2-14.nvoSpaceTemp.Present Value,BB VAV 01-02-14 ZoneTemp,BB_VAV_01_02_14_ZoneTemp,BB,VAV 01-02-14,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 1-3-1.nvoSpaceTemp.Present Value,BB VAV 01-03-01 ZoneTemp,BB_VAV_01_03_01_ZoneTemp,BB,VAV 01-03-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 1-3-2.nvoSpaceTemp.Present Value,BB VAV 01-03-02 ZoneTemp,BB_VAV_01_03_02_ZoneTemp,BB,VAV 01-03-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 1-3-3.nvoSpaceTemp.Present Value,BB VAV 01-03-03 ZoneTemp,BB_VAV_01_03_03_ZoneTemp,BB,VAV 01-03-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 1-3-4.nvoSpaceTemp.Present Value,BB VAV 01-03-04 ZoneTemp,BB_VAV_01_03_04_ZoneTemp,BB,VAV 01-03-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 1-3-5.nvoSpaceTemp.Present Value,BB VAV 01-03-05 ZoneTemp,BB_VAV_01_03_05_ZoneTemp,BB,VAV 01-03-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 1-4-1.nvoSpaceTemp.Present Value,BB VAV 01-04-01 ZoneTemp,BB_VAV_01_04_01_ZoneTemp,BB,VAV 01-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 1-4-2.nvoSpaceTemp.Present Value,BB VAV 01-04-02 ZoneTemp,BB_VAV_01_04_02_ZoneTemp,BB,VAV 01-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 1-4-3.nvoSpaceTemp.Present Value,BB VAV 01-04-03 ZoneTemp,BB_VAV_01_04_03_ZoneTemp,BB,VAV 01-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 1-4-4.nvoSpaceTemp.Present Value,BB VAV 01-04-04 ZoneTemp,BB_VAV_01_04_04_ZoneTemp,BB,VAV 01-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 1-4-5.nvoSpaceTemp.Present Value,BB VAV 01-04-05 ZoneTemp,BB_VAV_01_04_05_ZoneTemp,BB,VAV 01-04-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 1-5-1.nvoSpaceTemp.Present Value,BB VAV 01-05-01 ZoneTemp,BB_VAV_01_05_01_ZoneTemp,BB,VAV 01-05-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 1-5-2.nvoSpaceTemp.Present Value,BB VAV 01-05-02 ZoneTemp,BB_VAV_01_05_02_ZoneTemp,BB,VAV 01-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 1-5-3.nvoSpaceTemp.Present Value,BB VAV 01-05-03 ZoneTemp,BB_VAV_01_05_03_ZoneTemp,BB,VAV 01-05-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 1-5-4.nvoSpaceTemp.Present Value,BB VAV 01-05-04 ZoneTemp,BB_VAV_01_05_04_ZoneTemp,BB,VAV 01-05-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 1-5-5.nvoSpaceTemp.Present Value,BB VAV 01-05-05 ZoneTemp,BB_VAV_01_05_05_ZoneTemp,BB,VAV 01-05-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-1.nvoSpaceTemp.Present Value,BB VAV 01-06-01 ZoneTemp,BB_VAV_01_06_01_ZoneTemp,BB,VAV 01-06-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-2.nvoSpaceTemp.Present Value,BB VAV 01-06-02 ZoneTemp,BB_VAV_01_06_02_ZoneTemp,BB,VAV 01-06-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-3.nvoSpaceTemp.Present Value,BB VAV 01-06-03 ZoneTemp,BB_VAV_01_06_03_ZoneTemp,BB,VAV 01-06-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-4.nvoSpaceTemp.Present Value,BB VAV 01-06-04 ZoneTemp,BB_VAV_01_06_04_ZoneTemp,BB,VAV 01-06-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-5.nvoSpaceTemp.Present Value,BB VAV 01-06-05 ZoneTemp,BB_VAV_01_06_05_ZoneTemp,BB,VAV 01-06-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-6.nvoSpaceTemp.Present Value,BB VAV 01-06-06 ZoneTemp,BB_VAV_01_06_06_ZoneTemp,BB,VAV 01-06-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-7.nvoSpaceTemp.Present Value,BB VAV 01-06-07 ZoneTemp,BB_VAV_01_06_07_ZoneTemp,BB,VAV 01-06-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 1-6-8.nvoSpaceTemp.Present Value,BB VAV 01-06-08 ZoneTemp,BB_VAV_01_06_08_ZoneTemp,BB,VAV 01-06-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-1.nvoSpaceTemp.Present Value,BB VAV 02-02-01 ZoneTemp,BB_VAV_02_02_01_ZoneTemp,BB,VAV 02-02-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-2.nvoSpaceTemp.Present Value,BB VAV 02-02-02 ZoneTemp,BB_VAV_02_02_02_ZoneTemp,BB,VAV 02-02-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-3.nvoSpaceTemp.Present Value,BB VAV 02-02-03 ZoneTemp,BB_VAV_02_02_03_ZoneTemp,BB,VAV 02-02-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-4.nvoSpaceTemp.Present Value,BB VAV 02-02-04 ZoneTemp,BB_VAV_02_02_04_ZoneTemp,BB,VAV 02-02-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-5.nvoSpaceTemp.Present Value,BB VAV 02-02-05 ZoneTemp,BB_VAV_02_02_05_ZoneTemp,BB,VAV 02-02-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 2-2-6.nvoSpaceTemp.Present Value,BB VAV 02-02-06 ZoneTemp,BB_VAV_02_02_06_ZoneTemp,BB,VAV 02-02-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-1.nvoSpaceTemp.Present Value,BB VAV 02-03-01 ZoneTemp,BB_VAV_02_03_01_ZoneTemp,BB,VAV 02-03-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-2.nvoSpaceTemp.Present Value,BB VAV 02-03-02 ZoneTemp,BB_VAV_02_03_02_ZoneTemp,BB,VAV 02-03-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-3.nvoSpaceTemp.Present Value,BB VAV 02-03-03 ZoneTemp,BB_VAV_02_03_03_ZoneTemp,BB,VAV 02-03-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-4.nvoSpaceTemp.Present Value,BB VAV 02-03-04 ZoneTemp,BB_VAV_02_03_04_ZoneTemp,BB,VAV 02-03-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-5.nvoSpaceTemp.Present Value,BB VAV 02-03-05 ZoneTemp,BB_VAV_02_03_05_ZoneTemp,BB,VAV 02-03-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 2-3-6.nvoSpaceTemp.Present Value,BB VAV 02-03-06 ZoneTemp,BB_VAV_02_03_06_ZoneTemp,BB,VAV 02-03-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-1.nvoSpaceTemp.Present Value,BB VAV 02-04-01 ZoneTemp,BB_VAV_02_04_01_ZoneTemp,BB,VAV 02-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-2.nvoSpaceTemp.Present Value,BB VAV 02-04-02 ZoneTemp,BB_VAV_02_04_02_ZoneTemp,BB,VAV 02-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-3.nvoSpaceTemp.Present Value,BB VAV 02-04-03 ZoneTemp,BB_VAV_02_04_03_ZoneTemp,BB,VAV 02-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-4.nvoSpaceTemp.Present Value,BB VAV 02-04-04 ZoneTemp,BB_VAV_02_04_04_ZoneTemp,BB,VAV 02-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-5.nvoSpaceTemp.Present Value,BB VAV 02-04-05 ZoneTemp,BB_VAV_02_04_05_ZoneTemp,BB,VAV 02-04-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 2-4-6.nvoSpaceTemp.Present Value,BB VAV 02-04-06 ZoneTemp,BB_VAV_02_04_06_ZoneTemp,BB,VAV 02-04-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 2-5-2.nvoSpaceTemp.Present Value,BB VAV 02-05-02 ZoneTemp,BB_VAV_02_05_02_ZoneTemp,BB,VAV 02-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 2-5-3.nvoSpaceTemp.Present Value,BB VAV 02-05-03 ZoneTemp,BB_VAV_02_05_03_ZoneTemp,BB,VAV 02-05-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 2-5-4.nvoSpaceTemp.Present Value,BB VAV 02-05-04 ZoneTemp,BB_VAV_02_05_04_ZoneTemp,BB,VAV 02-05-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 2-5-5.nvoSpaceTemp.Present Value,BB VAV 02-05-05 ZoneTemp,BB_VAV_02_05_05_ZoneTemp,BB,VAV 02-05-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-1.nvoSpaceTemp.Present Value,BB VAV 02-06-01 ZoneTemp,BB_VAV_02_06_01_ZoneTemp,BB,VAV 02-06-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-2.nvoSpaceTemp.Present Value,BB VAV 02-06-02 ZoneTemp,BB_VAV_02_06_02_ZoneTemp,BB,VAV 02-06-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-3.nvoSpaceTemp.Present Value,BB VAV 02-06-03 ZoneTemp,BB_VAV_02_06_03_ZoneTemp,BB,VAV 02-06-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-4.nvoSpaceTemp.Present Value,BB VAV 02-06-04 ZoneTemp,BB_VAV_02_06_04_ZoneTemp,BB,VAV 02-06-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-5.nvoSpaceTemp.Present Value,BB VAV 02-06-05 ZoneTemp,BB_VAV_02_06_05_ZoneTemp,BB,VAV 02-06-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-6.nvoSpaceTemp.Present Value,BB VAV 02-06-06 ZoneTemp,BB_VAV_02_06_06_ZoneTemp,BB,VAV 02-06-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-7.nvoSpaceTemp.Present Value,BB VAV 02-06-07 ZoneTemp,BB_VAV_02_06_07_ZoneTemp,BB,VAV 02-06-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 2-6-8.nvoSpaceTemp.Present Value,BB VAV 02-06-08 ZoneTemp,BB_VAV_02_06_08_ZoneTemp,BB,VAV 02-06-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-1.nvoSpaceTemp.Present Value,BB VAV 03-02-01 ZoneTemp,BB_VAV_03_02_01_ZoneTemp,BB,VAV 03-02-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-2.nvoSpaceTemp.Present Value,BB VAV 03-02-02 ZoneTemp,BB_VAV_03_02_02_ZoneTemp,BB,VAV 03-02-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-3.nvoSpaceTemp.Present Value,BB VAV 03-02-03 ZoneTemp,BB_VAV_03_02_03_ZoneTemp,BB,VAV 03-02-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-4.nvoSpaceTemp.Present Value,BB VAV 03-02-04 ZoneTemp,BB_VAV_03_02_04_ZoneTemp,BB,VAV 03-02-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-5.nvoSpaceTemp.Present Value,BB VAV 03-02-05 ZoneTemp,BB_VAV_03_02_05_ZoneTemp,BB,VAV 03-02-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-6.nvoSpaceTemp.Present Value,BB VAV 03-02-06 ZoneTemp,BB_VAV_03_02_06_ZoneTemp,BB,VAV 03-02-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-7.nvoSpaceTemp.Present Value,BB VAV 03-02-07 ZoneTemp,BB_VAV_03_02_07_ZoneTemp,BB,VAV 03-02-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-8.nvoSpaceTemp.Present Value,BB VAV 03-02-08 ZoneTemp,BB_VAV_03_02_08_ZoneTemp,BB,VAV 03-02-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 2_1A.VAV EB1A 3-2-9.nvoSpaceTemp.Present Value,BB VAV 03-02-09 ZoneTemp,BB_VAV_03_02_09_ZoneTemp,BB,VAV 03-02-09,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 3-3-1.nvoSpaceTemp.Present Value,BB VAV 03-03-01 ZoneTemp,BB_VAV_03_03_01_ZoneTemp,BB,VAV 03-03-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 3-3-2.nvoSpaceTemp.Present Value,BB VAV 03-03-02 ZoneTemp,BB_VAV_03_03_02_ZoneTemp,BB,VAV 03-03-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 3-3-3.nvoSpaceTemp.Present Value,BB VAV 03-03-03 ZoneTemp,BB_VAV_03_03_03_ZoneTemp,BB,VAV 03-03-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 3-3-4.nvoSpaceTemp.Present Value,BB VAV 03-03-04 ZoneTemp,BB_VAV_03_03_04_ZoneTemp,BB,VAV 03-03-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 3-4-1.nvoSpaceTemp.Present Value,BB VAV 03-04-01 ZoneTemp,BB_VAV_03_04_01_ZoneTemp,BB,VAV 03-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 3-4-2.nvoSpaceTemp.Present Value,BB VAV 03-04-02 ZoneTemp,BB_VAV_03_04_02_ZoneTemp,BB,VAV 03-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 3-4-3.nvoSpaceTemp.Present Value,BB VAV 03-04-03 ZoneTemp,BB_VAV_03_04_03_ZoneTemp,BB,VAV 03-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 3-4-4.nvoSpaceTemp.Present Value,BB VAV 03-04-04 ZoneTemp,BB_VAV_03_04_04_ZoneTemp,BB,VAV 03-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 3-5-1.nvoSpaceTemp.Present Value,BB VAV 03-05-01 ZoneTemp,BB_VAV_03_05_01_ZoneTemp,BB,VAV 03-05-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 3-5-2.nvoSpaceTemp.Present Value,BB VAV 03-05-02 ZoneTemp,BB_VAV_03_05_02_ZoneTemp,BB,VAV 03-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 3-5-3.nvoSpaceTemp.Present Value,BB VAV 03-05-03 ZoneTemp,BB_VAV_03_05_03_ZoneTemp,BB,VAV 03-05-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 3-5-4.nvoSpaceTemp.Present Value,BB VAV 03-05-04 ZoneTemp,BB_VAV_03_05_04_ZoneTemp,BB,VAV 03-05-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-1.nvoSpaceTemp.Present Value,BB VAV 03-06-01 ZoneTemp,BB_VAV_03_06_01_ZoneTemp,BB,VAV 03-06-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-2.nvoSpaceTemp.Present Value,BB VAV 03-06-02 ZoneTemp,BB_VAV_03_06_02_ZoneTemp,BB,VAV 03-06-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-3.nvoSpaceTemp.Present Value,BB VAV 03-06-03 ZoneTemp,BB_VAV_03_06_03_ZoneTemp,BB,VAV 03-06-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-4.nvoSpaceTemp.Present Value,BB VAV 03-06-04 ZoneTemp,BB_VAV_03_06_04_ZoneTemp,BB,VAV 03-06-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-5.nvoSpaceTemp.Present Value,BB VAV 03-06-05 ZoneTemp,BB_VAV_03_06_05_ZoneTemp,BB,VAV 03-06-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 3-6-6.nvoSpaceTemp.Present Value,BB VAV 03-06-06 ZoneTemp,BB_VAV_03_06_06_ZoneTemp,BB,VAV 03-06-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-1.nvoSpaceTemp.Present Value,BB VAV 04-03-01 ZoneTemp,BB_VAV_04_03_01_ZoneTemp,BB,VAV 04-03-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-2.nvoSpaceTemp.Present Value,BB VAV 04-03-02 ZoneTemp,BB_VAV_04_03_02_ZoneTemp,BB,VAV 04-03-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-3.nvoSpaceTemp.Present Value,BB VAV 04-03-03 ZoneTemp,BB_VAV_04_03_03_ZoneTemp,BB,VAV 04-03-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-4.nvoSpaceTemp.Present Value,BB VAV 04-03-04 ZoneTemp,BB_VAV_04_03_04_ZoneTemp,BB,VAV 04-03-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-5.nvoSpaceTemp.Present Value,BB VAV 04-03-05 ZoneTemp,BB_VAV_04_03_05_ZoneTemp,BB,VAV 04-03-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 4-3-6.nvoSpaceTemp.Present Value,BB VAV 04-03-06 ZoneTemp,BB_VAV_04_03_06_ZoneTemp,BB,VAV 04-03-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-1.nvoSpaceTemp.Present Value,BB VAV 04-04-01 ZoneTemp,BB_VAV_04_04_01_ZoneTemp,BB,VAV 04-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-2.nvoSpaceTemp.Present Value,BB VAV 04-04-02 ZoneTemp,BB_VAV_04_04_02_ZoneTemp,BB,VAV 04-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-3.nvoSpaceTemp.Present Value,BB VAV 04-04-03 ZoneTemp,BB_VAV_04_04_03_ZoneTemp,BB,VAV 04-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-4.nvoSpaceTemp.Present Value,BB VAV 04-04-04 ZoneTemp,BB_VAV_04_04_04_ZoneTemp,BB,VAV 04-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-5.nvoSpaceTemp.Present Value,BB VAV 04-04-05 ZoneTemp,BB_VAV_04_04_05_ZoneTemp,BB,VAV 04-04-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 4-4-6.nvoSpaceTemp.Present Value,BB VAV 04-04-06 ZoneTemp,BB_VAV_04_04_06_ZoneTemp,BB,VAV 04-04-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-1.nvoSpaceTemp.Present Value,BB VAV 04-05-01 ZoneTemp,BB_VAV_04_05_01_ZoneTemp,BB,VAV 04-05-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-2.nvoSpaceTemp.Present Value,BB VAV 04-05-02 ZoneTemp,BB_VAV_04_05_02_ZoneTemp,BB,VAV 04-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-3.nvoSpaceTemp.Present Value,BB VAV 04-05-03 ZoneTemp,BB_VAV_04_05_03_ZoneTemp,BB,VAV 04-05-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-4.nvoSpaceTemp.Present Value,BB VAV 04-05-04 ZoneTemp,BB_VAV_04_05_04_ZoneTemp,BB,VAV 04-05-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-5.nvoSpaceTemp.Present Value,BB VAV 04-05-05 ZoneTemp,BB_VAV_04_05_05_ZoneTemp,BB,VAV 04-05-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-6.nvoSpaceTemp.Present Value,BB VAV 04-05-06 ZoneTemp,BB_VAV_04_05_06_ZoneTemp,BB,VAV 04-05-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 4-5-7.nvoSpaceTemp.Present Value,BB VAV 04-05-07 ZoneTemp,BB_VAV_04_05_07_ZoneTemp,BB,VAV 04-05-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-1.nvoSpaceTemp.Present Value,BB VAV 04-06-01 ZoneTemp,BB_VAV_04_06_01_ZoneTemp,BB,VAV 04-06-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-2.nvoSpaceTemp.Present Value,BB VAV 04-06-02 ZoneTemp,BB_VAV_04_06_02_ZoneTemp,BB,VAV 04-06-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-3.nvoSpaceTemp.Present Value,BB VAV 04-06-03 ZoneTemp,BB_VAV_04_06_03_ZoneTemp,BB,VAV 04-06-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-4.nvoSpaceTemp.Present Value,BB VAV 04-06-04 ZoneTemp,BB_VAV_04_06_04_ZoneTemp,BB,VAV 04-06-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-5.nvoSpaceTemp.Present Value,BB VAV 04-06-05 ZoneTemp,BB_VAV_04_06_05_ZoneTemp,BB,VAV 04-06-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-6.nvoSpaceTemp.Present Value,BB VAV 04-06-06 ZoneTemp,BB_VAV_04_06_06_ZoneTemp,BB,VAV 04-06-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-7.nvoSpaceTemp.Present Value,BB VAV 04-06-07 ZoneTemp,BB_VAV_04_06_07_ZoneTemp,BB,VAV 04-06-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 4-6-8.nvoSpaceTemp.Present Value,BB VAV 04-06-08 ZoneTemp,BB_VAV_04_06_08_ZoneTemp,BB,VAV 04-06-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 5-3-1.nvoSpaceTemp.Present Value,BC VAV 05-03-01 ZoneTemp,BC_VAV_05_03_01_ZoneTemp,BC,VAV 05-03-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 5-3-2.nvoSpaceTemp.Present Value,BC VAV 05-03-02 ZoneTemp,BC_VAV_05_03_02_ZoneTemp,BC,VAV 05-03-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 5-3-3.nvoSpaceTemp.Present Value,BC VAV 05-03-03 ZoneTemp,BC_VAV_05_03_03_ZoneTemp,BC,VAV 05-03-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 5-3-4.nvoSpaceTemp.Present Value,BC VAV 05-03-04 ZoneTemp,BC_VAV_05_03_04_ZoneTemp,BC,VAV 05-03-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 5-3-5.nvoSpaceTemp.Present Value,BC VAV 05-03-05 ZoneTemp,BC_VAV_05_03_05_ZoneTemp,BC,VAV 05-03-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-1.nvoSpaceTemp.Present Value,BC VAV 05-04-01 ZoneTemp,BC_VAV_05_04_01_ZoneTemp,BC,VAV 05-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-2.nvoSpaceTemp.Present Value,BC VAV 05-04-02 ZoneTemp,BC_VAV_05_04_02_ZoneTemp,BC,VAV 05-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-3.nvoSpaceTemp.Present Value,BC VAV 05-04-03 ZoneTemp,BC_VAV_05_04_03_ZoneTemp,BC,VAV 05-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-4.nvoSpaceTemp.Present Value,BC VAV 05-04-04 ZoneTemp,BC_VAV_05_04_04_ZoneTemp,BC,VAV 05-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-5.nvoSpaceTemp.Present Value,BC VAV 05-04-05 ZoneTemp,BC_VAV_05_04_05_ZoneTemp,BC,VAV 05-04-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-6.nvoSpaceTemp.Present Value,BC VAV 05-04-06 ZoneTemp,BC_VAV_05_04_06_ZoneTemp,BC,VAV 05-04-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 5-4-7.nvoSpaceTemp.Present Value,BC VAV 05-04-07 ZoneTemp,BC_VAV_05_04_07_ZoneTemp,BC,VAV 05-04-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-1.nvoSpaceTemp.Present Value,BC VAV 05-05-01 ZoneTemp,BC_VAV_05_05_01_ZoneTemp,BC,VAV 05-05-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-2.nvoSpaceTemp.Present Value,BC VAV 05-05-02 ZoneTemp,BC_VAV_05_05_02_ZoneTemp,BC,VAV 05-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-3.nvoSpaceTemp.Present Value,BC VAV 05-05-03 ZoneTemp,BC_VAV_05_05_03_ZoneTemp,BC,VAV 05-05-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-4.nvoSpaceTemp.Present Value,BC VAV 05-05-04 ZoneTemp,BC_VAV_05_05_04_ZoneTemp,BC,VAV 05-05-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-5.nvoSpaceTemp.Present Value,BC VAV 05-05-05 ZoneTemp,BC_VAV_05_05_05_ZoneTemp,BC,VAV 05-05-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-6.nvoSpaceTemp.Present Value,BC VAV 05-05-06 ZoneTemp,BC_VAV_05_05_06_ZoneTemp,BC,VAV 05-05-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 5-5-7.nvoSpaceTemp.Present Value,BC VAV 05-05-07 ZoneTemp,BC_VAV_05_05_07_ZoneTemp,BC,VAV 05-05-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-1.nvoSpaceTemp.Present Value,BC VAV 05-06-01 ZoneTemp,BC_VAV_05_06_01_ZoneTemp,BC,VAV 05-06-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-2.nvoSpaceTemp.Present Value,BC VAV 05-06-02 ZoneTemp,BC_VAV_05_06_02_ZoneTemp,BC,VAV 05-06-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-3.nvoSpaceTemp.Present Value,BC VAV 05-06-03 ZoneTemp,BC_VAV_05_06_03_ZoneTemp,BC,VAV 05-06-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-4.nvoSpaceTemp.Present Value,BC VAV 05-06-04 ZoneTemp,BC_VAV_05_06_04_ZoneTemp,BC,VAV 05-06-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-5.nvoSpaceTemp.Present Value,BC VAV 05-06-05 ZoneTemp,BC_VAV_05_06_05_ZoneTemp,BC,VAV 05-06-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-6.nvoSpaceTemp.Present Value,BC VAV 05-06-06 ZoneTemp,BC_VAV_05_06_06_ZoneTemp,BC,VAV 05-06-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-7.nvoSpaceTemp.Present Value,BC VAV 05-06-07 ZoneTemp,BC_VAV_05_06_07_ZoneTemp,BC,VAV 05-06-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-8.nvoSpaceTemp.Present Value,BC VAV 05-06-08 ZoneTemp,BC_VAV_05_06_08_ZoneTemp,BC,VAV 05-06-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 5-6-9.nvoSpaceTemp.Present Value,BC VAV 05-06-09 ZoneTemp,BC_VAV_05_06_09_ZoneTemp,BC,VAV 05-06-09,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-1.nvoSpaceTemp.Present Value,BC VAV 06-03-01 ZoneTemp,BC_VAV_06_03_01_ZoneTemp,BC,VAV 06-03-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-2.nvoSpaceTemp.Present Value,BC VAV 06-03-02 ZoneTemp,BC_VAV_06_03_02_ZoneTemp,BC,VAV 06-03-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-4.nvoSpaceTemp.Present Value,BC VAV 06-03-04 ZoneTemp,BC_VAV_06_03_04_ZoneTemp,BC,VAV 06-03-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-5.nvoSpaceTemp.Present Value,BC VAV 06-03-05 ZoneTemp,BC_VAV_06_03_05_ZoneTemp,BC,VAV 06-03-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-6.nvoSpaceTemp.Present Value,BC VAV 06-03-06 ZoneTemp,BC_VAV_06_03_06_ZoneTemp,BC,VAV 06-03-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 3.VAV EB1 6-3-7.nvoSpaceTemp.Present Value,BC VAV 06-03-07 ZoneTemp,BC_VAV_06_03_07_ZoneTemp,BC,VAV 06-03-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-1.nvoSpaceTemp.Present Value,BC VAV 06-04-01 ZoneTemp,BC_VAV_06_04_01_ZoneTemp,BC,VAV 06-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-2.nvoSpaceTemp.Present Value,BC VAV 06-04-02 ZoneTemp,BC_VAV_06_04_02_ZoneTemp,BC,VAV 06-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-3.nvoSpaceTemp.Present Value,BC VAV 06-04-03 ZoneTemp,BC_VAV_06_04_03_ZoneTemp,BC,VAV 06-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-4.nvoSpaceTemp.Present Value,BC VAV 06-04-04 ZoneTemp,BC_VAV_06_04_04_ZoneTemp,BC,VAV 06-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-5.nvoSpaceTemp.Present Value,BC VAV 06-04-05 ZoneTemp,BC_VAV_06_04_05_ZoneTemp,BC,VAV 06-04-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-6.nvoSpaceTemp.Present Value,BC VAV 06-04-06 ZoneTemp,BC_VAV_06_04_06_ZoneTemp,BC,VAV 06-04-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 6-4-7.nvoSpaceTemp.Present Value,BC VAV 06-04-07 ZoneTemp,BC_VAV_06_04_07_ZoneTemp,BC,VAV 06-04-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-1.nvoSpaceTemp.Present Value,BC VAV 06-05-01 ZoneTemp,BC_VAV_06_05_01_ZoneTemp,BC,VAV 06-05-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-2.nvoSpaceTemp.Present Value,BC VAV 06-05-02 ZoneTemp,BC_VAV_06_05_02_ZoneTemp,BC,VAV 06-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-3.nvoSpaceTemp.Present Value,BC VAV 06-05-03 ZoneTemp,BC_VAV_06_05_03_ZoneTemp,BC,VAV 06-05-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-4.nvoSpaceTemp.Present Value,BC VAV 06-05-04 ZoneTemp,BC_VAV_06_05_04_ZoneTemp,BC,VAV 06-05-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-5.nvoSpaceTemp.Present Value,BC VAV 06-05-05 ZoneTemp,BC_VAV_06_05_05_ZoneTemp,BC,VAV 06-05-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-6.nvoSpaceTemp.Present Value,BC VAV 06-05-06 ZoneTemp,BC_VAV_06_05_06_ZoneTemp,BC,VAV 06-05-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 6-5-7.nvoSpaceTemp.Present Value,BC VAV 06-05-07 ZoneTemp,BC_VAV_06_05_07_ZoneTemp,BC,VAV 06-05-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-1.nvoSpaceTemp.Present Value,BC VAV 06-06-01 ZoneTemp,BC_VAV_06_06_01_ZoneTemp,BC,VAV 06-06-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-2.nvoSpaceTemp.Present Value,BC VAV 06-06-02 ZoneTemp,BC_VAV_06_06_02_ZoneTemp,BC,VAV 06-06-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-3.nvoSpaceTemp.Present Value,BC VAV 06-06-03 ZoneTemp,BC_VAV_06_06_03_ZoneTemp,BC,VAV 06-06-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-4.nvoSpaceTemp.Present Value,BC VAV 06-06-04 ZoneTemp,BC_VAV_06_06_04_ZoneTemp,BC,VAV 06-06-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-5.nvoSpaceTemp.Present Value,BC VAV 06-06-05 ZoneTemp,BC_VAV_06_06_05_ZoneTemp,BC,VAV 06-06-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-6.nvoSpaceTemp.Present Value,BC VAV 06-06-06 ZoneTemp,BC_VAV_06_06_06_ZoneTemp,BC,VAV 06-06-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-7.nvoSpaceTemp.Present Value,BC VAV 06-06-07 ZoneTemp,BC_VAV_06_06_07_ZoneTemp,BC,VAV 06-06-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 6-6-8.nvoSpaceTemp.Present Value,BC VAV 06-06-08 ZoneTemp,BC_VAV_06_06_08_ZoneTemp,BC,VAV 06-06-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 1-1-1.nvoSpaceTemp.Present Value,BD VAV 01-01-01 ZoneTemp,BD_VAV_01_01_01_ZoneTemp,BD,VAV 01-01-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 1-1-2.nvoSpaceTemp.Present Value,BD VAV 01-01-02 ZoneTemp,BD_VAV_01_01_02_ZoneTemp,BD,VAV 01-01-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 1-1-3.nvoSpaceTemp.Present Value,BD VAV 01-01-03 ZoneTemp,BD_VAV_01_01_03_ZoneTemp,BD,VAV 01-01-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 2-1-1.nvoSpaceTemp.Present Value,BD VAV 02-01-01 ZoneTemp,BD_VAV_02_01_01_ZoneTemp,BD,VAV 02-01-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 2-1-2.nvoSpaceTemp.Present Value,BD VAV 02-01-02 ZoneTemp,BD_VAV_02_01_02_ZoneTemp,BD,VAV 02-01-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 3-1-1.nvoSpaceTemp.Present Value,BD VAV 03-01-01 ZoneTemp,BD_VAV_03_01_01_ZoneTemp,BD,VAV 03-01-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 1.VAV EB1F 3-1-2.nvoSpaceTemp.Present Value,BD VAV 03-01-02 ZoneTemp,BD_VAV_03_01_02_ZoneTemp,BD,VAV 03-01-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-1.nvoSpaceTemp.Present Value,BD VAV 04-02-01 ZoneTemp,BD_VAV_04_02_01_ZoneTemp,BD,VAV 04-02-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-2.nvoSpaceTemp.Present Value,BD VAV 04-02-02 ZoneTemp,BD_VAV_04_02_02_ZoneTemp,BD,VAV 04-02-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-3.nvoSpaceTemp.Present Value,BD VAV 04-02-03 ZoneTemp,BD_VAV_04_02_03_ZoneTemp,BD,VAV 04-02-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-4.nvoSpaceTemp.Present Value,BD VAV 04-02-04 ZoneTemp,BD_VAV_04_02_04_ZoneTemp,BD,VAV 04-02-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-5.nvoSpaceTemp.Present Value,BD VAV 04-02-05 ZoneTemp,BD_VAV_04_02_05_ZoneTemp,BD,VAV 04-02-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-6.nvoSpaceTemp.Present Value,BD VAV 04-02-06 ZoneTemp,BD_VAV_04_02_06_ZoneTemp,BD,VAV 04-02-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-7.nvoSpaceTemp.Present Value,BD VAV 04-02-07 ZoneTemp,BD_VAV_04_02_07_ZoneTemp,BD,VAV 04-02-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-8.nvoSpaceTemp.Present Value,BD VAV 04-02-08 ZoneTemp,BD_VAV_04_02_08_ZoneTemp,BD,VAV 04-02-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-9.nvoSpaceTemp.Present Value,BD VAV 04-02-09 ZoneTemp,BD_VAV_04_02_09_ZoneTemp,BD,VAV 04-02-09,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-10.nvoSpaceTemp.Present Value,BD VAV 04-02-10 ZoneTemp,BD_VAV_04_02_10_ZoneTemp,BD,VAV 04-02-10,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-11.nvoSpaceTemp.Present Value,BD VAV 04-02-11 ZoneTemp,BD_VAV_04_02_11_ZoneTemp,BD,VAV 04-02-11,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-12.nvoSpaceTemp.Present Value,BD VAV 04-02-12 ZoneTemp,BD_VAV_04_02_12_ZoneTemp,BD,VAV 04-02-12,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-13.nvoSpaceTemp.Present Value,BD VAV 04-02-13 ZoneTemp,BD_VAV_04_02_13_ZoneTemp,BD,VAV 04-02-13,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-14.nvoSpaceTemp.Present Value,BD VAV 04-02-14 ZoneTemp,BD_VAV_04_02_14_ZoneTemp,BD,VAV 04-02-14,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 2.VAV EB1A 4-2-15.nvoSpaceTemp.Present Value,BD VAV 04-02-15 ZoneTemp,BD_VAV_04_02_15_ZoneTemp,BD,VAV 04-02-15,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-1.nvoSpaceTemp.Present Value,BD VAV 07-03-01 ZoneTemp,BD_VAV_07_03_01_ZoneTemp,BD,VAV 07-03-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-2.nvoSpaceTemp.Present Value,BD VAV 07-03-02 ZoneTemp,BD_VAV_07_03_02_ZoneTemp,BD,VAV 07-03-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-3.nvoSpaceTemp.Present Value,BD VAV 07-03-03 ZoneTemp,BD_VAV_07_03_03_ZoneTemp,BD,VAV 07-03-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-4.nvoSpaceTemp.Present Value,BD VAV 07-03-04 ZoneTemp,BD_VAV_07_03_04_ZoneTemp,BD,VAV 07-03-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-5.nvoSpaceTemp.Present Value,BD VAV 07-03-05 ZoneTemp,BD_VAV_07_03_05_ZoneTemp,BD,VAV 07-03-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-6.nvoSpaceTemp.Present Value,BD VAV 07-03-06 ZoneTemp,BD_VAV_07_03_06_ZoneTemp,BD,VAV 07-03-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-7.nvoSpaceTemp.Present Value,BD VAV 07-03-07 ZoneTemp,BD_VAV_07_03_07_ZoneTemp,BD,VAV 07-03-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-8.nvoSpaceTemp.Present Value,BD VAV 07-03-08 ZoneTemp,BD_VAV_07_03_08_ZoneTemp,BD,VAV 07-03-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 7-3-9.nvoSpaceTemp.Present Value,BD VAV 07-03-09 ZoneTemp,BD_VAV_07_03_09_ZoneTemp,BD,VAV 07-03-09,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-1.nvoSpaceTemp.Present Value,BD VAV 07-04-01 ZoneTemp,BD_VAV_07_04_01_ZoneTemp,BD,VAV 07-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-2.nvoSpaceTemp.Present Value,BD VAV 07-04-02 ZoneTemp,BD_VAV_07_04_02_ZoneTemp,BD,VAV 07-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-3.nvoSpaceTemp.Present Value,BD VAV 07-04-03 ZoneTemp,BD_VAV_07_04_03_ZoneTemp,BD,VAV 07-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-4.nvoSpaceTemp.Present Value,BD VAV 07-04-04 ZoneTemp,BD_VAV_07_04_04_ZoneTemp,BD,VAV 07-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-5.nvoSpaceTemp.Present Value,BD VAV 07-04-05 ZoneTemp,BD_VAV_07_04_05_ZoneTemp,BD,VAV 07-04-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-6.nvoSpaceTemp.Present Value,BD VAV 07-04-06 ZoneTemp,BD_VAV_07_04_06_ZoneTemp,BD,VAV 07-04-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-7.nvoSpaceTemp.Present Value,BD VAV 07-04-07 ZoneTemp,BD_VAV_07_04_07_ZoneTemp,BD,VAV 07-04-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 7-4-8.nvoSpaceTemp.Present Value,BD VAV 07-04-08 ZoneTemp,BD_VAV_07_04_08_ZoneTemp,BD,VAV 07-04-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-1.nvoSpaceTemp.Present Value,BD VAV 07-05-01 ZoneTemp,BD_VAV_07_05_01_ZoneTemp,BD,VAV 07-05-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-2.nvoSpaceTemp.Present Value,BD VAV 07-05-02 ZoneTemp,BD_VAV_07_05_02_ZoneTemp,BD,VAV 07-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-3.nvoSpaceTemp.Present Value,BD VAV 07-05-03 ZoneTemp,BD_VAV_07_05_03_ZoneTemp,BD,VAV 07-05-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-4.nvoSpaceTemp.Present Value,BD VAV 07-05-04 ZoneTemp,BD_VAV_07_05_04_ZoneTemp,BD,VAV 07-05-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-5.nvoSpaceTemp.Present Value,BD VAV 07-05-05 ZoneTemp,BD_VAV_07_05_05_ZoneTemp,BD,VAV 07-05-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-6.nvoSpaceTemp.Present Value,BD VAV 07-05-06 ZoneTemp,BD_VAV_07_05_06_ZoneTemp,BD,VAV 07-05-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-7.nvoSpaceTemp.Present Value,BD VAV 07-05-07 ZoneTemp,BD_VAV_07_05_07_ZoneTemp,BD,VAV 07-05-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-8.nvoSpaceTemp.Present Value,BD VAV 07-05-08 ZoneTemp,BD_VAV_07_05_08_ZoneTemp,BD,VAV 07-05-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 7-5-9.nvoSpaceTemp.Present Value,BD VAV 07-05-09 ZoneTemp,BD_VAV_07_05_09_ZoneTemp,BD,VAV 07-05-09,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 7-6-1.nvoSpaceTemp.Present Value,BD VAV 07-06-01 ZoneTemp,BD_VAV_07_06_01_ZoneTemp,BD,VAV 07-06-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 8-3-1.nvoSpaceTemp.Present Value,BD VAV 08-03-01 ZoneTemp,BD_VAV_08_03_01_ZoneTemp,BD,VAV 08-03-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 8-3-2.nvoSpaceTemp.Present Value,BD VAV 08-03-02 ZoneTemp,BD_VAV_08_03_02_ZoneTemp,BD,VAV 08-03-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 8-3-3.nvoSpaceTemp.Present Value,BD VAV 08-03-03 ZoneTemp,BD_VAV_08_03_03_ZoneTemp,BD,VAV 08-03-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 8-3-4.nvoSpaceTemp.Present Value,BD VAV 08-03-04 ZoneTemp,BD_VAV_08_03_04_ZoneTemp,BD,VAV 08-03-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 8-4-1.nvoSpaceTemp.Present Value,BD VAV 08-04-01 ZoneTemp,BD_VAV_08_04_01_ZoneTemp,BD,VAV 08-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 8-4-2.nvoSpaceTemp.Present Value,BD VAV 08-04-02 ZoneTemp,BD_VAV_08_04_02_ZoneTemp,BD,VAV 08-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 8-4-3.nvoSpaceTemp.Present Value,BD VAV 08-04-03 ZoneTemp,BD_VAV_08_04_03_ZoneTemp,BD,VAV 08-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 8-4-4.nvoSpaceTemp.Present Value,BD VAV 08-04-04 ZoneTemp,BD_VAV_08_04_04_ZoneTemp,BD,VAV 08-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 8-5-1.nvoSpaceTemp.Present Value,BD VAV 08-05-01 ZoneTemp,BD_VAV_08_05_01_ZoneTemp,BD,VAV 08-05-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 8-5-2.nvoSpaceTemp.Present Value,BD VAV 08-05-02 ZoneTemp,BD_VAV_08_05_02_ZoneTemp,BD,VAV 08-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 8-5-3.nvoSpaceTemp.Present Value,BD VAV 08-05-03 ZoneTemp,BD_VAV_08_05_03_ZoneTemp,BD,VAV 08-05-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 8-5-4.nvoSpaceTemp.Present Value,BD VAV 08-05-04 ZoneTemp,BD_VAV_08_05_04_ZoneTemp,BD,VAV 08-05-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 8-6-1.nvoSpaceTemp.Present Value,BD VAV 08-06-01 ZoneTemp,BD_VAV_08_06_01_ZoneTemp,BD,VAV 08-06-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 8-6-2.nvoSpaceTemp.Present Value,BD VAV 08-06-02 ZoneTemp,BD_VAV_08_06_02_ZoneTemp,BD,VAV 08-06-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 8-6-3.nvoSpaceTemp.Present Value,BD VAV 08-06-03 ZoneTemp,BD_VAV_08_06_03_ZoneTemp,BD,VAV 08-06-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 8-6-4.nvoSpaceTemp.Present Value,BD VAV 08-06-04 ZoneTemp,BD_VAV_08_06_04_ZoneTemp,BD,VAV 08-06-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-1.nvoSpaceTemp.Present Value,BD VAV 09-03-01 ZoneTemp,BD_VAV_09_03_01_ZoneTemp,BD,VAV 09-03-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-2.nvoSpaceTemp.Present Value,BD VAV 09-03-02 ZoneTemp,BD_VAV_09_03_02_ZoneTemp,BD,VAV 09-03-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-3.nvoSpaceTemp.Present Value,BD VAV 09-03-03 ZoneTemp,BD_VAV_09_03_03_ZoneTemp,BD,VAV 09-03-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-4.nvoSpaceTemp.Present Value,BD VAV 09-03-04 ZoneTemp,BD_VAV_09_03_04_ZoneTemp,BD,VAV 09-03-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-5.nvoSpaceTemp.Present Value,BD VAV 09-03-05 ZoneTemp,BD_VAV_09_03_05_ZoneTemp,BD,VAV 09-03-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 3.VAV EB1 9-3-6.nvoSpaceTemp.Present Value,BD VAV 09-03-06 ZoneTemp,BD_VAV_09_03_06_ZoneTemp,BD,VAV 09-03-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-1.nvoSpaceTemp.Present Value,BD VAV 09-04-01 ZoneTemp,BD_VAV_09_04_01_ZoneTemp,BD,VAV 09-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-2.nvoSpaceTemp.Present Value,BD VAV 09-04-02 ZoneTemp,BD_VAV_09_04_02_ZoneTemp,BD,VAV 09-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-3.nvoSpaceTemp.Present Value,BD VAV 09-04-03 ZoneTemp,BD_VAV_09_04_03_ZoneTemp,BD,VAV 09-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-4.nvoSpaceTemp.Present Value,BD VAV 09-04-04 ZoneTemp,BD_VAV_09_04_04_ZoneTemp,BD,VAV 09-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-5.nvoSpaceTemp.Present Value,BD VAV 09-04-05 ZoneTemp,BD_VAV_09_04_05_ZoneTemp,BD,VAV 09-04-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 4.VAV EB1 9-4-6.nvoSpaceTemp.Present Value,BD VAV 09-04-06 ZoneTemp,BD_VAV_09_04_06_ZoneTemp,BD,VAV 09-04-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-1.nvoSpaceTemp.Present Value,BD VAV 09-05-01 ZoneTemp,BD_VAV_09_05_01_ZoneTemp,BD,VAV 09-05-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-2.nvoSpaceTemp.Present Value,BD VAV 09-05-02 ZoneTemp,BD_VAV_09_05_02_ZoneTemp,BD,VAV 09-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-3.nvoSpaceTemp.Present Value,BD VAV 09-05-03 ZoneTemp,BD_VAV_09_05_03_ZoneTemp,BD,VAV 09-05-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-4.nvoSpaceTemp.Present Value,BD VAV 09-05-04 ZoneTemp,BD_VAV_09_05_04_ZoneTemp,BD,VAV 09-05-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-5.nvoSpaceTemp.Present Value,BD VAV 09-05-05 ZoneTemp,BD_VAV_09_05_05_ZoneTemp,BD,VAV 09-05-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-4/LON Trunk1.VAV EB1A BLK.LEVEL 5.VAV EB1 9-5-6.nvoSpaceTemp.Present Value,BD VAV 09-05-06 ZoneTemp,BD_VAV_09_05_06_ZoneTemp,BD,VAV 09-05-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-1.nvoSpaceTemp.Present Value,BD VAV 09-06-01 ZoneTemp,BD_VAV_09_06_01_ZoneTemp,BD,VAV 09-06-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-2.nvoSpaceTemp.Present Value,BD VAV 09-06-02 ZoneTemp,BD_VAV_09_06_02_ZoneTemp,BD,VAV 09-06-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-3.nvoSpaceTemp.Present Value,BD VAV 09-06-03 ZoneTemp,BD_VAV_09_06_03_ZoneTemp,BD,VAV 09-06-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-4.nvoSpaceTemp.Present Value,BD VAV 09-06-04 ZoneTemp,BD_VAV_09_06_04_ZoneTemp,BD,VAV 09-06-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-5.nvoSpaceTemp.Present Value,BD VAV 09-06-05 ZoneTemp,BD_VAV_09_06_05_ZoneTemp,BD,VAV 09-06-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-3/LON Trunk.VAV EB1 BLK.LEVEL 6.VAV EB1 9-6-6.nvoSpaceTemp.Present Value,BD VAV 09-06-06 ZoneTemp,BD_VAV_09_06_06_ZoneTemp,BD,VAV 09-06-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 1.SH VAV 1-1-1.nvoSpaceTemp.Present Value,BH VAV 01-01-01 ZoneTemp,BH_VAV_01_01_01_ZoneTemp,BH,VAV 01-01-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 1-4-1.nvoSpaceTemp.Present Value,BH VAV 01-04-01 ZoneTemp,BH_VAV_01_04_01_ZoneTemp,BH,VAV 01-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 1-4-2.nvoSpaceTemp.Present Value,BH VAV 01-04-02 ZoneTemp,BH_VAV_01_04_02_ZoneTemp,BH,VAV 01-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 1-4-3.nvoSpaceTemp.Present Value,BH VAV 01-04-03 ZoneTemp,BH_VAV_01_04_03_ZoneTemp,BH,VAV 01-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 1-4-4.nvoSpaceTemp.Present Value,BH VAV 01-04-04 ZoneTemp,BH_VAV_01_04_04_ZoneTemp,BH,VAV 01-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 1-5-1.nvoSpaceTemp.Present Value,BH VAV 01-05-01 ZoneTemp,BH_VAV_01_05_01_ZoneTemp,BH,VAV 01-05-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 1-5-2.nvoSpaceTemp.Present Value,BH VAV 01-05-02 ZoneTemp,BH_VAV_01_05_02_ZoneTemp,BH,VAV 01-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 1-14-1.nvoSpaceTemp.Present Value,BH VAV 01-14-01 ZoneTemp,BH_VAV_01_14_01_ZoneTemp,BH,VAV 01-14-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 1-14-2.nvoSpaceTemp.Present Value,BH VAV 01-14-02 ZoneTemp,BH_VAV_01_14_02_ZoneTemp,BH,VAV 01-14-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 1.SH VAV 2-1-1.nvoSpaceTemp.Present Value,BH VAV 02-01-01 ZoneTemp,BH_VAV_02_01_01_ZoneTemp,BH,VAV 02-01-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 1.SH VAV 2-1-2.nvoSpaceTemp.Present Value,BH VAV 02-01-02 ZoneTemp,BH_VAV_02_01_02_ZoneTemp,BH,VAV 02-01-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 2-4-1.nvoSpaceTemp.Present Value,BH VAV 02-04-01 ZoneTemp,BH_VAV_02_04_01_ZoneTemp,BH,VAV 02-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 2-4-2.nvoSpaceTemp.Present Value,BH VAV 02-04-02 ZoneTemp,BH_VAV_02_04_02_ZoneTemp,BH,VAV 02-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 2-4-3.nvoSpaceTemp.Present Value,BH VAV 02-04-03 ZoneTemp,BH_VAV_02_04_03_ZoneTemp,BH,VAV 02-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 4.SH VAV 2-4-4.nvoSpaceTemp.Present Value,BH VAV 02-04-04 ZoneTemp,BH_VAV_02_04_04_ZoneTemp,BH,VAV 02-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 2-5-1.nvoSpaceTemp.Present Value,BH VAV 02-05-01 ZoneTemp,BH_VAV_02_05_01_ZoneTemp,BH,VAV 02-05-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 2-5-2.nvoSpaceTemp.Present Value,BH VAV 02-05-02 ZoneTemp,BH_VAV_02_05_02_ZoneTemp,BH,VAV 02-05-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 2-5-3.nvoSpaceTemp.Present Value,BH VAV 02-05-03 ZoneTemp,BH_VAV_02_05_03_ZoneTemp,BH,VAV 02-05-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 5.SH VAV 2-5-4.nvoSpaceTemp.Present Value,BH VAV 02-05-04 ZoneTemp,BH_VAV_02_05_04_ZoneTemp,BH,VAV 02-05-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 6.SH VAV 2-6-1.nvoSpaceTemp.Present Value,BH VAV 02-06-01 ZoneTemp,BH_VAV_02_06_01_ZoneTemp,BH,VAV 02-06-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 6.SH VAV 2-6-2.nvoSpaceTemp.Present Value,BH VAV 02-06-02 ZoneTemp,BH_VAV_02_06_02_ZoneTemp,BH,VAV 02-06-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 6.SH VAV 2-6-3.nvoSpaceTemp.Present Value,BH VAV 02-06-03 ZoneTemp,BH_VAV_02_06_03_ZoneTemp,BH,VAV 02-06-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 6.SH VAV 2-6-4.nvoSpaceTemp.Present Value,BH VAV 02-06-04 ZoneTemp,BH_VAV_02_06_04_ZoneTemp,BH,VAV 02-06-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 2-14-1.nvoSpaceTemp.Present Value,BH VAV 02-14-01 ZoneTemp,BH_VAV_02_14_01_ZoneTemp,BH,VAV 02-14-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 2-14-2.nvoSpaceTemp.Present Value,BH VAV 02-14-02 ZoneTemp,BH_VAV_02_14_02_ZoneTemp,BH,VAV 02-14-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 2-14-3.nvoSpaceTemp.Present Value,BH VAV 02-14-03 ZoneTemp,BH_VAV_02_14_03_ZoneTemp,BH,VAV 02-14-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-5/LON Trunk1.VAV SH BLK.LV 14.SH VAV 2-14-4.nvoSpaceTemp.Present Value,BH VAV 02-14-04 ZoneTemp,BH_VAV_02_14_04_ZoneTemp,BH,VAV 02-14-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-1.nvoSpaceTemp.Present Value,IB VAV 01-02-01 ZoneTemp,IB_VAV_01_02_01_ZoneTemp,IB,VAV 01-02-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-2.nvoSpaceTemp.Present Value,IB VAV 01-02-02 ZoneTemp,IB_VAV_01_02_02_ZoneTemp,IB,VAV 01-02-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-3.nvoSpaceTemp.Present Value,IB VAV 01-02-03 ZoneTemp,IB_VAV_01_02_03_ZoneTemp,IB,VAV 01-02-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-4.nvoSpaceTemp.Present Value,IB VAV 01-02-04 ZoneTemp,IB_VAV_01_02_04_ZoneTemp,IB,VAV 01-02-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-1.nvoSpaceTemp.Present Value,IB VAV 01-03-01 ZoneTemp,IB_VAV_01_03_01_ZoneTemp,IB,VAV 01-03-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-2.nvoSpaceTemp.Present Value,IB VAV 01-03-02 ZoneTemp,IB_VAV_01_03_02_ZoneTemp,IB,VAV 01-03-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-3.nvoSpaceTemp.Present Value,IB VAV 01-03-03 ZoneTemp,IB_VAV_01_03_03_ZoneTemp,IB,VAV 01-03-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-4.nvoSpaceTemp.Present Value,IB VAV 01-03-04 ZoneTemp,IB_VAV_01_03_04_ZoneTemp,IB,VAV 01-03-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-5.nvoSpaceTemp.Present Value,IB VAV 01-03-05 ZoneTemp,IB_VAV_01_03_05_ZoneTemp,IB,VAV 01-03-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-10.nvoSpaceTemp.Present Value,IB VAV 01-03-10 ZoneTemp,IB_VAV_01_03_10_ZoneTemp,IB,VAV 01-03-10,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-1.nvoSpaceTemp.Present Value,IB VAV 01-04-01 ZoneTemp,IB_VAV_01_04_01_ZoneTemp,IB,VAV 01-04-01,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-2.nvoSpaceTemp.Present Value,IB VAV 01-04-02 ZoneTemp,IB_VAV_01_04_02_ZoneTemp,IB,VAV 01-04-02,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-3.nvoSpaceTemp.Present Value,IB VAV 01-04-03 ZoneTemp,IB_VAV_01_04_03_ZoneTemp,IB,VAV 01-04-03,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-4.nvoSpaceTemp.Present Value,IB VAV 01-04-04 ZoneTemp,IB_VAV_01_04_04_ZoneTemp,IB,VAV 01-04-04,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-5.nvoSpaceTemp.Present Value,IB VAV 01-04-05 ZoneTemp,IB_VAV_01_04_05_ZoneTemp,IB,VAV 01-04-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-5.nvoSpaceTemp.Present Value,IB VAV 03-02-05 ZoneTemp,IB_VAV_03_02_05_ZoneTemp,IB,VAV 03-02-05,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-6.nvoSpaceTemp.Present Value,IB VAV 03-02-06 ZoneTemp,IB_VAV_03_02_06_ZoneTemp,IB,VAV 03-02-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-7.nvoSpaceTemp.Present Value,IB VAV 03-02-07 ZoneTemp,IB_VAV_03_02_07_ZoneTemp,IB,VAV 03-02-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 2.VAV-IB-2-8.nvoSpaceTemp.Present Value,IB VAV 03-02-08 ZoneTemp,IB_VAV_03_02_08_ZoneTemp,IB,VAV 03-02-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-6.nvoSpaceTemp.Present Value,IB VAV 03-03-06 ZoneTemp,IB_VAV_03_03_06_ZoneTemp,IB,VAV 03-03-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-7.nvoSpaceTemp.Present Value,IB VAV 03-03-07 ZoneTemp,IB_VAV_03_03_07_ZoneTemp,IB,VAV 03-03-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-8 (IB Classroom 3-8).nvoSpaceTemp.Present Value,IB VAV 03-03-08 ZoneTemp,IB_VAV_03_03_08_ZoneTemp,IB,VAV 03-03-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 3.VAV-IB-3-9.nvoSpaceTemp.Present Value,IB VAV 03-03-09 ZoneTemp,IB_VAV_03_03_09_ZoneTemp,IB,VAV 03-03-09,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-6.nvoSpaceTemp.Present Value,IB VAV 03-04-06 ZoneTemp,IB_VAV_03_04_06_ZoneTemp,IB,VAV 03-04-06,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-7.nvoSpaceTemp.Present Value,IB VAV 03-04-07 ZoneTemp,IB_VAV_03_04_07_ZoneTemp,IB,VAV 03-04-07,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-8.nvoSpaceTemp.Present Value,IB VAV 03-04-08 ZoneTemp,IB_VAV_03_04_08_ZoneTemp,IB,VAV 03-04-08,ZoneTemp,VAVZoneTemp,Analog
+PC100818B:NAE55-1/LON Trunk.INFANT BLK VAV.LEVEL 4.VAV-IB-4-9.nvoSpaceTemp.Present Value,IB VAV 03-04-09 ZoneTemp,IB_VAV_03_04_09_ZoneTemp,IB,VAV 03-04-09,ZoneTemp,VAVZoneTemp,Analog
