@@ -3,11 +3,7 @@
 ###by: [Clayton Miller](https://www.researchgate.net/profile/Clayton_Miller2) - Nov, 28 2014
 ###Part of a series of Commercial Open Building Datasets on [datadrivenbuilding.org](http://datadrivenbuilding.org/)
 
-This IPython notebook will open and explore data collected from the United World College of Southeast Asia Tampines Campus. The goal of this notebook is to explore and visualize some of the data with the annotation capable in a notebook.
-
-This dataset is downloadable [here](https://www.dropbox.com/s/30nkwi671ad6lpe/RawData.zip?dl=0) and is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/). 
-
-This notebook will open and explore an open temporal dataset from the building management and energy management system of <a href="https://www.uwcsea.edu.sg/east-campus" target="_blank">United World College of South East Asia Tampines Campus in Singapore</a>. 
+This IPython notebook will open and explore data collected from the United World College of Southeast Asia Tampines Campus. The goal of this notebook is to explore and visualize some of the data with the annotation capable in a notebook. This notebook will open and explore an open temporal dataset from the building management and energy management system of <a href="https://www.uwcsea.edu.sg/east-campus" target="_blank">United World College of South East Asia Tampines Campus in Singapore</a>. 
 
 <b>A detailed account of this sample dataset can be found in <a href="https://www.researchgate.net/publication/263547828_A_seed_dataset_for_a_public_temporal_data_repository_for_energy_informatics_research_on_commercial_building_performance" target="_blank">a poster publication</a> at the 3rd Conf. on Future Energy Business & Energy Informatics in Rotterdam, Netherlands in June 2014.</b>
 
@@ -16,8 +12,6 @@ This dataset is downloadable <a href="https://www.dropbox.com/s/30nkwi671ad6lpe/
 The goal of this notebook is to introduce a dataset of 2 years worth of time series measurements from an international school campus in Singapore. This data is part of a research project focused on utilizing data analytics to reduce the energy impact of buildings. Data analysis is meant to distill the various raw data sources sometimes found in building controls and energy management systems.
 
 <b><a href="http://nbviewer.ipython.org/github/cmiller8/United-World-College-Open-Data/blob/master/UWC%20Sample%20Dataset%20Overview.ipynb" target="_blank">Click here to view the whole hosted notebook</b>
-
-Click <a href="https://github.com/cmiller8/United-World-College-Open-Data" target="_blank">here</a> to view the github repository and supporting files and <a href="https://github.com/cmiller8/United-World-College-Open-Data/archive/master.zip" target="_blank">here</a> to download them directly as a zip.
 
 </a>
 The building that will be focused on in this study is the United World College Campus in Singapore. It is a 70,000 sq.meter International School in which construction was completed in June 2011 and students first utilized the facility in September of that year. It is a certified Greemark Platinum building which means it is at the top of building ratings in terms of energy efficiency and sustainability.
