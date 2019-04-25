@@ -1,7 +1,7 @@
-#United World College of Southeast Asia - Open Campus Dataset
+# United World College of Southeast Asia - Open Campus Dataset
 
-###by: [Clayton Miller](https://www.researchgate.net/profile/Clayton_Miller2)
-###Part of a series of Commercial Open Building Datasets on [datadrivenbuilding.org](http://datadrivenbuilding.org/)
+### by: [Clayton Miller](https://www.researchgate.net/profile/Clayton_Miller2)
+### Part of a series of Commercial Open Building Datasets on [datadrivenbuilding.org](http://datadrivenbuilding.org/)
 
 This IPython notebook will open and explore data collected from the United World College of Southeast Asia Tampines Campus. The goal of this notebook is to explore and visualize some of the data with the annotation capable in a notebook. This notebook will open and explore an open temporal dataset from the building management and energy management system of <a href="https://www.uwcsea.edu.sg/east-campus" target="_blank">United World College of South East Asia Tampines Campus in Singapore</a>. 
 
